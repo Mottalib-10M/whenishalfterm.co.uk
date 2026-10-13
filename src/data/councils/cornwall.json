@@ -1,0 +1,71 @@
+{
+  "slug": "cornwall",
+  "name": "Cornwall",
+  "officialName": "Cornwall Council",
+  "nation": "england",
+  "region": "South West",
+  "type": "unitary",
+  "appliesTo": "On this page you can find the term dates for Community and Voluntary-Controlled schools in Cornwall.",
+  "academyNote": "Foundation, Trust, Voluntary Aided schools and Academies are able to set their own term dates. However, these dates are recommended to all schools to promote consistency across the county.",
+  "localFacts": [
+    {"fact": "Cornwall publishes the number of days in each term: 72 in the autumn, 54 in the spring and 69 in the summer of 2026-27, a total of 195.", "source": "https://www.cornwall.gov.uk/termdates"},
+    {"fact": "Maintained schools may take five INSET days during each academic year, and parents are asked to contact their school for how these are distributed.", "source": "https://www.cornwall.gov.uk/termdates"},
+    {"fact": "The council publishes each year's term dates as a PDF and as an iCalendar (ics) file that works with most phones and calendar apps.", "source": "https://www.cornwall.gov.uk/termdates"},
+    {"fact": "In 2027-28 the autumn term runs to Wednesday 22 December 2027 and the spring term starts on Thursday 6 January 2028.", "source": "https://www.cornwall.gov.uk/termdates"},
+    {"fact": "Cornwall's summer term ends on Friday 23 July 2027 and Friday 21 July 2028.", "source": "https://www.cornwall.gov.uk/termdates"},
+    {"fact": "The council has a dedicated term dates contact, termdates@cornwall.gov.uk, and phone line 01872 324295.", "source": "https://www.cornwall.gov.uk/termdates"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.cornwall.gov.uk/termdates", "pageUrl": "https://www.cornwall.gov.uk/schools-and-education/schools-and-colleges/school-term-dates-and-inset-days/", "via": "direct", "fetchedUrl": "https://www.cornwall.gov.uk/termdates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-03", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-23", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-26", "end": "2027-09-01"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Maintained schools are permitted to take five INSET days during each academic year. Please contact your child's school for their distribution of INSET days.",
+      "statedDays": 195,
+      "notes": "Term dates for Community and Voluntary-Controlled schools: autumn 72 days, spring 54 days, summer 69 days."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.cornwall.gov.uk/termdates", "pageUrl": "https://www.cornwall.gov.uk/schools-and-education/schools-and-colleges/school-term-dates-and-inset-days/", "via": "direct", "fetchedUrl": "https://www.cornwall.gov.uk/termdates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-09-02", "end": "2027-10-22", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-22", "label": "Autumn term (second half)"},
+        {"start": "2028-01-06", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-23", "end": "2028-01-05"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Five INSET days per year, distributed by each school.",
+      "statedDays": 195,
+      "notes": "Term dates for Community and Voluntary-Controlled schools: autumn 75 days, spring 57 days, summer 63 days."
+    }
+  }
+}

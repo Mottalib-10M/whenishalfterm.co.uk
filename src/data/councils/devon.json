@@ -1,0 +1,71 @@
+{
+  "slug": "devon",
+  "name": "Devon",
+  "officialName": "Devon County Council",
+  "nation": "england",
+  "region": "South West",
+  "type": "county",
+  "appliesTo": "Like all local authorities, Devon County Council has a duty to set the term dates for community and voluntary controlled schools in their area. We recommend these dates for adoption by governors of foundation, voluntary aided, trust maintained, academies and free schools.",
+  "academyNote": "Academies and free schools are not bound by the 1999 Regulations but are encouraged to provide the same number of education days in each year. Term dates and holidays for individual establishments may vary, so check your own school's arrangements.",
+  "localFacts": [
+    {"fact": "Devon's recommended calendar has 197 school days: schools then set two occasional holiday days and five staff training days from these, leaving 190 teaching days.", "source": "https://www.devon.gov.uk/support-schools-settings/administration-and-finance/administration/term-dates/"},
+    {"fact": "The dates are set after consulting all Devon maintained schools and union representatives, and after discussion with neighbouring authorities to promote consistency across the South West where possible.", "source": "https://www.devon.gov.uk/children-families-education/education/school-term-dates/"},
+    {"fact": "The council recommends that schools place their occasional days so as to avoid split week holidays, but says this is the responsibility of school governors.", "source": "https://www.devon.gov.uk/support-schools-settings/administration-and-finance/administration/term-dates/"},
+    {"fact": "The summer term runs late in July: it ends on Tuesday 27 July 2027 and Tuesday 25 July 2028.", "source": "https://www.devon.gov.uk/support-schools-settings/administration-and-finance/administration/term-dates/"},
+    {"fact": "Schools tell the council their non-pupil days and opening times after the core dates are published, and must publish their own term dates and school times on their website.", "source": "https://www.devon.gov.uk/support-schools-settings/administration-and-finance/administration/term-dates/"},
+    {"fact": "The council offers schools a spreadsheet to mark their term dates, with one tab per academic year.", "source": "https://www.devon.gov.uk/support-schools-settings/administration-and-finance/administration/term-dates/"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.devon.gov.uk/support-schools-settings/administration-and-finance/administration/term-dates/", "pageUrl": "https://www.devon.gov.uk/children-families-education/education/school-term-dates/", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/20260511094736id_/https://www.devon.gov.uk/support-schools-settings/administration-and-finance/administration/term-dates/", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-03", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-27", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-28", "end": "2027-09-01"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The 197 recommended days include two occasional days and five staff training days that each school sets itself, so pupils attend 190 days.",
+      "statedDays": 197,
+      "notes": "Determined term dates recommended by Devon County Council. Term starts on Thursday 3 September 2026 and ends on Tuesday 27 July 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.devon.gov.uk/support-schools-settings/administration-and-finance/administration/term-dates/", "pageUrl": "https://www.devon.gov.uk/children-families-education/education/school-term-dates/", "via": "direct", "fetchedUrl": "https://www.devon.gov.uk/support-schools-settings/administration-and-finance/administration/term-dates/", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-09-02", "end": "2027-10-22", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-22", "label": "Autumn term (second half)"},
+        {"start": "2028-01-06", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-25", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-23", "end": "2028-01-05"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Same rule: schools set two occasional days and five staff training days from the 197 recommended days.",
+      "statedDays": 197,
+      "notes": "Recommended term dates for 2027/28. The autumn term ends on Wednesday 22 December 2027 and the spring term starts on Thursday 6 January 2028. The Easter holiday includes Easter Monday 17 April 2028."
+    }
+  }
+}

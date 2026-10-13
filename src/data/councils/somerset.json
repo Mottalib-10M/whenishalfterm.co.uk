@@ -1,0 +1,72 @@
+{
+  "slug": "somerset",
+  "name": "Somerset",
+  "officialName": "Somerset Council",
+  "nation": "england",
+  "region": "South West",
+  "type": "unitary",
+  "appliesTo": "These dates are for Community and Voluntary Controlled schools.",
+  "academyNote": "Other types of schools – such as Academies, Voluntary Aided, Foundation and Free Schools can set their own term dates and holidays, but most use the same dates as us.",
+  "localFacts": [
+    {"fact": "Somerset numbers its year in six terms and gives the number of days in each: 37, 35, 30, 24, 34 and 35 in 2026-27, a total of 195.", "source": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/"},
+    {"fact": "Each year has 195 days in the calendar: pupils attend 190 and the remaining five are INSET days that each school chooses and must tell parents and staff about.", "source": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/"},
+    {"fact": "The council says most academies, voluntary aided, foundation and free schools use the same dates as the council.", "source": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/"},
+    {"fact": "In 2027-28 the year starts on Wednesday 1 September 2027, and the Christmas holiday starts on Saturday 18 December 2027.", "source": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/"},
+    {"fact": "The 2027-28 table lists term 6 as '5 June – 21 July 2027', a typing slip for 2028, as the holiday that follows runs from 24 July to 31 August 2028.", "source": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/"},
+    {"fact": "Each year's calendar is also offered as a PDF and Word version with an INSET box for schools to fill in.", "source": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/", "pageUrl": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/20261006215253id_/https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-03", "end": "2026-10-23", "label": "Term 1"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Term 2"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Term 3"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Term 4"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Term 5"},
+        {"start": "2027-06-07", "end": "2027-07-23", "label": "Term 6"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-26", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The remaining 5 days are INSET days, which schools can choose to suit their needs. Each school is responsible for notifying parents and staff which dates they have chosen.",
+      "statedDays": 195,
+      "notes": "Six terms of 37, 35, 30, 24, 34 and 35 days. The page lists holiday 1 as '23 October – 1 November', although term 1 ends on 23 October; pupils are off from 26 to 30 October."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/", "pageUrl": "https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/20261006215253id_/https://www.somerset.gov.uk/children-families-and-education/school-life/school-term-dates-and-holidays/", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-22", "label": "Term 1"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Term 2"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Term 3"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Term 4"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Term 5"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Term 6"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"},
+        {"name": "Summer holidays", "start": "2028-07-24", "end": "2028-08-31"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Five INSET days chosen by each school within the 195 days.",
+      "statedDays": 195,
+      "notes": "Six terms of 38, 35, 29, 30, 28 and 35 days. Term 6 is printed as '5 June – 21 July 2027' on the page; read as 2028."
+    }
+  }
+}

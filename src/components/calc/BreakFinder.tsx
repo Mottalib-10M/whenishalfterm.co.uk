@@ -40,7 +40,7 @@ export default function BreakFinder({ initial, names, breakKey, year, secondary 
             <p className="text-navy-800">{council.name} has not published its {y} dates yet. The 2026-27 calendar is in the other year.</p>
           ) : b ? (
             <>
-              <p className="text-sm text-navy-700">{label} {y} · {council.name}</p>
+              <p className="text-sm text-navy-700">{council.nation === 'scotland' || council.nation === 'northern-ireland' ? b.name : label} {y} · {council.name}</p>
               <p className="mt-1 font-serif text-2xl font-bold text-accent-500 sm:text-[1.9rem]">{rangeText(b.start, b.end)}</p>
               <p className="mt-1 text-navy-800">{b.name} · {weekdaysIn(b.start, b.end)} weekdays off{back ? <> · back on {longDate(back)}</> : null}</p>
               {away !== null && away > 0 && <p className="mt-1 text-navy-800"><span className="font-semibold tabular-nums">{away.toLocaleString('en-GB')}</span> days from today, <span className="tabular-nums">{schoolDays(council, today, addDays(b.start, -1)).toLocaleString('en-GB')}</span> school days to go</p>}

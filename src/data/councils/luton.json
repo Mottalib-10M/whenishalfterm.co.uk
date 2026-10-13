@@ -1,0 +1,71 @@
+{
+  "slug": "luton",
+  "name": "Luton",
+  "officialName": "Luton Borough Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "unitary",
+  "appliesTo": "These term dates have been agreed on for community schools only.",
+  "academyNote": "The governing bodies of voluntary aided schools, foundation schools, free schools and academies are responsible for setting their term dates. Therefore, you should check the dates with your child's school.",
+  "localFacts": [
+    {"fact": "Luton Borough Council's term dates apply to community schools only; voluntary aided, foundation and free schools and academies set their own.", "source": "https://www.luton.gov.uk/schools-education/schools-colleges/school-terms-holidays"},
+    {"fact": "Community schools have scheduled training days in addition to those identified on the calendar, so the council recommends checking dates with your child's school.", "source": "https://www.luton.gov.uk/schools-education/schools-colleges/school-terms-holidays"},
+    {"fact": "Luton publishes its term dates by calendar year on the web, with a separate academic calendar PDF for community schools for each school year.", "source": "https://www.luton.gov.uk/schools-education/schools-colleges/school-terms-holidays/spring-2027-school-term-dates"},
+    {"fact": "The 2026-27 academic calendar was approved by the council's Executive on 2 June 2025.", "source": "https://www.luton.gov.uk/sites/default/files/2026-08/school-term-holiday-and-other-closure-dates-2026-to-2027.pdf"},
+    {"fact": "The 2027-28 academic calendar was approved by the council's Executive on 20 July 2026.", "source": "https://www.luton.gov.uk/sites/default/files/2026-08/school-term-holiday-and-other-closure-dates-2027-to-2028.pdf"},
+    {"fact": "The council's summer holiday for 2027 runs from Thursday 22 July to Tuesday 31 August 2027.", "source": "https://www.luton.gov.uk/schools-education/schools-colleges/school-terms-holidays/spring-2027-school-term-dates"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.luton.gov.uk/schools-education/schools-colleges/school-terms-holidays/spring-2027-school-term-dates", "pageUrl": "https://www.luton.gov.uk/schools-education/schools-colleges/school-terms-holidays", "via": "direct", "fetchedUrl": "https://www.luton.gov.uk/schools-education/schools-colleges/school-terms-holidays/spring-2027-school-term-dates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "These schools will all have scheduled training days in addition to those identified on the calendar, so we'd always recommend checking the dates with your child's school.",
+      "statedDays": null,
+      "notes": "Autumn 2026 dates are on the 2026 page, spring and summer 2027 on the 2027 page."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.luton.gov.uk/sites/default/files/2026-08/school-term-holiday-and-other-closure-dates-2027-to-2028.pdf", "pageUrl": "https://www.luton.gov.uk/schools-education/schools-colleges/school-terms-holidays/spring-2027-school-term-dates", "via": "direct", "fetchedUrl": "https://www.luton.gov.uk/sites/default/files/2026-08/school-term-holiday-and-other-closure-dates-2027-to-2028.pdf", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-22", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Autumn term (second half)"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Not stated on the 2027-28 calendar; the council's web page says community schools schedule training days in addition to the calendar.",
+      "statedDays": null,
+      "notes": "Read from the colour-coded academic calendar PDF (grey school holidays, black bank holidays), approved by the Executive on 20 July 2026. Summer holidays shaded from Monday 24 July 2028."
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "wokingham",
+  "name": "Wokingham",
+  "officialName": "Wokingham Borough Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "unitary",
+  "appliesTo": "School term and holiday dates for community and voluntary controlled schools.",
+  "academyNote": "Academy, free and voluntary aided schools can set their own term dates, so please check with your school.",
+  "localFacts": [
+    {"fact": "Wokingham numbers its year in six terms (Term 1 to Term 6) and gives the number of days in each.", "source": "https://www.wokingham.gov.uk/sites/wokingham/files/2025-03/School%20term%20dates%20calendar%202026%20to%202027.pdf"},
+    {"fact": "Of the five INSET days, the council sets one as the first day of Term 1 (Tuesday 1 September 2026); the other four are set by each school within the 195 days and communicated to parents.", "source": "https://www.wokingham.gov.uk/sites/wokingham/files/2025-03/School%20term%20dates%20calendar%202026%20to%202027.pdf"},
+    {"fact": "In 2027-28 the council's INSET day is Thursday 2 September 2027 and pupils start on Friday 3 September.", "source": "https://www.wokingham.gov.uk/sites/wokingham/files/2026-09/School-term-dates-calendar-2027-to-2028.pdf"},
+    {"fact": "In 2027-28 Term 4 runs to Friday 7 April 2028 and the spring holiday is Monday 10 to Friday 21 April 2028, so the summer term starts on Monday 24 April, a week after Easter Monday.", "source": "https://www.wokingham.gov.uk/sites/wokingham/files/2026-09/School-term-dates-calendar-2027-to-2028.pdf"},
+    {"fact": "The 2027-28 PDF text names Wednesday 1 September 2027 as the first day of Term 1, but its calendar shades 1 September as a school holiday and 2 September as the INSET day.", "source": "https://www.wokingham.gov.uk/sites/wokingham/files/2026-09/School-term-dates-calendar-2027-to-2028.pdf"},
+    {"fact": "Teacher Training Days (INSET) are specified by the headteacher and governors of each school.", "source": "https://www.wokingham.gov.uk/schools-and-education/school-information-and-services/schools-and-education/school-information-and-services/school-term-dates-and-school-holidays"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.wokingham.gov.uk/sites/wokingham/files/2025-03/School%20term%20dates%20calendar%202026%20to%202027.pdf", "pageUrl": "https://www.wokingham.gov.uk/schools-and-education/school-information-and-services/schools-and-education/school-information-and-services/school-term-dates-and-school-holidays", "via": "direct", "fetchedUrl": "https://www.wokingham.gov.uk/sites/wokingham/files/2025-03/School%20term%20dates%20calendar%202026%20to%202027.pdf", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Term 1"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Term 2"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Term 3"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Term 4"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Term 5"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Term 6"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-09-01"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [{"date": "2026-09-01", "label": "INSET day (set by the LA)"}],
+      "insetMode": "partly-fixed",
+      "insetNote": "There are five Inset (Teacher Training) Days. One of these, set by the LA, will be the first day of Term 1 (Tuesday 1st September 2026). The remaining four days must be taken within the 195 days given here and will be set by the school.",
+      "statedDays": 195,
+      "notes": "Term day counts: 39, 35, 30, 24, 34 and 33 days. The council calls the Easter break the Spring holiday."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.wokingham.gov.uk/sites/wokingham/files/2026-09/School-term-dates-calendar-2027-to-2028.pdf", "pageUrl": "https://www.wokingham.gov.uk/schools-and-education/school-information-and-services/schools-and-education/school-information-and-services/school-term-dates-and-school-holidays", "via": "direct", "fetchedUrl": "https://www.wokingham.gov.uk/sites/wokingham/files/2026-09/School-term-dates-calendar-2027-to-2028.pdf", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2027-09-02", "end": "2027-10-22", "label": "Term 1"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Term 2"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Term 3"},
+        {"start": "2028-02-21", "end": "2028-04-07", "label": "Term 4"},
+        {"start": "2028-04-24", "end": "2028-05-26", "label": "Term 5"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Term 6"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-10", "end": "2028-04-21"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [{"date": "2027-09-02", "label": "INSET day (set by the LA)"}],
+      "insetMode": "partly-fixed",
+      "insetNote": "One INSET day set by the LA on the first day of Term 1 (Thursday 2 September 2027 per the term table and calendar; the note says Wednesday 1st); the other four are set by each school within the 195 days.",
+      "statedDays": 195,
+      "notes": "Term day counts: 37, 35, 29, 35, 24 and 35 days (195). Late Easter: Spring holiday Monday 10 to Friday 21 April 2028, summer term from Monday 24 April. Pupils start Friday 3 September 2027."
+    }
+  }
+}

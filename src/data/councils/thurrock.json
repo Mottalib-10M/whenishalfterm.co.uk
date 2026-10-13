@@ -1,0 +1,71 @@
+{
+  "slug": "thurrock",
+  "name": "Thurrock",
+  "officialName": "Thurrock Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "unitary",
+  "appliesTo": "Thurrock Council School Term and Holiday Dates for Community and Voluntary Controlled Schools.",
+  "academyNote": "Dates may vary for individual schools, especially academies, foundation and voluntary-aided schools. You should check with your child's school before making holiday plans or other commitments.",
+  "localFacts": [
+    {"fact": "Thurrock Council's term dates apply to community and voluntary controlled schools.", "source": "https://www.thurrock.gov.uk/sites/default/files/assets/documents/thurrock_school_term_dates_holiday_dates_2026-2027.pdf"},
+    {"fact": "Schools allocate five non-pupil days out of the school days shown, or the equivalent in disaggregated twilight sessions.", "source": "https://www.thurrock.gov.uk/sites/default/files/assets/documents/thurrock_school_term_dates_holiday_dates_2026-2027.pdf"},
+    {"fact": "The 2026-27 calendar counts 74 days in autumn, 54 in spring and 67 in summer, a total of 195 days.", "source": "https://www.thurrock.gov.uk/sites/default/files/assets/documents/thurrock_school_term_dates_holiday_dates_2026-2027.pdf"},
+    {"fact": "The 2027-28 calendar counts 73 days in autumn, 59 in spring and 63 in summer, again 195 days.", "source": "https://www.thurrock.gov.uk/sites/default/files/2026-07/Thurrock%20LA%20School%20Term%20Dates%202027-2028.pdf"},
+    {"fact": "Thurrock's calendar pages list the early May bank holiday as a no-school day inside the summer term (Monday 3 May 2027 and Monday 1 May 2028).", "source": "https://www.thurrock.gov.uk/school-calendars/school-calendar-202728"},
+    {"fact": "The 2027-28 page gives the Christmas holiday as Monday 20 December 2027 to Tuesday 4 January, with Monday 3 January a bank holiday; the spring term starts on Tuesday 4 January 2028.", "source": "https://www.thurrock.gov.uk/school-calendars/school-calendar-202728"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.thurrock.gov.uk/sites/default/files/assets/documents/thurrock_school_term_dates_holiday_dates_2026-2027.pdf", "pageUrl": "https://www.thurrock.gov.uk/school-calendars/school-calendar-202627", "via": "direct", "fetchedUrl": "https://www.thurrock.gov.uk/sites/default/files/assets/documents/thurrock_school_term_dates_holiday_dates_2026-2027.pdf", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "In addition, schools allocate five non-pupil days out of the school days indicated, or the equivalent in disaggregated twilight sessions.",
+      "statedDays": 195,
+      "notes": "Autumn 74 days, spring 54 days, summer 67 days (195). The web page labels every break 'half-term holiday', including Christmas and Easter."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.thurrock.gov.uk/sites/default/files/2026-07/Thurrock%20LA%20School%20Term%20Dates%202027-2028.pdf", "pageUrl": "https://www.thurrock.gov.uk/school-calendars/school-calendar-202728", "via": "direct", "fetchedUrl": "https://www.thurrock.gov.uk/sites/default/files/2026-07/Thurrock%20LA%20School%20Term%20Dates%202027-2028.pdf", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-22", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Autumn term (second half)"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools allocate five non-pupil days out of the school days indicated, or the equivalent in twilight sessions.",
+      "statedDays": 195,
+      "notes": "Autumn 73, spring 59, summer 63 days (195). The web page prints the Christmas holiday end as 'Tuesday 4 January 2027' (a slip: spring term starts Tuesday 4 January 2028). Summer holiday from Monday 24 July 2028."
+    }
+  }
+}

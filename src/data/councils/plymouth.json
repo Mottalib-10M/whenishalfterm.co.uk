@@ -1,0 +1,210 @@
+{
+  "slug": "plymouth",
+  "name": "Plymouth",
+  "officialName": "Plymouth City Council",
+  "nation": "england",
+  "region": "South West",
+  "type": "unitary",
+  "appliesTo": "General term dates. Schools can set their own term dates, you will need to check the schools website for their term dates.",
+  "academyNote": "Schools can set their own term dates, you will need to check the schools website for their term dates.",
+  "localFacts": [
+    {
+      "fact": "Plymouth's calendar asks each school to allocate occasional days from within the term dates, and suggests placing them so that terms are of equal length.",
+      "source": "https://www.plymouth.gov.uk/sites/default/files/2026-08/School-Term-Dates-2026-2027-V3.pdf"
+    },
+    {
+      "fact": "In February 2027 the council suggests school holidays on 15 and 16 February and occasional days from 17 to 19 February, so that the whole week is off for pupils.",
+      "source": "https://www.plymouth.gov.uk/school-term-dates-and-holidays"
+    },
+    {
+      "fact": "Professional development days are allocated by each school from within the term dates, and the calendar counts 190 statutory teaching days.",
+      "source": "https://www.plymouth.gov.uk/sites/default/files/2026-08/School-Term-Dates-2026-2027-V3.pdf"
+    },
+    {
+      "fact": "The summer term ends on Monday 26 July 2027, and the spring term starts on Tuesday 5 January 2027.",
+      "source": "https://www.plymouth.gov.uk/sites/default/files/2026-08/School-Term-Dates-2026-2027-V3.pdf"
+    },
+    {
+      "fact": "The council's term calendar is organised in six numbered terms, grouped into autumn (terms 1 and 2), spring (3 and 4) and summer (5 and 6).",
+      "source": "https://www.plymouth.gov.uk/school-term-dates-and-holidays"
+    },
+    {
+      "fact": "The council has revised its calendars: the 2026-27 PDF on the site is version 3 and the 2027-28 PDF is version 2.",
+      "source": "https://www.plymouth.gov.uk/school-term-dates-and-holidays"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.plymouth.gov.uk/sites/default/files/2026-08/School-Term-Dates-2026-2027-V3.pdf",
+        "pageUrl": "https://www.plymouth.gov.uk/school-term-dates-and-holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.plymouth.gov.uk/sites/default/files/2026-08/School-Term-Dates-2026-2027-V3.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-03",
+          "end": "2026-10-23",
+          "label": "Term 1"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Term 2"
+        },
+        {
+          "start": "2027-01-05",
+          "end": "2027-02-12",
+          "label": "Term 3"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Term 4"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Term 5"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-26",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-27",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Professional development days and occasional days are allocated by each school from within the specified term dates. The council suggests occasional days from 17 to 19 February 2027.",
+      "statedDays": 195,
+      "notes": "Six terms of 37, 35, 29, 24, 34 and 36 days (195). The February half term is two school holidays (15 and 16 February) plus three suggested occasional days. The web page also says term 1 starts on 2 September, but the PDF and the table give 3 September 2026."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.plymouth.gov.uk/sites/default/files/2026-06/School-Term-Dates-2027-2028-v2.pdf",
+        "pageUrl": "https://www.plymouth.gov.uk/school-term-dates-and-holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.plymouth.gov.uk/sites/default/files/2026-06/School-Term-Dates-2027-2028-v2.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Term 1"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-20",
+          "label": "Term 2"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Term 3"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Term 4"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Term 5"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-25",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-21",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-26",
+          "end": "2028-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Professional development days and occasional days are allocated by each school from within the term dates. The web page suggests occasional days from 16 to 18 February 2028.",
+      "statedDays": 196,
+      "notes": "Dates from the council PDF (version 2): six terms of 37, 36, 29, 30, 28 and 36 days (196). The council web page table differs: it gives 1 September 2027 to 17 December 2027 for the autumn term and an end date of 24 July 2028. Check with your school. The PDF counts term 6 (5 June to 25 July 2028) as 36 days, but those dates give 37 weekdays."
+    }
+  }
+}

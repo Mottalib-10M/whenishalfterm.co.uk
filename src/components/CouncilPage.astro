@@ -77,7 +77,7 @@ const insetList = y1?.inset ?? [];
         {insetList.length > 0 && <p>In-service days fixed by the council, pupils at home: {insetList.map((i) => longDate(i.date)).join(', ')}.</p>}
         {y1?.insetNote && <p>{y1.insetNote}</p>}
         <h2>{c.name} term dates 2027-28</h2>
-        {t2 ? <Fragment set:html={t2} /> : <p>{c.years['2027-28']?.notes || `${c.officialName} had not published its 2027-28 calendar on ${plainDate(c.years['2026-27']?.source?.retrieved ?? '2026-10-12')}.`}</p>}
+        {t2 ? <Fragment set:html={t2} /> : <p>{c.years['2027-28']?.notes || `No 2027-28 calendar could be read on ${c.officialName}'s website on ${plainDate(c.years['2026-27']?.source?.retrieved ?? '2026-10-12')}.`}</p>}
         <YearStrip council={c} year="2026-27" />
         <h2>How {c.name} compares</h2>
         <Fragment set:html={councilCompare(c)} />

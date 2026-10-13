@@ -1,0 +1,72 @@
+{
+  "slug": "reading",
+  "name": "Reading",
+  "officialName": "Reading Borough Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "unitary",
+  "appliesTo": "Here you can find the term dates for Reading's maintained schools. Please note that these are the dates for schools under Reading Local Authority control.",
+  "academyNote": "Academies, free schools and other own admissions authority schools are free to set their own dates so these may be different.",
+  "localFacts": [
+    {"fact": "Reading's school term dates are published by Brighter Futures for Children, which runs children's services for Reading Borough Council; the council's own term dates page points there.", "source": "https://www.reading.gov.uk/children-and-education/schools/termdates/"},
+    {"fact": "The dates apply to schools under Reading Local Authority control; academies, free schools and other own admissions authority schools can set their own.", "source": "https://brighterfuturesforchildren.org/for-parents-carers/schools/term-dates/"},
+    {"fact": "Reading numbers its year in six terms and fixes the first day of Term 1 as an inset day: Tuesday 1 September 2026, with pupils returning on Wednesday 2 September.", "source": "https://brighterfuturesforchildren.org/for-parents-carers/schools/term-dates/"},
+    {"fact": "In 2027-28 the first day, Thursday 2 September 2027, is an inset day and pupils return on Friday 3 September.", "source": "https://brighterfuturesforchildren.org/for-parents-carers/schools/term-dates/"},
+    {"fact": "Schools can set further training (inset) days when they are closed to pupils, and these may differ from school to school.", "source": "https://brighterfuturesforchildren.org/for-parents-carers/schools/term-dates/"},
+    {"fact": "In 2027-28 Term 4 runs to Friday 7 April 2028 and Term 5 starts on Monday 24 April 2028, a week after Easter Monday.", "source": "https://brighterfuturesforchildren.org/wp-content/uploads/2026/04/Reading-Academic-school-term-dates-Calendar-27-28.pdf"},
+    {"fact": "The calendars total 195 days each year, for example 39, 35, 30, 24, 34 and 33 days across the six terms of 2026-27.", "source": "https://brighterfuturesforchildren.org/wp-content/uploads/2025/03/Reading-Academic-school-term-dates-Calendar-26-27-1.pdf"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://brighterfuturesforchildren.org/wp-content/uploads/2025/03/Reading-Academic-school-term-dates-Calendar-26-27-1.pdf", "pageUrl": "https://brighterfuturesforchildren.org/for-parents-carers/schools/term-dates/", "via": "direct", "fetchedUrl": "https://brighterfuturesforchildren.org/for-parents-carers/schools/term-dates/", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Term 1"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Term 2"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Term 3"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Term 4"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Term 5"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Term 6"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-09-01"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [{"date": "2026-09-01", "label": "Inset day"}],
+      "insetMode": "partly-fixed",
+      "insetNote": "Term 1 starts with an inset day on Tuesday 1 September 2026 (schools return Wednesday 2 September). Schools can set a number of training (inset) days, which may be different in each school.",
+      "statedDays": 195,
+      "notes": "Term day counts on the calendar: 39, 35, 30, 24, 34 and 33 days (195)."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://brighterfuturesforchildren.org/wp-content/uploads/2026/04/Reading-Academic-school-term-dates-Calendar-27-28.pdf", "pageUrl": "https://brighterfuturesforchildren.org/for-parents-carers/schools/term-dates/", "via": "direct", "fetchedUrl": "https://brighterfuturesforchildren.org/for-parents-carers/schools/term-dates/", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-09-02", "end": "2027-10-22", "label": "Term 1"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Term 2"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Term 3"},
+        {"start": "2028-02-21", "end": "2028-04-07", "label": "Term 4"},
+        {"start": "2028-04-24", "end": "2028-05-26", "label": "Term 5"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Term 6"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-10", "end": "2028-04-21"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [{"date": "2027-09-02", "label": "Inset day"}],
+      "insetMode": "partly-fixed",
+      "insetNote": "Term 1 starts with an inset day on Thursday 2 September 2027 (schools return Friday 3 September); other inset days are set by each school.",
+      "statedDays": 195,
+      "notes": "Term day counts on the calendar: 37, 35, 29, 35, 24 and 35 days (195). Holidays are the gaps between the published terms."
+    }
+  }
+}

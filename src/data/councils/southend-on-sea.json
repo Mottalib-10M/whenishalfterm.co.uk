@@ -1,0 +1,72 @@
+{
+  "slug": "southend-on-sea",
+  "name": "Southend-on-Sea",
+  "officialName": "Southend-on-Sea City Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "unitary",
+  "appliesTo": "These dates are for community schools in the city of Southend-on-Sea, namely: Chalkwell Hall Infant, Earls Hall Primary, Fairways Primary, Leigh North Street, West Leigh Infants.",
+  "academyNote": "Most schools in the city follow the dates however, term dates for foundation and voluntary-aided schools and academies may be different. Check with your child's school for their term dates.",
+  "localFacts": [
+    {"fact": "Southend-on-Sea City Council sets term dates for just five community schools: Chalkwell Hall Infant, Earls Hall Primary, Fairways Primary, Leigh North Street and West Leigh Infants.", "source": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates"},
+    {"fact": "Most schools in the city follow the council's dates, although foundation, voluntary aided schools and academies can set their own.", "source": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates"},
+    {"fact": "Schools allocate five non-pupil days out of the school days shown, or the equivalent in disaggregated twilight sessions.", "source": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates"},
+    {"fact": "The 2027-28 October half term is listed as Friday 22 October to Friday 29 October 2027, so it starts on a Friday.", "source": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates"},
+    {"fact": "The 2027-28 May half term is listed as 30 May to 2 June 2028, after the spring bank holiday on Monday 29 May.", "source": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates"},
+    {"fact": "The council strongly advises parents to check with their child's school before making any holiday or other commitments.", "source": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates", "pageUrl": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates", "via": "direct", "fetchedUrl": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "In addition, schools allocate five non-pupil days out of the school days indicated, or the equivalent in disaggregated twilight sessions.",
+      "statedDays": null,
+      "notes": "The council lists term start and end dates and half terms; Christmas and Easter breaks are the gaps between terms."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates", "pageUrl": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates", "via": "direct", "fetchedUrl": "https://www.southend.gov.uk/schools-colleges-university-essex/term-dates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-21", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Autumn term (second half)"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-22", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "Spring bank holiday", "start": "2028-05-29", "end": "2028-05-29"},
+        {"name": "May half term", "start": "2028-05-30", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools allocate five non-pupil days out of the school days indicated, or the equivalent in twilight sessions.",
+      "statedDays": null,
+      "notes": "October half term listed as 22 to 29 October 2027 (starting on a Friday), so the first half of autumn term ends Thursday 21 October. May half term listed as 30 May to 2 June 2028, after the spring bank holiday on Monday 29 May."
+    }
+  }
+}

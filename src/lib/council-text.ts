@@ -64,7 +64,7 @@ export function councilResume(c: Council): string {
   if (published(c, Y2)) {
     const f2 = firstLastDay(c, Y2), o2 = breakOf(c, Y2, 'october');
     s.push(`The 2027-28 calendar is ${c.years[Y2]!.status === 'provisional' ? 'out as a provisional draft' : 'already published'}${f2 ? `: school starts on ${longDate(f2.first)}` : ''}${o2 ? ` and the October break is ${rangeText(o2.start, o2.end)}` : ''}.`);
-  } else s.push(`${c.officialName} had not published 2027-28 dates when we last checked.`);
+  } else s.push(c.years[Y2] ? `${c.officialName} had not published 2027-28 dates when we last checked.` : `We have not yet been able to read a 2027-28 calendar on ${c.officialName}'s website.`);
   if (Y.source) s.push(`Dates read on ${c.officialName}'s own ${Y.source.format === 'pdf' ? 'PDF calendar' : Y.source.format === 'doc' || Y.source.format === 'docx' ? 'Word calendar' : 'web page'} on ${plainDate(Y.source.retrieved)}.`);
   return s.join(' ');
 }
