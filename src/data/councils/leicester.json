@@ -1,0 +1,231 @@
+{
+  "slug": "leicester",
+  "name": "Leicester",
+  "officialName": "Leicester City Council",
+  "nation": "england",
+  "region": "East Midlands",
+  "type": "unitary",
+  "appliesTo": "All maintained and voluntary controlled schools in the city follow the dates set by Leicester City Council.",
+  "academyNote": "Academies and free schools can set their own term dates.",
+  "localFacts": [
+    {
+      "fact": "Leicester's school year starts in August: schools open on Monday 24 August 2026 and Tuesday 31 August 2027.",
+      "source": "https://www.leicester.gov.uk/schools-and-education/term-dates"
+    },
+    {
+      "fact": "The early start pays for an early summer break: the summer holiday begins on Monday 12 July 2027 and Monday 17 July 2028.",
+      "source": "https://www.leicester.gov.uk/schools-and-education/term-dates"
+    },
+    {
+      "fact": "The council's calendar marks two INSET days before term opens: Thursday 20 and Friday 21 August 2026, and Thursday 26 and Friday 27 August 2027; schools allocate further INSET days from the pupil days.",
+      "source": "https://www.leicester.gov.uk/sites/default/files/2026-03/Leicester%20City%20Council%20school%20term%20and%20holiday%20dates%202026-27_print.pdf"
+    },
+    {
+      "fact": "Leicester uses a six-term year with a one-week October half term, Monday 19 to Friday 23 October 2026, and the autumn second half starting on Monday 26 October.",
+      "source": "https://www.leicester.gov.uk/sites/default/files/2026-03/Leicester%20City%20Council%20school%20term%20and%20holiday%20dates%202026-27_print.pdf"
+    },
+    {
+      "fact": "Term dates are reviewed and consulted on every five years; after a public consultation, dates for 2027-28 to 2031-32 have been agreed.",
+      "source": "https://www.leicester.gov.uk/schools-and-education/term-dates"
+    },
+    {
+      "fact": "The 2026-27 calendar totals 190 pupil days and the 2027-28 calendar 192 pupil days.",
+      "source": "https://www.leicester.gov.uk/sites/default/files/2026-09/Leicester%20city%20council%20school%20term%20and%20holiday%20dates%202027-28_print.pdf"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.leicester.gov.uk/sites/default/files/2026-03/Leicester%20City%20Council%20school%20term%20and%20holiday%20dates%202026-27_print.pdf",
+        "pageUrl": "https://www.leicester.gov.uk/schools-and-education/term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.leicester.gov.uk/sites/default/files/2026-03/Leicester%20City%20Council%20school%20term%20and%20holiday%20dates%202026-27_print.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-08-20",
+          "end": "2026-10-16",
+          "label": "Term 1"
+        },
+        {
+          "start": "2026-10-26",
+          "end": "2026-12-18",
+          "label": "Term 2"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Term 3"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-19",
+          "label": "Term 4"
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-05-28",
+          "label": "Term 5"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-09",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-19",
+          "end": "2026-10-23"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-22",
+          "end": "2027-04-02"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-12",
+          "end": "2027-08-25"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2026-08-31",
+          "label": "Bank holiday"
+        },
+        {
+          "date": "2027-05-03",
+          "label": "May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-08-20",
+          "label": "INSET day"
+        },
+        {
+          "date": "2026-08-21",
+          "label": "INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "The council calendar shows INSET days on 20 and 21 August 2026, before schools open on Monday 24 August; 3 further INSET days are allocated by each school from the pupil days.",
+      "statedDays": 190,
+      "notes": "Total 190 pupil days: terms of 39, 40, 30, 20, 39 and 22 days. Term 6 (7 June to 9 July 2027) holds 25 weekdays although the PDF says 22, so the listed dates give 193 pupil days before the 3 school-chosen INSET days are taken out. Easter holidays Monday 22 March to Friday 2 April 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.leicester.gov.uk/sites/default/files/2026-09/Leicester%20city%20council%20school%20term%20and%20holiday%20dates%202027-28_print.pdf",
+        "pageUrl": "https://www.leicester.gov.uk/schools-and-education/term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.leicester.gov.uk/sites/default/files/2026-09/Leicester%20city%20council%20school%20term%20and%20holiday%20dates%202027-28_print.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-08-26",
+          "end": "2027-10-15",
+          "label": "Term 1"
+        },
+        {
+          "start": "2027-10-25",
+          "end": "2027-12-17",
+          "label": "Term 2"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Term 3"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Term 4"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Term 5"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-14",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-18",
+          "end": "2027-10-22"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-08-30",
+          "label": "Bank holiday"
+        },
+        {
+          "date": "2028-05-01",
+          "label": "May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-08-26",
+          "label": "INSET day"
+        },
+        {
+          "date": "2027-08-27",
+          "label": "INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "The council calendar shows INSET days on 26 and 27 August 2027, before schools open on Tuesday 31 August; further INSET days are allocated by each school from the pupil days.",
+      "statedDays": 192,
+      "notes": "Total 192 school days: terms of 34, 40, 34, 30, 24 and 28 days. Spring half term 21 to 25 February 2028."
+    }
+  }
+}

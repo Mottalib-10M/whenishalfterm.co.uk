@@ -12,7 +12,7 @@ export default definePage({
   nav: 'May half term 2027',
   card: 'Whitsun week, the spring bank holiday and the exams',
   title: 'May Half Term 2027: Whitsun Dates by Council, With Exams',
-  description: 'May half term 2027 by council: the Whitsun week that starts with the spring bank holiday on 31 May, councils that differ, the May Day closure, GCSE and A level timing, Scotland and NI.',
+  description: 'May half term 2027 by council: the Whitsun week from the spring bank holiday on 31 May, councils that differ, the May Day closure, exams, Scotland, NI.',
   h1: 'May half term 2027: the Whitsun week by council',
   intro: 'The summer term has one break, built around the spring bank holiday, in the middle of exam season.',
   resume: (h) => {

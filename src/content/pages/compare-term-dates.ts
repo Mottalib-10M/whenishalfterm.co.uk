@@ -12,7 +12,7 @@ export default definePage({
   nav: 'Compare two councils',
   card: 'Separated parents, two schools, a move: shared and mismatched days',
   title: 'Compare Term Dates: Two Councils, Shared and Mismatched Days',
-  description: 'Compare the term dates of two councils for 2026-27 or 2027-28: shared holidays, days when one child is off and the other in school, break by break, for separated parents and split families.',
+  description: 'Compare two councils\' term dates for 2026-27 or 2027-28: shared holidays, the days when one child is off and the other in school, for separated parents.',
   h1: 'Compare the term dates of two councils',
   intro: 'For two homes, two schools or a move between areas: what the calendars share and where they part.',
   resume: () => `Pick two councils and a school year: the tool walks through every weekday from 1 September to the end of the later summer term and counts three things, the weekdays when both councils' pupils are off, the weekdays when only the first council is off, and those when only the second is. It then sets the six main breaks side by side, with the number of weekdays they share. This is the question separated parents ask when they split the holidays, that grandparents ask when they look after cousins from two areas, and that families face when a child changes school across a boundary or goes to an academy that follows another council's calendar. The comparison uses each council's own published calendar, its bank holidays and the in-service days it fixes; INSET days chosen by each school are not included, so check those with the two schools.`,

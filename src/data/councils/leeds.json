@@ -1,0 +1,218 @@
+{
+  "slug": "leeds",
+  "name": "Leeds",
+  "officialName": "Leeds City Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "metropolitan",
+  "appliesTo": "Some schools set their own term dates which may not be the same as those published here: academies, free schools, foundation schools, faith schools (voluntary-aided schools).",
+  "academyNote": "Academies, free schools, foundation schools and voluntary-aided faith schools may set their own term dates. If you are unsure about your school's term dates contact them directly.",
+  "localFacts": [
+    {
+      "fact": "Leeds says its Easter break always falls in the first 2 full weeks in April, regardless of when the Easter bank holiday falls.",
+      "source": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "Because of that rule, in 2027 schools close for Good Friday and Easter Monday (26 and 29 March) during the spring term, and the Easter holiday runs from Monday 5 April to Friday 16 April.",
+      "source": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "Each school is closed for 5 training days a year, which differ from school to school; parents are told to contact their school directly.",
+      "source": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "The 2026-27 summer term ends on Thursday 22 July 2027 and the 2027-28 year does not start until Monday 6 September 2027.",
+      "source": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "In 2027-28 the summer term runs until Wednesday 26 July 2028.",
+      "source": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "The page warns that taking a child out of school during term time could lead to a fine.",
+      "source": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates",
+        "pageUrl": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-04-02",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-19",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-03-26",
+          "label": "Good Friday"
+        },
+        {
+          "date": "2027-03-29",
+          "label": "Easter Monday"
+        },
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school will also be closed for 5 training days a year. Training days are different for each school.",
+      "statedDays": null,
+      "notes": "Easter bank holiday (Friday 26 March to Monday 29 March 2027) falls inside the spring term; the Easter holiday is Monday 5 April to Friday 16 April 2027. Summer holidays run from Friday 23 July to Friday 3 September 2027.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-04-05",
+          "end": "2027-04-16"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates",
+        "pageUrl": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday (not listed on the council page)"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school will also be closed for 5 training days a year. Training days are different for each school.",
+      "statedDays": null,
+      "notes": "Christmas holiday runs to Monday 3 January 2028; spring term starts Tuesday 4 January. Summer holidays are listed as Monday 27 July to Friday 1 September 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-27",
+          "end": "2028-09-01"
+        }
+      ]
+    }
+  }
+}

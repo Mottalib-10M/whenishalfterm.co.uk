@@ -12,7 +12,7 @@ export default definePage({
   nav: 'School days in a year',
   card: '190 days, 380 sessions, counted council by council',
   title: 'School Days in a Year 2026-27: 190 Days, Council by Council',
-  description: 'How many school days in a year in the UK: 190 days or 380 sessions in England, 195 teacher days, 200 open days in Northern Ireland, and the 2026-27 count for every council on its calendar.',
+  description: 'How many school days in a year: 190 days or 380 sessions in England, 195 teacher days, 200 in Northern Ireland, and the 2026-27 count for each council.',
   h1: 'How many school days are there in a year?',
   intro: 'The rule is 190, but councils count differently, and the gap is where INSET days go.',
   resume: (h) => `A school year in England has 190 days with pupils: the law sets at least ${h.P.schoolYear.englandSessions} sessions, and a school day has two. Teachers work ${h.P.schoolYear.englandTeacherDays} days, so five are training days without pupils. Councils publish their calendar either as 195 days, leaving each school to remove its five INSET days, or as about 190 days with the INSET days on top. On this site the engine counts, for each council, the weekdays in term minus bank holidays and any in-service days the council itself fixes: a council that publishes 195 days shows 195, and its pupils will in fact attend 190. Scottish calendars come to about 190 pupil days too, with in-service days already removed. Northern Ireland schools must be open on ${h.P.schoolYear.niOpenDays} days, of which up to ${h.P.schoolYear.niDevelopmentDaysMax} can be development days. Choose a council below to see its count, first day and last day.`,

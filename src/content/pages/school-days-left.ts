@@ -11,7 +11,7 @@ export default definePage({
   nav: 'Countdown to the holidays',
   card: 'Days and school days until every coming break',
   title: 'School Days Left Countdown: Days Until Half Term and Summer',
-  description: 'How many school days are left until half term, Christmas, Easter or the summer holidays? A countdown for your council, in calendar days and school days, from any date you choose.',
+  description: 'How many school days are left until half term, Christmas, Easter or summer? A countdown for your council in calendar days and school days from any date.',
   h1: 'How many school days until the holidays?',
   intro: 'Pick your council: the countdown runs to every coming break, in days and in school days.',
   resume: () => `This countdown takes the calendar of your council and counts, from today or any date you enter, the calendar days and the school days left before each of the next breaks: half term, Christmas, Easter, May half term and the summer holidays. School days leave out weekends, holidays, bank holidays in term time and the in-service days a council fixes. It counts the start date itself when that day is a school day, so on a Monday morning before a week of term the answer includes that Monday. The INSET days that schools in England choose for themselves are not on council calendars, so a school with an INSET day before the break will have one school day fewer than shown. The numbers come from the same council files as the rest of the site, each read on the council's own website, with the reading date on its page.`,

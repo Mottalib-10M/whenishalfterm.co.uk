@@ -11,8 +11,8 @@ export default definePage({
   slug: 'easter-holidays',
   nav: 'Easter holidays 2027',
   card: 'Two weeks around Easter Sunday 28 March, by council',
-  title: 'Easter Holidays 2027: School Dates by Council, UK',
-  description: 'Easter holidays 2027 school dates by council: the two weeks around Easter Sunday 28 March, the councils that differ, Good Friday and Easter Monday, Scotland, Wales and NI, and 2028.',
+  title: 'Easter Holidays 2027: School Dates by Council, UK and NI',
+  description: 'Easter holidays 2027 school dates by council: two weeks around Easter Sunday 28 March, councils that differ, Scotland, Wales, Northern Ireland and 2028.',
   h1: 'Easter school holidays 2027, council by council',
   intro: 'Easter moves every year, and so does the spring break: in 2027 it comes early, at the end of March.',
   resume: (h) => {

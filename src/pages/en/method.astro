@@ -13,7 +13,7 @@ const byVia = (v: string) => all.filter((y) => y!.source!.via === v).length;
 const byFmt = (f: string) => all.filter((y) => y!.source!.format === f).length;
 const s = (k: keyof typeof P.sources) => P.sources[k];
 ---
-<PageLayout title="Term Dates Method: how each council calendar is read and tested" description="How Term Dates Finder reads each council's term dates, checks them by program, works out school days, bank holidays and INSET days, compares two councils, and what the tools cannot know." lang={lang} jsonLd={[articleSchema({ title: 'How the term dates are read and tested', description: 'Method of Term Dates Finder', path: route('method', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Method', path: route('method', lang) }])]} breadcrumbs={[{ label: 'Method' }]}>
+<PageLayout title="Term Dates Method: How Each Council Calendar Is Checked" description="How Term Dates Finder reads each council's term dates, checks them by program, counts school days, bank holidays and INSET days, and what the tools cannot know." lang={lang} jsonLd={[articleSchema({ title: 'How the term dates are read and tested', description: 'Method of Term Dates Finder', path: route('method', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Method', path: route('method', lang) }])]} breadcrumbs={[{ label: 'Method' }]}>
   <header class="mb-6"><p class="kicker">Method</p><h1 class="mt-1 text-3xl font-bold text-navy-900 md:text-4xl">How the dates are read, checked and counted</h1></header>
   <div class="prose prose-slate max-w-none">
     <h2>1. One council, one official page</h2>

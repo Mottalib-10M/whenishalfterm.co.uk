@@ -9,7 +9,7 @@ const lang = 'en';
 const n = COUNCILS.length;
 const n28 = COUNCILS.filter((c) => c.years['2027-28'] && c.years['2027-28']!.status !== 'not-published').length;
 ---
-<PageLayout title="Term Dates Finder and Radif Partners: who reads the dates" description="Who publishes Term Dates Finder, why it reads every school calendar on the council's own website, what the site covers in England, Scotland, Wales and NI and how to report a wrong date." lang={lang} jsonLd={[personSchema(lang), organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path: route('about', lang) }])]} breadcrumbs={[{ label: 'About' }]}>
+<PageLayout title="Term Dates Finder and Radif Partners: who reads the dates" description="Who publishes Term Dates Finder, why every school calendar is read on the council's own website, what the site covers and how to report a wrong date to us." lang={lang} jsonLd={[personSchema(lang), organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path: route('about', lang) }])]} breadcrumbs={[{ label: 'About' }]}>
   <header class="mb-6"><p class="kicker">About</p><h1 class="mt-1 text-3xl font-bold text-navy-900 md:text-4xl">Who is behind Term Dates Finder</h1></header>
   <div class="prose prose-slate max-w-none">
     <div class="not-prose mb-6"><p class="text-lg font-semibold text-navy-900">{AUTHOR_NAME}</p><p class="text-navy-700">{AUTHOR_ROLE[lang]}</p></div>

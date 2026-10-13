@@ -11,8 +11,8 @@ export default definePage({
   slug: 'february-half-term',
   nav: 'February half term 2027',
   card: 'Spring half term in England and Wales, mid-term in Scotland',
-  title: 'February Half Term 2027: Dates by Council and Mid-Term Breaks',
-  description: 'February half term 2027 dates by council: the week most of England takes, councils that differ, the two-day Scottish mid-term and the Northern Ireland break, read on official calendars.',
+  title: 'February Half Term 2027: Dates by Council, Scottish Mid-Term',
+  description: 'February half term 2027 by council: the week most of England takes, the councils that differ, the two-day Scottish mid-term and Northern Ireland dates.',
   h1: 'February half term 2027 by council',
   intro: 'The shortest term of the year has the most uniform half term in England, and the most varied in Scotland.',
   resume: (h) => {

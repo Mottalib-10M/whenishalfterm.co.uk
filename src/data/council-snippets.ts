@@ -20,6 +20,10 @@ export function TITLES(c: Council) {
     `${n} ${term} 2026-27: Half Terms and Holidays`,
     `${n} ${term} 2026-27, Half Terms`,
     `${n} ${term} 2026-27`,
+    `${n} ${term} ${yrs}, Holidays`,
+    `${n} ${term} ${yrs}, INSET`,
+    `${n} ${term} ${yrs}`,
+    `${n} ${term} 2026-27: Holidays`,
   ], 50, 60);
   const who = c.nation === 'northern-ireland' ? 'common closure dates' : 'school term dates';
   const description: string | undefined = fit([

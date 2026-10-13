@@ -12,7 +12,7 @@ export default definePage({
   nav: 'School holidays 2027',
   card: 'Every break of the calendar year 2027, January to December',
   title: 'School Holidays 2027: Every Break From January to December',
-  description: 'School holidays 2027 for the whole calendar year by council: February half term, Easter, May half term, summer and the October and Christmas breaks of 2027-28 where already published.',
+  description: 'School holidays 2027 for the calendar year, by council: February half term, Easter, May half term, summer, and October 2027 where already published so far.',
   h1: 'School holidays 2027, January to December',
   intro: 'The calendar year 2027 straddles two school years: the second half of 2026-27 and the start of 2027-28.',
   resume: (h) => {

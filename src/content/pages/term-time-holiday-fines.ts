@@ -11,7 +11,7 @@ export default definePage({
   nav: 'Term-time holiday fines',
   card: 'Penalty notices: £80, £160, the 10-session rule',
   title: 'Term Time Holiday Fines 2026: £80 or £160 Penalty Calculator',
-  description: 'Term time holiday fine calculator: £80 or £160 per parent per child in England, £60 or £120 in Wales, the 10-session threshold, second notices, and the rules in Scotland and Northern Ireland.',
+  description: 'Term time holiday fine calculator: £80 or £160 per parent per child in England, £60 or £120 in Wales, the 10-session rule, Scotland and Northern Ireland.',
   h1: 'Term-time holiday fines: what a penalty notice costs',
   intro: 'Taking a child out of school for a holiday without permission can cost each parent a fine per child. Here is the arithmetic.',
   resume: (h) => {

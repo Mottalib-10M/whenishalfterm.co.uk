@@ -12,7 +12,7 @@ export default definePage({
   nav: 'October half term 2026',
   card: 'The autumn break, one week or two, by council',
   title: 'October Half Term 2026: Dates by Council, One or Two Weeks',
-  description: 'October half term 2026 dates council by council: the week most of England takes, the councils with a two-week break, the Scottish October holiday and Halloween in Northern Ireland.',
+  description: 'October half term 2026 by council: the week most of England takes, the councils with a two-week break, the Scottish October holiday and Halloween in NI.',
   h1: 'October half term 2026: when it is in your area',
   intro: 'Autumn half term splits the longest term of the year. Most of England takes the same week; a few councils take two.',
   resume: (h) => {

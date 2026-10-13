@@ -13,7 +13,7 @@ export default definePage({
   nav: 'London term dates',
   card: 'The boroughs side by side, and the ones that differ',
   title: 'London Term Dates 2026-27: Borough by Borough, Side by Side',
-  description: 'London school term dates 2026-27 for each borough on one page: the shared London pattern, the boroughs that start early or break later, half terms, Easter and summer, read on borough sites.',
+  description: 'London school term dates 2026-27 borough by borough: the shared London pattern, boroughs that start early or break later, half terms, Easter and summer.',
   h1: 'London term dates 2026-27, borough by borough',
   intro: 'Thirty-two boroughs, one city, mostly one calendar. Here is where London agrees and where it does not.',
   resume: (h) => {

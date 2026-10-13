@@ -11,7 +11,7 @@ export default definePage({
   nav: 'INSET days',
   card: 'Who sets them, how many, and how to find them',
   title: 'INSET Days 2026-27: How Many, Who Sets Them, By Council',
-  description: 'INSET days 2026-27 explained: five a year in England chosen by each school, in-service days fixed by Scottish and Welsh councils, development days in NI, and your council rule.',
+  description: 'INSET days 2026-27: five a year in England chosen by each school, in-service days fixed by Scottish councils, NI development days and your council\'s rule.',
   h1: 'INSET days 2026-27: who decides and how to find yours',
   intro: 'Training days are the dates parents find out last. Who sets them depends on where you live.',
   resume: (h) => {

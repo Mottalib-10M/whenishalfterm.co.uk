@@ -11,8 +11,8 @@ export default definePage({
   slug: 'christmas-holidays',
   nav: 'Christmas holidays 2026',
   card: 'Last day of term, first day back in January',
-  title: 'Christmas Holidays 2026: School Break-Up and Return by Council',
-  description: 'Christmas holidays 2026 school dates by council: the last day of the autumn term, the first day back in January 2027, the bank holidays inside the break, and Scotland and NI.',
+  title: 'Christmas Holidays 2026: School Break-Up Dates by Council',
+  description: 'Christmas holidays 2026 by council: the last day of the autumn term, the first day back in January 2027, the bank holidays in the break, Scotland and NI.',
   h1: 'Christmas school holidays 2026: last day and return by council',
   intro: 'Two weeks for nearly everyone, but the last day of term and the first day of January differ more than you would think.',
   resume: (h) => {

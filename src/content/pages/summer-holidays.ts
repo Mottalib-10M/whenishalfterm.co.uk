@@ -12,7 +12,7 @@ export default definePage({
   nav: 'Summer holidays 2027',
   card: 'Break-up day and return in September, by council',
   title: 'Summer Holidays 2027: School Break-Up Dates by Council, UK',
-  description: 'Summer holidays 2027 school dates by council: the last day of term in July, the first day back in September 2027, Scotland in late June, Northern Ireland from 1 July, and a countdown.',
+  description: 'Summer holidays 2027 by council: the last day of term in July, the first day back in September, Scotland from late June and Northern Ireland from 1 July.',
   h1: 'Summer holidays 2027: when schools break up, council by council',
   intro: 'Six weeks in England and Wales, seven in Scotland and two months in Northern Ireland, starting on different days.',
   resume: (h) => {

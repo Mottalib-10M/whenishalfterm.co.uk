@@ -13,7 +13,7 @@ for (const c of COUNCILS) { const g = c.nation === 'england' ? `England: ${c.reg
 const order = [...groups.keys()].sort();
 const n28 = COUNCILS.filter((c) => c.years['2027-28'] && c.years['2027-28']!.status !== 'not-published').length;
 ---
-<PageLayout title="Council Term Dates List: Every Calendar on Term Dates Finder" description={`All ${COUNCILS.length} council school calendars on Term Dates Finder by region, with October half term 2026, whether 2027-28 is out and the day each was read.`} lang={lang} jsonLd={[breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Councils', path: route('councils', lang) }])]} breadcrumbs={[{ label: 'Councils' }]}>
+<PageLayout title="Council Term Dates List: Every Calendar on Term Dates Finder" description={`All ${COUNCILS.length} council school calendars on Term Dates Finder by region, with October half term 2026, whether 2027-28 is out yet and the day each calendar was read.`} lang={lang} jsonLd={[breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Councils', path: route('councils', lang) }])]} breadcrumbs={[{ label: 'Councils' }]}>
   <header class="mb-4"><h1 class="text-3xl font-bold text-navy-900 md:text-4xl">Every council calendar on the site</h1>
   <p class="mt-2 text-navy-700">{COUNCILS.length} calendars, {n28} with 2027-28 published. Pick a council for its full dates, its own rules and the school open checker.</p></header>
   <div data-chrome class="mb-6"><Tool kind="checker" council="birmingham" /></div>

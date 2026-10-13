@@ -11,7 +11,7 @@ export default definePage({
   nav: 'Half term dates',
   card: 'October, February and May 2026-27, council by council',
   title: 'Half Term Dates 2026-27: October, February, May by Council',
-  description: 'Half term dates for 2026-27 and 2027-28 council by council: October, February and May half terms read on each council website, two-week breaks flagged, and your own dates.',
+  description: 'Half term dates 2026-27 and 2027-28 by council: October, February and May, read on each council website, two-week breaks flagged, and your own dates here.',
   h1: 'Half term dates 2026-27, council by council',
   intro: 'When is half term? Three times a year, and not on the same week everywhere: here are the dates each council set.',
   resume: (h) => {
