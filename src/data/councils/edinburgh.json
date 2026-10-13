@@ -1,0 +1,95 @@
+{
+  "slug": "edinburgh",
+  "name": "Edinburgh",
+  "officialName": "The City of Edinburgh Council",
+  "nation": "scotland",
+  "region": "Scotland",
+  "type": "scottish",
+  "appliesTo": "Schools set their own start and finish times. Contact your school to find out what time the school day finishes on the last day of term.",
+  "academyNote": "",
+  "localFacts": [
+    {"fact": "Edinburgh has its own local holidays: an autumn holiday on a Monday in September, an Edinburgh spring holiday on the Monday after the Easter break, and Victoria Day on a Monday in late May.", "source": "https://www.edinburgh.gov.uk/downloads/file/34530/school-term-dates-2026-27"},
+    {"fact": "The council sets five in-service days for all schools, placed after the October break, after Christmas, after the May Day holiday and on the two days before pupils return in August.", "source": "https://www.edinburgh.gov.uk/downloads/file/34530/school-term-dates-2026-27"},
+    {"fact": "The timetable gives 190 days for pupils and 195 for staff, split as 86, 56 and 48 pupil days across the three terms of 2026-27.", "source": "https://www.edinburgh.gov.uk/downloads/file/34530/school-term-dates-2026-27"},
+    {"fact": "Holiday dates on the council page are inclusive: for a break from 12 to 19 October, pupils return on the 20th.", "source": "https://www.edinburgh.gov.uk/schools/term-dates"},
+    {"fact": "The summer term ends on a Tuesday in 2027 (29 June) and on a Friday in 2028 (30 June).", "source": "https://www.edinburgh.gov.uk/schools/term-dates/2"},
+    {"fact": "The council already publishes dates for 2028-29, with pupils returning on Wednesday 16 August 2028.", "source": "https://www.edinburgh.gov.uk/downloads/file/40108/school-term-dates-2028-29"},
+    {"fact": "Term dates are also offered as an iCal file to add to a phone or computer calendar.", "source": "https://www.edinburgh.gov.uk/downloads/download/15651/school-term-dates-2026-27-download"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.edinburgh.gov.uk/downloads/file/34530/school-term-dates-2026-27", "pageUrl": "https://www.edinburgh.gov.uk/schools/term-dates", "via": "direct", "fetchedUrl": "https://www.edinburgh.gov.uk/downloads/file/34530/school-term-dates-2026-27", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2026-08-10", "end": "2026-09-11", "label": "Term 1"},
+        {"start": "2026-09-15", "end": "2026-10-09", "label": "Term 1"},
+        {"start": "2026-10-19", "end": "2026-12-18", "label": "Term 1"},
+        {"start": "2027-01-05", "end": "2027-02-12", "label": "Term 2"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Term 2"},
+        {"start": "2027-03-30", "end": "2027-04-02", "label": "Term 2"},
+        {"start": "2027-04-20", "end": "2027-04-30", "label": "Term 3"},
+        {"start": "2027-05-04", "end": "2027-05-21", "label": "Term 3"},
+        {"start": "2027-05-25", "end": "2027-06-29", "label": "Term 3"}
+      ],
+      "holidays": [
+        {"name": "Autumn holiday", "start": "2026-09-14", "end": "2026-09-14"},
+        {"name": "October holiday", "start": "2026-10-12", "end": "2026-10-16"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-04"},
+        {"name": "February mid-term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Good Friday and Easter Monday", "start": "2027-03-26", "end": "2027-03-29"},
+        {"name": "Spring holiday", "start": "2027-04-05", "end": "2027-04-19"},
+        {"name": "May Day holiday", "start": "2027-05-03", "end": "2027-05-03"},
+        {"name": "Victoria Day", "start": "2027-05-24", "end": "2027-05-24"},
+        {"name": "Summer holidays", "start": "2027-06-30", "end": "2027-08-13"}
+      ],
+      "closures": [],
+      "inset": [
+        {"date": "2026-08-10", "label": "In-service day (staff resume)"},
+        {"date": "2026-08-11", "label": "In-service day"},
+        {"date": "2026-10-19", "label": "In-service day"},
+        {"date": "2027-01-05", "label": "In-service day"},
+        {"date": "2027-05-04", "label": "In-service day"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five In-Service days for all schools: 10 and 11 August 2026, 19 October 2026, 5 January 2027 and 4 May 2027.",
+      "statedDays": 190,
+      "notes": "Pupils resume on Wednesday 12 August 2026. The pupil break in October runs from 12 to 19 October and the winter break to 5 January, because the first day back is an in-service day. The Edinburgh spring holiday (Monday 19 April 2027) extends the Easter break. 190 pupil days and 195 staff days."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.edinburgh.gov.uk/downloads/file/40106/school-term-dates-27-28", "pageUrl": "https://www.edinburgh.gov.uk/schools/term-dates/2", "via": "direct", "fetchedUrl": "https://www.edinburgh.gov.uk/downloads/file/40106/school-term-dates-27-28", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2027-08-16", "end": "2027-09-17", "label": "Term 1"},
+        {"start": "2027-09-21", "end": "2027-10-15", "label": "Term 1"},
+        {"start": "2027-10-25", "end": "2027-12-20", "label": "Term 1"},
+        {"start": "2028-01-05", "end": "2028-02-11", "label": "Term 2"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Term 2"},
+        {"start": "2028-04-18", "end": "2028-04-28", "label": "Term 3"},
+        {"start": "2028-05-02", "end": "2028-05-19", "label": "Term 3"},
+        {"start": "2028-05-23", "end": "2028-06-30", "label": "Term 3"}
+      ],
+      "holidays": [
+        {"name": "Autumn holiday", "start": "2027-09-20", "end": "2027-09-20"},
+        {"name": "October holiday", "start": "2027-10-18", "end": "2027-10-22"},
+        {"name": "Christmas holidays", "start": "2027-12-21", "end": "2028-01-04"},
+        {"name": "February mid-term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Spring holiday", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May Day holiday", "start": "2028-05-01", "end": "2028-05-01"},
+        {"name": "Victoria Day", "start": "2028-05-22", "end": "2028-05-22"},
+        {"name": "Summer holidays", "start": "2028-07-03", "end": "2028-08-11"}
+      ],
+      "closures": [],
+      "inset": [
+        {"date": "2027-08-16", "label": "In-service day (staff resume)"},
+        {"date": "2027-08-17", "label": "In-service day"},
+        {"date": "2027-10-25", "label": "In-service day"},
+        {"date": "2028-01-05", "label": "In-service day"},
+        {"date": "2028-05-02", "label": "In-service day"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five In-Service days for all schools: 16 and 17 August 2027, 25 October 2027, 5 January 2028 and 2 May 2028.",
+      "statedDays": 190,
+      "notes": "Pupils resume on Wednesday 18 August 2027. Term ends on Monday 20 December 2027. The Easter break (3 to 17 April 2028) incorporates Good Friday and Easter Monday. 190 pupil days and 195 staff days. Summer holidays shown to 11 August 2028: staff resume on Monday 14 August 2028 (2028-29 dates)."
+    }
+  }
+}
