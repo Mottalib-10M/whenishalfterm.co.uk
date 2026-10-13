@@ -1,0 +1,211 @@
+{
+  "slug": "vale-of-glamorgan",
+  "name": "Vale of Glamorgan",
+  "officialName": "Vale of Glamorgan Council",
+  "nation": "wales",
+  "region": "Wales",
+  "type": "welsh",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "The Vale of Glamorgan designates three INSET days for its maintained schools in 2026-27: Tuesday 1 September 2026 and Monday 19 and Tuesday 20 July 2027, leaving two to each school.",
+      "source": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx"
+    },
+    {
+      "fact": "The two July INSET days may instead be taken at another time, for example as twilight sessions, the council says, so pupils may or may not be in school on 19 and 20 July 2027.",
+      "source": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx"
+    },
+    {
+      "fact": "The council publishes the number of school days per term: 74 in autumn 2026, 50 in spring 2027 and 71 in summer 2027.",
+      "source": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx"
+    },
+    {
+      "fact": "For 2027-28 only Wednesday 1 September 2027 is a designated INSET day; the remaining four are left to schools.",
+      "source": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx"
+    },
+    {
+      "fact": "All schools close on Monday 3 May 2027 and Monday 1 May 2028 for the May Day bank holiday.",
+      "source": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx",
+        "pageUrl": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-05",
+          "label": "Spring term"
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-03-19",
+          "label": "Spring term"
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-05-28",
+          "label": "Summer term"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-20",
+          "label": "Summer term"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-08",
+          "end": "2027-02-12"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-22",
+          "end": "2027-04-02"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-21",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-09-01",
+          "label": "Designated INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Designated INSET days: 1 September 2026, and 19 and 20 July 2027 unless taken as twilight sessions; two more chosen by each school.",
+      "statedDays": null,
+      "notes": "Term starts, half terms and term ends as listed on the council page; holidays are the gaps between them."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx",
+        "pageUrl": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.valeofglamorgan.gov.uk/en/living/schools/School-Term-Dates.aspx",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-20",
+          "label": "Summer term"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-09-01",
+          "label": "Designated INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Designated INSET day 1 September 2027; four more chosen by each school.",
+      "statedDays": null,
+      "notes": "Term starts, half terms and term ends as listed on the council page; holidays are the gaps between them."
+    }
+  }
+}

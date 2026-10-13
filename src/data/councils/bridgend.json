@@ -1,0 +1,201 @@
+{
+  "slug": "bridgend",
+  "name": "Bridgend",
+  "officialName": "Bridgend County Borough Council",
+  "nation": "wales",
+  "region": "Wales",
+  "type": "welsh",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "Bridgend's page gives each term as a start, a half term and an end, for 2025-26, 2026-27 and 2027-28 on one page.",
+      "source": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/"
+    },
+    {
+      "fact": "The autumn term 2026 starts on Tuesday 1 September, and the summer term 2027 ends on Tuesday 20 July.",
+      "source": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/"
+    },
+    {
+      "fact": "The spring term 2027 ends on Friday 19 March, a week before Good Friday, so pupils are back on Monday 5 April.",
+      "source": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/"
+    },
+    {
+      "fact": "In 2027-28 the spring term runs to Friday 7 April 2028 and the summer term starts on 24 April, after the late Easter.",
+      "source": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/"
+    },
+    {
+      "fact": "The page does not list INSET days: each school publishes its own.",
+      "source": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/",
+        "pageUrl": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-05",
+          "label": "Spring term"
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-03-19",
+          "label": "Spring term"
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-05-28",
+          "label": "Summer term"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-20",
+          "label": "Summer term"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-08",
+          "end": "2027-02-12"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-22",
+          "end": "2027-04-02"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-21",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The council page does not mention INSET days.",
+      "statedDays": null,
+      "notes": "Term starts, half terms and term ends as listed on the council page; holidays are the gaps between them."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/",
+        "pageUrl": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.bridgend.gov.uk/residents/schools-and-education/term-dates/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-20",
+          "label": "Summer term"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The council page does not mention INSET days.",
+      "statedDays": null,
+      "notes": "Term starts, half terms and term ends as listed on the council page; holidays are the gaps between them."
+    }
+  }
+}

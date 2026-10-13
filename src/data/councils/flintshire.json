@@ -1,0 +1,201 @@
+{
+  "slug": "flintshire",
+  "name": "Flintshire",
+  "officialName": "Flintshire County Council",
+  "nation": "wales",
+  "region": "Wales",
+  "type": "welsh",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "Flintshire explains that Welsh Ministers used the Education (Wales) Act 2014 to harmonise term dates for all maintained schools, and can direct councils and the governing bodies of voluntary aided and foundation schools whose dates are not harmonised.",
+      "source": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx"
+    },
+    {
+      "fact": "The council no longer recommends set training days: each school sets its own five, and pupils are not admitted on them.",
+      "source": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx"
+    },
+    {
+      "fact": "Flintshire's 2027-28 calendar differs from its neighbours': the autumn term runs to Wednesday 22 December 2027 and the spring term starts on Thursday 6 January 2028.",
+      "source": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx"
+    },
+    {
+      "fact": "The summer term 2028 ends on Wednesday 19 July 2028, a day earlier than in the south Wales councils on this site.",
+      "source": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx"
+    },
+    {
+      "fact": "In 2026-27 Flintshire's dates match the common Welsh calendar: February half term 8 to 12 February 2027 and the spring term ending on 19 March.",
+      "source": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx",
+        "pageUrl": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-05",
+          "label": "Spring term"
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-03-19",
+          "label": "Spring term"
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-05-28",
+          "label": "Summer term"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-20",
+          "label": "Summer term"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-08",
+          "end": "2027-02-12"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-22",
+          "end": "2027-04-02"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-21",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools set their own five training days; the council no longer recommends set days.",
+      "statedDays": null,
+      "notes": "Term starts, half terms and term ends as listed on the council page; holidays are the gaps between them."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx",
+        "pageUrl": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.flintshire.gov.uk/en/Resident/Popular/School-Holidays-Training-Days.aspx",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-22",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2028-01-06",
+          "end": "2028-02-18",
+          "label": "Spring term"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-19",
+          "label": "Summer term"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-23",
+          "end": "2028-01-05"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools set their own five training days.",
+      "statedDays": null,
+      "notes": "Term starts, half terms and term ends as listed on the council page; holidays are the gaps between them."
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "slug": "rhondda-cynon-taf",
+  "name": "Rhondda Cynon Taf",
+  "officialName": "Rhondda Cynon Taf County Borough Council",
+  "nation": "wales",
+  "region": "Wales",
+  "type": "welsh",
+  "appliesTo": "",
+  "academyNote": "Tuesday 1 Sept 2026 will be a designated INSET day for all LA maintained schools. The remaining INSET days will be at the discretion of each individual school following appropriate consultation with staff.",
+  "localFacts": [
+    {
+      "fact": "Rhondda Cynon Taf names one INSET day for every school it maintains, on the first day of September, and leaves the remaining four to each head teacher after consulting staff.",
+      "source": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx"
+    },
+    {
+      "fact": "Every school in the borough closes on Monday 3 May 2027 for the May Day bank holiday, which the council lists separately from the half terms.",
+      "source": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx"
+    },
+    {
+      "fact": "Its 2026-27 summer term ends on a Tuesday, 20 July 2027, and the 2027-28 year finishes on Thursday 20 July 2028.",
+      "source": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx"
+    },
+    {
+      "fact": "Over Christmas 2027 the holiday is extended to Monday 3 January 2028, the New Year bank holiday, and pupils return on Tuesday 4 January.",
+      "source": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx"
+    },
+    {
+      "fact": "The calendar matches Carmarthenshire's week for week in both years, so families moving between the two counties keep the same holidays.",
+      "source": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx",
+        "pageUrl": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-05",
+          "label": "Spring term"
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-03-19",
+          "label": "Spring term"
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-05-28",
+          "label": "Summer term"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-20",
+          "label": "Summer term"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-08",
+          "end": "2027-02-12"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-22",
+          "end": "2027-04-02"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-21",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-09-01",
+          "label": "Designated INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Designated INSET day on 1 September 2026 for all LA maintained schools; the other INSET days are chosen by each school.",
+      "statedDays": null,
+      "notes": "Dates as listed in the two tables on the council page."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx",
+        "pageUrl": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.rctcbc.gov.uk/EN/Resident/SchoolsandLearning/Schooltermdatesinsetdaysandemergencies/Schooltermdates.aspx",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-20",
+          "label": "Summer term"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-09-01",
+          "label": "Designated INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Designated INSET day on 1 September 2027; the remaining four INSET days are chosen by each school.",
+      "statedDays": null,
+      "notes": "Dates as listed in the two tables on the council page."
+    }
+  }
+}
