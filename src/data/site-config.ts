@@ -8,7 +8,7 @@ export const CURRENCY = 'GBP';
 export const YEAR = 2026;
 /** Année de création du site — signal d'ancienneté (RECETTE §8.0). */
 export const SITE_FOUNDED = '2026';
-export const LAST_UPDATED = '2026-10-12';
+export const LAST_UPDATED = '2026-10-13';
 export const AUTHOR_NAME = 'Radif Partners';
 export const AUTHOR_ROLE: Record<string, string> = {"en": "Radif Partners"};
 export const AUTHOR_DESC: Record<string, string> = {"en": "À RÉÉCRIRE"};
