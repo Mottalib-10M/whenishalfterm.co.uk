@@ -1,0 +1,71 @@
+{
+  "slug": "milton-keynes",
+  "name": "Milton Keynes",
+  "officialName": "Milton Keynes City Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "unitary",
+  "appliesTo": "The dates set above reflect the days that community and voluntary controlled schools are open to pupils.",
+  "academyNote": "Please note that term dates may vary for all other types of schools (Voluntary Aided, Foundation or Academy), so please check the individual school website for details.",
+  "localFacts": [
+    {"fact": "Milton Keynes City Council sets term and holiday dates for community and voluntary controlled schools and maintained nursery schools; governing bodies set them for foundation, trust and voluntary aided schools, free schools and academies.", "source": "https://www.milton-keynes.gov.uk/consultations/consultation-proposed-school-term-dates-20272028"},
+    {"fact": "The published dates give 195 days although only 190 term days are required, so each school allocates five training days within them and publishes its own dates on its website.", "source": "https://www.milton-keynes.gov.uk/schools-and-lifelong-learning/information-parents/school-term-dates-september-2026-july-2028"},
+    {"fact": "The council consulted on the 2027-28 term dates from 12 January to 22 February 2026.", "source": "https://www.milton-keynes.gov.uk/consultations/consultation-proposed-school-term-dates-20272028"},
+    {"fact": "A delegated decision on 17 March 2026 formally adopted the proposed 2027-28 term dates for community and voluntary controlled schools.", "source": "https://www.milton-keynes.gov.uk/consultations/consultation-proposed-school-term-dates-20272028"},
+    {"fact": "The council lists, for each half term, the morning schools open and the afternoon session at the end of which they close.", "source": "https://www.milton-keynes.gov.uk/schools-and-lifelong-learning/information-parents/school-term-dates-september-2026-july-2028"},
+    {"fact": "In 2027-28 the Christmas break runs to Monday 3 January 2028 and the Easter break from Monday 3 April to Monday 17 April 2028.", "source": "https://www.milton-keynes.gov.uk/schools-and-lifelong-learning/information-parents/school-term-dates-september-2026-july-2028"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.milton-keynes.gov.uk/schools-and-lifelong-learning/information-parents/school-term-dates-september-2026-july-2028", "pageUrl": "https://www.milton-keynes.gov.uk/schools-and-lifelong-learning/information-parents/school-term-dates-september-2026-july-2028", "via": "direct", "fetchedUrl": "https://www.milton-keynes.gov.uk/schools-and-lifelong-learning/information-parents/school-term-dates-september-2026-july-2028", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "This provides 195 days when only 190 term days are required. Schools should therefore allocate five training days within these term dates.",
+      "statedDays": 195,
+      "notes": "Summer break commences Thursday 22 July 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.milton-keynes.gov.uk/schools-and-lifelong-learning/information-parents/school-term-dates-september-2026-july-2028", "pageUrl": "https://www.milton-keynes.gov.uk/schools-and-lifelong-learning/information-parents/school-term-dates-september-2026-july-2028", "via": "direct", "fetchedUrl": "https://www.milton-keynes.gov.uk/schools-and-lifelong-learning/information-parents/school-term-dates-september-2026-july-2028", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-22", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Autumn term (second half)"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Same wording as 2026-27: 195 days, schools allocate five training days within them.",
+      "statedDays": 195,
+      "notes": "Adopted by delegated decision on 17 March 2026 after consultation. Summer break commences Monday 24 July 2028."
+    }
+  }
+}

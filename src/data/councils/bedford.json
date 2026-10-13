@@ -1,0 +1,71 @@
+{
+  "slug": "bedford",
+  "name": "Bedford",
+  "officialName": "Bedford Borough Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "unitary",
+  "appliesTo": "You can view school term and holiday dates set by Bedford Borough Council below. Please check with your child's schools or academy as some may make minor changes to school term dates.",
+  "academyNote": "Academies and other Own Admission Authorities can set their own dates. All schools can set their own PD days. Please contact your school direct for term date queries.",
+  "localFacts": [
+    {"fact": "Bedford Borough Council calls teacher training days Personal or Professional Development (PD) days and marks proposed PD days on its printable calendars.", "source": "https://www.bedford.gov.uk/files/term-dates-2026-27.pdf/download?inline"},
+    {"fact": "The council's 2026-27 calendar counts 74 days in autumn, 54 in spring and 67 in summer: 195 days in total, including 5 PD days.", "source": "https://www.bedford.gov.uk/files/term-dates-2026-27.pdf/download?inline"},
+    {"fact": "The 2027-28 calendar counts 73 days in autumn, 59 in spring and 63 in summer, again 195 days including 5 PD days.", "source": "https://www.bedford.gov.uk/files/bbc-term-dates-2027-28.pdf/download?inline"},
+    {"fact": "All schools can set their own PD days, and some schools and academies may change their term dates, so the council asks parents to check with the school.", "source": "https://www.bedford.gov.uk/files/bbc-term-dates-2027-28.pdf/download?inline"},
+    {"fact": "The council's term dates page links to its guidance on what the law says about holidays during term time.", "source": "https://www.bedford.gov.uk/schools-education-and-childcare/schools-and-colleges/school-term-and-holiday-dates"},
+    {"fact": "In 2027-28 the spring term starts on Tuesday 4 January 2028 and the summer term on Tuesday 18 April 2028, the day after Easter Monday.", "source": "https://www.bedford.gov.uk/schools-education-and-childcare/schools-and-colleges/school-term-and-holiday-dates"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.bedford.gov.uk/files/term-dates-2026-27.pdf/download?inline", "pageUrl": "https://www.bedford.gov.uk/schools-education-and-childcare/schools-and-colleges/school-term-and-holiday-dates", "via": "direct", "fetchedUrl": "https://www.bedford.gov.uk/files/term-dates-2026-27.pdf/download?inline", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The 195 days include 5 PD days; the calendar marks proposed PD days but schools and academies may change them.",
+      "statedDays": 195,
+      "notes": "Pupil day summary on the PDF: autumn 74, spring 54, summer 67, total 195 (5 PD days)."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.bedford.gov.uk/files/bbc-term-dates-2027-28.pdf/download?inline", "pageUrl": "https://www.bedford.gov.uk/schools-education-and-childcare/schools-and-colleges/school-term-and-holiday-dates", "via": "direct", "fetchedUrl": "https://www.bedford.gov.uk/files/bbc-term-dates-2027-28.pdf/download?inline", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-22", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Autumn term (second half)"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "All schools can set their own PD days; 195 days include 5 PD days.",
+      "statedDays": 195,
+      "notes": "Pupil day summary on the PDF: autumn 73, spring 59, summer 63, total 195 (5 PD days)."
+    }
+  }
+}

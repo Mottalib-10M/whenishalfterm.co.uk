@@ -1,0 +1,89 @@
+{
+  "slug": "fife",
+  "name": "Fife",
+  "officialName": "Fife Council",
+  "nation": "scotland",
+  "region": "Scotland",
+  "type": "scottish",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {"fact": "Fife schools have a two week autumn holiday in October, listed as lasting 12 days (Monday 12 to Friday 23 October 2026).", "source": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays"},
+    {"fact": "The council publishes four terms (autumn, winter, spring and summer) rather than three, with the winter term running from the end of the October holiday to Christmas.", "source": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays"},
+    {"fact": "The February break is two additional holiday days on a Thursday and Friday, preceded by an in-service day on the Wednesday.", "source": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays"},
+    {"fact": "Fife has an additional one day holiday on the first Monday of June (7 June 2027, 5 June 2028) as well as the May Day holiday.", "source": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays"},
+    {"fact": "One in-service day falls in November (Friday 13 November 2026 and Friday 12 November 2027).", "source": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays"},
+    {"fact": "The Christmas holidays start on 23 December and pupils return on 6 January in both 2026-27 and 2027-28.", "source": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays"},
+    {"fact": "All holiday dates on the council page are inclusive, and each holiday can be added to a calendar from the page.", "source": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays", "pageUrl": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/20251010125320id_/https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-08-17", "end": "2026-10-09", "label": "Autumn term"},
+        {"start": "2026-10-26", "end": "2026-12-22", "label": "Winter term"},
+        {"start": "2027-01-06", "end": "2027-02-10", "label": "Spring term"},
+        {"start": "2027-02-15", "end": "2027-03-25", "label": "Spring term"},
+        {"start": "2027-04-12", "end": "2027-04-30", "label": "Summer term"},
+        {"start": "2027-05-04", "end": "2027-06-04", "label": "Summer term"},
+        {"start": "2027-06-08", "end": "2027-07-02", "label": "Summer term"}
+      ],
+      "holidays": [
+        {"name": "October holiday", "start": "2026-10-12", "end": "2026-10-23"},
+        {"name": "Christmas holidays", "start": "2026-12-23", "end": "2027-01-05"},
+        {"name": "February mid-term", "start": "2027-02-11", "end": "2027-02-12"},
+        {"name": "Spring holiday", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May Day holiday", "start": "2027-05-03", "end": "2027-05-03"},
+        {"name": "June holiday", "start": "2027-06-07", "end": "2027-06-07"},
+        {"name": "Summer holidays", "start": "2027-07-05", "end": "2027-08-13"}
+      ],
+      "closures": [],
+      "inset": [
+        {"date": "2026-08-17", "label": "School in-service day"},
+        {"date": "2026-08-18", "label": "School in-service day"},
+        {"date": "2026-11-13", "label": "School in-service day"},
+        {"date": "2027-02-10", "label": "School in-service day"},
+        {"date": "2027-05-06", "label": "School in-service day"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five school in-service days listed by the council: 17 and 18 August 2026, 13 November 2026, 10 February 2027 and 6 May 2027.",
+      "statedDays": null,
+      "notes": "Pupils start the autumn term on Wednesday 19 August 2026. Two week October holiday. Read from the archived council page (last updated 19 August 2025); the live page blocks automated access."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays", "pageUrl": "https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/20251010125320id_/https://www.fife.gov.uk/kb/docs/articles/education2/schools-in-fife/school-holidays", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-08-16", "end": "2027-10-08", "label": "Autumn term"},
+        {"start": "2027-10-25", "end": "2027-12-22", "label": "Winter term"},
+        {"start": "2028-01-06", "end": "2028-02-09", "label": "Spring term"},
+        {"start": "2028-02-14", "end": "2028-03-31", "label": "Spring term"},
+        {"start": "2028-04-17", "end": "2028-04-28", "label": "Summer term"},
+        {"start": "2028-05-02", "end": "2028-06-02", "label": "Summer term"},
+        {"start": "2028-06-06", "end": "2028-06-29", "label": "Summer term"}
+      ],
+      "holidays": [
+        {"name": "October holiday", "start": "2027-10-11", "end": "2027-10-22"},
+        {"name": "Christmas holidays", "start": "2027-12-23", "end": "2028-01-05"},
+        {"name": "February mid-term", "start": "2028-02-10", "end": "2028-02-11"},
+        {"name": "Spring holiday", "start": "2028-04-03", "end": "2028-04-14"},
+        {"name": "May Day holiday", "start": "2028-05-01", "end": "2028-05-01"},
+        {"name": "June holiday", "start": "2028-06-05", "end": "2028-06-05"},
+        {"name": "Summer holidays", "start": "2028-06-30", "end": "2028-08-11"}
+      ],
+      "closures": [],
+      "inset": [
+        {"date": "2027-08-16", "label": "School in-service day"},
+        {"date": "2027-08-17", "label": "School in-service day"},
+        {"date": "2027-11-12", "label": "School in-service day"},
+        {"date": "2028-02-09", "label": "School in-service day"},
+        {"date": "2028-06-06", "label": "School in-service day"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five school in-service days listed by the council: 16 and 17 August 2027, 12 November 2027, 9 February 2028 and 6 June 2028.",
+      "statedDays": null,
+      "notes": "Pupils start on Wednesday 18 August 2027. The spring holiday runs from 3 to 14 April 2028 and the summer term starts on Monday 17 April 2028, which is Easter Monday. The summer holidays start on Friday 30 June 2028 (listed as lasting 43 days to 11 August). Read from the archived council page (last updated 19 August 2025)."
+    }
+  }
+}

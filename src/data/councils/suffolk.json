@@ -1,0 +1,71 @@
+{
+  "slug": "suffolk",
+  "name": "Suffolk",
+  "officialName": "Suffolk County Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "county",
+  "appliesTo": "The school term dates for all Suffolk County Council's maintained schools for the 2026/2027 school year. All term dates for community and voluntary controlled schools are on the county council's website.",
+  "academyNote": "Academies, voluntary aided and free schools can set their own term dates so please check with your child's school in case these differ from those set by us.",
+  "localFacts": [
+    {"fact": "Suffolk calls teacher training days Professional Development (PD) days; every maintained school sets five of them.", "source": "https://www.suffolk.gov.uk/children-families-and-learning/schools/school-term-and-holiday-dates"},
+    {"fact": "The county council recommends PD days for 2026-27: Tuesday 1 and Wednesday 2 September 2026, Friday 23 October 2026, Monday 4 January 2027 and Monday 12 April 2027.", "source": "https://www.suffolk.gov.uk/asset-library/school-term-dates-2026-2027-download-and-booklet-text.pdf"},
+    {"fact": "Most schools in Suffolk follow the recommended PD days, but the council asks parents to contact their school to confirm.", "source": "https://www.suffolk.gov.uk/asset-library/school-term-dates-2026-2027-download-and-booklet-text.pdf"},
+    {"fact": "For 2027-28 the recommended PD days are 1, 2 and 3 September 2027, Tuesday 4 January 2028 and Tuesday 18 April 2028, so the year opens with three training days.", "source": "https://www.suffolk.gov.uk/children-families-and-learning/schools/school-term-and-holiday-dates"},
+    {"fact": "The school year totals 195 days, giving 190 teaching days once the five PD days are taken.", "source": "https://www.suffolk.gov.uk/asset-library/school-term-dates-2026-2027-download-and-booklet-text.pdf"},
+    {"fact": "The council's 2027-28 PDF gives the Easter holiday as starting on Friday 31 March 2028, the same day it lists as the end of spring term; the web page gives Saturday 1 April 2028.", "source": "https://www.suffolk.gov.uk/asset-library/school-term-dates-2027-2028.pdf"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.suffolk.gov.uk/asset-library/school-term-dates-2026-2027-download-and-booklet-text.pdf", "pageUrl": "https://www.suffolk.gov.uk/children-families-and-learning/schools/school-term-and-holiday-dates", "via": "direct", "fetchedUrl": "https://www.suffolk.gov.uk/asset-library/school-term-dates-2026-2027-download-and-booklet-text.pdf", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-19", "end": "2027-01-03"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-11"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "All maintained schools set five Professional Development (PD) days. The council recommends Tuesday 1 and Wednesday 2 September 2026, Friday 23 October 2026, Monday 4 January 2027 and Monday 12 April 2027; most schools follow these.",
+      "statedDays": 195,
+      "notes": "195 days in total, 190 teaching days after the five PD days."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.suffolk.gov.uk/asset-library/school-term-dates-2027-2028.pdf", "pageUrl": "https://www.suffolk.gov.uk/children-families-and-learning/schools/school-term-and-holiday-dates", "via": "direct", "fetchedUrl": "https://www.suffolk.gov.uk/asset-library/school-term-dates-2027-2028.pdf", "retrieved": "2026-10-13", "format": "pdf"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-22", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Autumn term (second half)"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-18", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-01", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools set five PD days. The council recommends Wednesday 1, Thursday 2 and Friday 3 September 2027, Tuesday 4 January 2028 and Tuesday 18 April 2028 (the PDF prints 'Tuesday 2' September).",
+      "statedDays": 195,
+      "notes": "Spring term ends Friday 31 March 2028; Easter holiday taken from the web page (Saturday 1 April to Monday 17 April 2028), the PDF says Friday 31 March. Summer term ends Friday 21 July 2028."
+    }
+  }
+}

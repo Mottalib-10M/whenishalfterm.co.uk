@@ -1,0 +1,83 @@
+{
+  "slug": "highland",
+  "name": "Highland",
+  "officialName": "The Highland Council",
+  "nation": "scotland",
+  "region": "Scotland",
+  "type": "scottish",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {"fact": "Highland schools have two week holidays in October, at Christmas and New Year, and at Easter, and a summer holiday of 6 to 8 weeks.", "source": "https://www.highland.gov.uk/schools/school-term-dates"},
+    {"fact": "One in-service day falls in mid September (Monday 14 September 2026 and Monday 13 September 2027) instead of a September weekend holiday.", "source": "https://www.highland.gov.uk/schools/school-term-dates/2"},
+    {"fact": "Holiday dates are inclusive: for holidays from 14 to 21 October, pupils return on 22 October.", "source": "https://www.highland.gov.uk/schools/school-term-dates/2"},
+    {"fact": "The February break is two days (a Monday and Tuesday) followed by an in-service day on the Wednesday.", "source": "https://www.highland.gov.uk/schools/school-term-dates/2"},
+    {"fact": "Term 4 ends on a Thursday, with the summer holidays starting on Friday 2 July 2027 and Friday 30 June 2028.", "source": "https://www.highland.gov.uk/schools/school-term-dates/3"},
+    {"fact": "The council offers a printable copy of the calendar and a way to add the dates to a personal calendar.", "source": "https://www.highland.gov.uk/schools/school-term-dates"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.highland.gov.uk/schools/school-term-dates/2", "pageUrl": "https://www.highland.gov.uk/schools/school-term-dates", "via": "direct", "fetchedUrl": "https://www.highland.gov.uk/schools/school-term-dates/2", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-08-17", "end": "2026-10-09", "label": "Term 1"},
+        {"start": "2026-10-26", "end": "2026-12-22", "label": "Term 2"},
+        {"start": "2027-01-06", "end": "2027-02-12", "label": "Term 3"},
+        {"start": "2027-02-17", "end": "2027-03-25", "label": "Term 3"},
+        {"start": "2027-04-12", "end": "2027-07-01", "label": "Term 4"}
+      ],
+      "holidays": [
+        {"name": "October holiday", "start": "2026-10-12", "end": "2026-10-23"},
+        {"name": "Christmas holidays", "start": "2026-12-23", "end": "2027-01-05"},
+        {"name": "February mid-term", "start": "2027-02-15", "end": "2027-02-16"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "Summer holidays", "start": "2027-07-02", "end": "2027-08-13"}
+      ],
+      "closures": [
+        {"date": "2027-05-03", "label": "May Day"}
+      ],
+      "inset": [
+        {"date": "2026-08-17", "label": "In-service day"},
+        {"date": "2026-08-18", "label": "In-service day"},
+        {"date": "2026-09-14", "label": "In-service day"},
+        {"date": "2027-02-17", "label": "In-service day"},
+        {"date": "2027-05-06", "label": "In-service day"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five in-service days set by the council: 17 and 18 August 2026, 14 September 2026, 17 February 2027 and 6 May 2027. On in-service days, schools are closed to students.",
+      "statedDays": null,
+      "notes": "Term 1 starts on Monday 17 August 2026 with two in-service days, so pupils start on Wednesday 19 August. Term 2 ends on Tuesday 22 December 2026 and term 3 starts on Wednesday 6 January 2027. Summer holidays shown to 13 August 2027, the Friday before the first in-service day of 2027-28."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.highland.gov.uk/schools/school-term-dates/3", "pageUrl": "https://www.highland.gov.uk/schools/school-term-dates", "via": "direct", "fetchedUrl": "https://www.highland.gov.uk/schools/school-term-dates/3", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-08-16", "end": "2027-10-08", "label": "Term 1"},
+        {"start": "2027-10-25", "end": "2027-12-21", "label": "Term 2"},
+        {"start": "2028-01-05", "end": "2028-02-11", "label": "Term 3"},
+        {"start": "2028-02-16", "end": "2028-03-31", "label": "Term 3"},
+        {"start": "2028-04-18", "end": "2028-06-29", "label": "Term 4"}
+      ],
+      "holidays": [
+        {"name": "October holiday", "start": "2027-10-11", "end": "2027-10-22"},
+        {"name": "Christmas holidays", "start": "2027-12-22", "end": "2028-01-04"},
+        {"name": "February mid-term", "start": "2028-02-14", "end": "2028-02-15"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"}
+      ],
+      "closures": [
+        {"date": "2028-05-01", "label": "May Day"}
+      ],
+      "inset": [
+        {"date": "2027-08-16", "label": "In-service day"},
+        {"date": "2027-08-17", "label": "In-service day"},
+        {"date": "2027-09-13", "label": "In-service day"},
+        {"date": "2028-02-16", "label": "In-service day"},
+        {"date": "2028-06-05", "label": "In-service day"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five in-service days set by the council: 16 and 17 August 2027, 13 September 2027, 16 February 2028 and 5 June 2028.",
+      "statedDays": null,
+      "notes": "Term 1 starts for pupils on Wednesday 18 August 2027. The Easter holidays run from 3 to 17 April 2028 and term 4 starts on Tuesday 18 April. Summer holidays start on Friday 30 June 2028; dates for 2028-29 are not yet on the page."
+    }
+  }
+}

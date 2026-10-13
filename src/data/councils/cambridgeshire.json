@@ -1,0 +1,72 @@
+{
+  "slug": "cambridgeshire",
+  "name": "Cambridgeshire",
+  "officialName": "Cambridgeshire County Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "county",
+  "appliesTo": "Local Authorities have a duty to determine school term dates for local authority maintained schools which must be open to pupils for 190 days in an academic year, and 195 days for teachers.",
+  "academyNote": "Foundation, Trust, Voluntary Aided schools and Academies are responsible for setting their own holiday dates. So individual schools, may choose to follow a pattern and/or specific dates that do not match those set by us.",
+  "localFacts": [
+    {"fact": "Cambridgeshire County Council determines term dates for local authority maintained schools; foundation, trust, voluntary aided schools and academies set their own holiday dates.", "source": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures"},
+    {"fact": "The published dates total 195 days, from which each school chooses five days to set aside as professional training days.", "source": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures"},
+    {"fact": "Staff training dates are set at the discretion of the school, so the council asks parents to check the school's own website.", "source": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures"},
+    {"fact": "The council gives the number of days in each half term, for example 39 days from Tuesday 1 September to Friday 23 October 2026.", "source": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures"},
+    {"fact": "In 2027-28 the Christmas holidays are listed as Monday 20 December to Friday 31 December, and the spring term starts on Tuesday 4 January 2028.", "source": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures"},
+    {"fact": "The 2027-28 Easter holidays run from Monday 3 April to Monday 17 April 2028, and the summer term starts on Tuesday 18 April.", "source": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures", "pageUrl": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures", "via": "direct", "fetchedUrl": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "These dates total 195 days, from which schools should choose 5 days to set aside as professional training days.",
+      "statedDays": 195,
+      "notes": "Half-term day counts published: 39, 35, 30, 24, 34 and 33 days."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures", "pageUrl": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures", "via": "direct", "fetchedUrl": "https://www.cambridgeshire.gov.uk/residents/children-and-families/schools-learning/school-term-dates-closures", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-22", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Autumn term (second half)"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2027-12-31"},
+        {"name": "New Year bank holiday", "start": "2028-01-03", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "These dates total 195 days, from which schools should choose five days to set aside as professional training days.",
+      "statedDays": 195,
+      "notes": "The council lists the Christmas holidays as ending Friday 31 December 2027; Monday 3 January 2028 is the substitute New Year bank holiday and term resumes Tuesday 4 January. Summer holiday from Monday 24 July 2028 onwards."
+    }
+  }
+}

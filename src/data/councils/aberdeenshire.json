@@ -1,0 +1,85 @@
+{
+  "slug": "aberdeenshire",
+  "name": "Aberdeenshire",
+  "officialName": "Aberdeenshire Council",
+  "nation": "scotland",
+  "region": "Scotland",
+  "type": "scottish",
+  "appliesTo": "You are viewing school term dates without local holidays which differ between schools. Please select a school from the dropdown to view full list of dates.",
+  "academyNote": "",
+  "localFacts": [
+    {"fact": "Aberdeenshire lists term dates per school: occasional days (local holidays that differ between schools and areas) are added on top of the common calendar, and parents pick their school from a dropdown to see them.", "source": "https://online.aberdeenshire.gov.uk/schooltermdates"},
+    {"fact": "Schools go back later than in most of Scotland: pupils start on Wednesday 19 August 2026 and Wednesday 25 August 2027, after two in-service days.", "source": "https://online.aberdeenshire.gov.uk/schooltermdates"},
+    {"fact": "The October holiday lasts two weeks (12 to 23 October 2026).", "source": "https://online.aberdeenshire.gov.uk/schooltermdates"},
+    {"fact": "The February break is one midterm holiday on a Monday followed by two in-service days, so pupils are off for three days.", "source": "https://online.aberdeenshire.gov.uk/schooltermdates"},
+    {"fact": "The summer term runs into July: term 4 ends on Thursday 1 July 2027 and on Thursday 6 July 2028.", "source": "https://online.aberdeenshire.gov.uk/schooltermdates"},
+    {"fact": "The council already publishes common dates for 2028-29 and 2029-30, without local holidays, which will be added closer to the start of each year.", "source": "https://online.aberdeenshire.gov.uk/schooltermdates"},
+    {"fact": "Parents with a myAberdeenshire account can sign up for email alerts about school closures and transport changes, and the app sends push notifications about upcoming holidays.", "source": "https://online.aberdeenshire.gov.uk/schooltermdates"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://online.aberdeenshire.gov.uk/schooltermdates", "pageUrl": "https://www.aberdeenshire.gov.uk/schools/school-info/school-term-dates", "via": "direct", "fetchedUrl": "https://online.aberdeenshire.gov.uk/schooltermdates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-08-17", "end": "2026-10-09", "label": "Term 1"},
+        {"start": "2026-10-26", "end": "2026-12-22", "label": "Term 2"},
+        {"start": "2027-01-05", "end": "2027-02-05", "label": "Term 3"},
+        {"start": "2027-02-09", "end": "2027-03-25", "label": "Term 3"},
+        {"start": "2027-04-12", "end": "2027-07-01", "label": "Term 4"}
+      ],
+      "holidays": [
+        {"name": "October holiday", "start": "2026-10-12", "end": "2026-10-23"},
+        {"name": "Christmas holidays", "start": "2026-12-23", "end": "2027-01-04"},
+        {"name": "February mid-term", "start": "2027-02-08", "end": "2027-02-08"},
+        {"name": "Spring holiday", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "Summer holidays", "start": "2027-07-02", "end": "2027-08-20"}
+      ],
+      "closures": [
+        {"date": "2027-05-03", "label": "May Day Holiday"}
+      ],
+      "inset": [
+        {"date": "2026-08-17", "label": "In-Service Day"},
+        {"date": "2026-08-18", "label": "In-Service Day"},
+        {"date": "2026-11-13", "label": "In-Service Day"},
+        {"date": "2027-02-09", "label": "In-Service Day"},
+        {"date": "2027-02-10", "label": "In-Service Day"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five in-service days in the common calendar: 17 and 18 August 2026, 13 November 2026, 9 and 10 February 2027.",
+      "statedDays": null,
+      "notes": "Common dates without the occasional days (local holidays) that differ between schools and areas; check the school in the council's dropdown. Pupils start term 1 on Wednesday 19 August 2026. The spring holiday runs from Good Friday 26 March to 9 April 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://online.aberdeenshire.gov.uk/schooltermdates", "pageUrl": "https://www.aberdeenshire.gov.uk/schools/school-info/school-term-dates", "via": "direct", "fetchedUrl": "https://online.aberdeenshire.gov.uk/schooltermdates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-08-23", "end": "2027-10-08", "label": "Term 1"},
+        {"start": "2027-10-25", "end": "2027-12-21", "label": "Term 2"},
+        {"start": "2028-01-05", "end": "2028-02-11", "label": "Term 3"},
+        {"start": "2028-02-15", "end": "2028-03-31", "label": "Term 3"},
+        {"start": "2028-04-17", "end": "2028-07-06", "label": "Term 4"}
+      ],
+      "holidays": [
+        {"name": "October holiday", "start": "2027-10-11", "end": "2027-10-22"},
+        {"name": "Christmas holidays", "start": "2027-12-22", "end": "2028-01-04"},
+        {"name": "February mid-term", "start": "2028-02-14", "end": "2028-02-14"},
+        {"name": "Spring holiday", "start": "2028-04-03", "end": "2028-04-14"},
+        {"name": "Summer holidays", "start": "2028-07-07", "end": "2028-08-18"}
+      ],
+      "closures": [
+        {"date": "2028-05-01", "label": "May Day Holiday"}
+      ],
+      "inset": [
+        {"date": "2027-08-23", "label": "In-Service Day"},
+        {"date": "2027-08-24", "label": "In-Service Day"},
+        {"date": "2027-11-12", "label": "In-Service Day"},
+        {"date": "2028-02-15", "label": "In-Service Day"},
+        {"date": "2028-02-16", "label": "In-Service Day"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five in-service days in the common calendar: 23 and 24 August 2027, 12 November 2027, 15 and 16 February 2028.",
+      "statedDays": null,
+      "notes": "Common dates without the occasional days that differ between schools. Pupils start term 1 on Wednesday 25 August 2027. The spring holiday (3 to 13 April 2028) is followed by the Good Friday holiday on 14 April; term 4 starts on Monday 17 April 2028, Easter Monday. Summer holiday 7 July to 18 August 2028, as listed by the council."
+    }
+  }
+}

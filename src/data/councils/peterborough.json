@@ -1,0 +1,71 @@
+{
+  "slug": "peterborough",
+  "name": "Peterborough",
+  "officialName": "Peterborough City Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "unitary",
+  "appliesTo": "As the local authority, we have a duty to determine school term dates for local authority maintained schools.",
+  "academyNote": "Foundation, Trust, Voluntary Aided Schools and Academies are responsible for setting their own term dates. Individual schools may choose to follow a pattern and / or specific dates that do not match those set by us.",
+  "localFacts": [
+    {"fact": "Peterborough City Council sets term dates for local authority maintained schools only; foundation, trust, voluntary aided schools and academies set their own.", "source": "https://www.peterborough.gov.uk/schools-and-education/term-dates"},
+    {"fact": "The council publishes the number of school days in each half term, for example 39 days from Tuesday 1 September to Friday 23 October 2026.", "source": "https://www.peterborough.gov.uk/schools-and-education/term-dates"},
+    {"fact": "Schools have five training days to take at their discretion, so the published days total 195 for teachers and 190 for pupils.", "source": "https://www.peterborough.gov.uk/schools-and-education/term-dates"},
+    {"fact": "The 2027-28 Christmas holiday runs to Monday 3 January 2028 and the spring term starts on Tuesday 4 January 2028.", "source": "https://www.peterborough.gov.uk/schools-and-education/term-dates"},
+    {"fact": "In 2027-28 the Easter holiday runs from Monday 3 April to Monday 17 April 2028, with the summer term starting on Tuesday 18 April.", "source": "https://www.peterborough.gov.uk/schools-and-education/term-dates"},
+    {"fact": "The council asks parents to check the school's own website to verify term dates and teacher training days.", "source": "https://www.peterborough.gov.uk/schools-and-education/term-dates"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.peterborough.gov.uk/schools-and-education/term-dates", "pageUrl": "https://www.peterborough.gov.uk/schools-and-education/term-dates", "via": "direct", "fetchedUrl": "https://www.peterborough.gov.uk/schools-and-education/term-dates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools must be open to pupils for 190 days and 195 days for teachers; schools have five training days available to take at their discretion.",
+      "statedDays": 195,
+      "notes": "Half-term day counts published: 39, 35, 30, 24, 34 and 33 days (195)."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.peterborough.gov.uk/schools-and-education/term-dates", "pageUrl": "https://www.peterborough.gov.uk/schools-and-education/term-dates", "via": "direct", "fetchedUrl": "https://www.peterborough.gov.uk/schools-and-education/term-dates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-22", "label": "Autumn term (first half)"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Autumn term (second half)"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Spring term (first half)"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Spring term (second half)"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Summer term (first half)"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Same rule as 2026-27: five training days at each school's discretion.",
+      "statedDays": 195,
+      "notes": "Half-term day counts published: 38, 35, 29, 30, 28 and 35 days (195). Summer holiday from Monday 24 July 2028 onwards."
+    }
+  }
+}

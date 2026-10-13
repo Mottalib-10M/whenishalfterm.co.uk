@@ -1,0 +1,94 @@
+{
+  "slug": "south-lanarkshire",
+  "name": "South Lanarkshire",
+  "officialName": "South Lanarkshire Council",
+  "nation": "scotland",
+  "region": "Scotland",
+  "type": "scottish",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {"fact": "The 2026-27 school holiday and in-service dates were approved by the Education Resources Committee on Tuesday 9 September 2025, and the 2027-28 dates on Tuesday 30 June 2026.", "source": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays"},
+    {"fact": "Pupils attend school for 190 days and teachers attend for 195 days.", "source": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays"},
+    {"fact": "Lanark schools close for two extra days in June, Thursday 10 and Friday 11 June 2027, and Thursday 8 and Friday 9 June 2028.", "source": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays"},
+    {"fact": "Schools close for a local holiday on the last Friday and Monday of May (28 and 31 May 2027).", "source": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays"},
+    {"fact": "One in-service day falls on a Monday in November (9 November 2026 and 8 November 2027).", "source": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays"},
+    {"fact": "In 2027-28 the year starts on a Friday: teachers return on Friday 13 August 2027 and pupils on Tuesday 17 August 2027.", "source": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays/2"},
+    {"fact": "Schools close at 2.30pm before the Christmas and spring breaks and at 1pm for the summer break.", "source": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays", "pageUrl": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays", "via": "direct", "fetchedUrl": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-08-11", "end": "2026-09-24", "label": "Autumn term"},
+        {"start": "2026-09-29", "end": "2026-10-09", "label": "Autumn term"},
+        {"start": "2026-10-19", "end": "2026-12-22", "label": "Autumn term"},
+        {"start": "2027-01-06", "end": "2027-02-12", "label": "Spring term"},
+        {"start": "2027-02-17", "end": "2027-03-25", "label": "Spring term"},
+        {"start": "2027-03-30", "end": "2027-04-02", "label": "Spring term"},
+        {"start": "2027-04-19", "end": "2027-05-27", "label": "Summer term"},
+        {"start": "2027-06-01", "end": "2027-06-25", "label": "Summer term"}
+      ],
+      "holidays": [
+        {"name": "September weekend", "start": "2026-09-25", "end": "2026-09-28"},
+        {"name": "October holiday", "start": "2026-10-12", "end": "2026-10-16"},
+        {"name": "Christmas holidays", "start": "2026-12-23", "end": "2027-01-05"},
+        {"name": "February mid-term", "start": "2027-02-15", "end": "2027-02-16"},
+        {"name": "Good Friday and Easter Monday", "start": "2027-03-26", "end": "2027-03-29"},
+        {"name": "Spring holiday", "start": "2027-04-05", "end": "2027-04-16"},
+        {"name": "Local holiday", "start": "2027-05-28", "end": "2027-05-31"},
+        {"name": "Summer holidays", "start": "2027-06-28", "end": "2027-08-12"}
+      ],
+      "closures": [
+        {"date": "2027-05-03", "label": "May day"}
+      ],
+      "inset": [
+        {"date": "2026-08-11", "label": "In-service day (teachers return)"},
+        {"date": "2026-08-12", "label": "In-service day"},
+        {"date": "2026-11-09", "label": "In-service day"},
+        {"date": "2027-02-17", "label": "In-service day"},
+        {"date": "2027-05-06", "label": "In-service day (all schools)"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five in-service days for all schools: 11 and 12 August 2026, 9 November 2026, 17 February 2027 and 6 May 2027.",
+      "statedDays": 190,
+      "notes": "Pupils return on Thursday 13 August 2026. Schools close at 2.30pm on Tuesday 22 December 2026 and pupils return on Wednesday 6 January 2027. Lanark schools also close on 10 and 11 June 2027. Schools close at 1pm on Friday 25 June 2027. Summer holidays shown to 12 August 2027, the day before teachers return."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays/2", "pageUrl": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays", "via": "direct", "fetchedUrl": "https://www.southlanarkshire.gov.uk/secondary-school-information/school-holidays/2", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-08-13", "end": "2027-09-23", "label": "Autumn term"},
+        {"start": "2027-09-28", "end": "2027-10-08", "label": "Autumn term"},
+        {"start": "2027-10-18", "end": "2027-12-21", "label": "Autumn term"},
+        {"start": "2028-01-05", "end": "2028-02-11", "label": "Spring term"},
+        {"start": "2028-02-16", "end": "2028-03-31", "label": "Spring term"},
+        {"start": "2028-04-18", "end": "2028-05-25", "label": "Summer term"},
+        {"start": "2028-05-30", "end": "2028-06-27", "label": "Summer term"}
+      ],
+      "holidays": [
+        {"name": "September weekend", "start": "2027-09-24", "end": "2027-09-27"},
+        {"name": "October holiday", "start": "2027-10-11", "end": "2027-10-15"},
+        {"name": "Christmas holidays", "start": "2027-12-22", "end": "2028-01-04"},
+        {"name": "February mid-term", "start": "2028-02-14", "end": "2028-02-15"},
+        {"name": "Spring holiday", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "Local holiday", "start": "2028-05-26", "end": "2028-05-29"}
+      ],
+      "closures": [
+        {"date": "2028-05-01", "label": "May day"}
+      ],
+      "inset": [
+        {"date": "2027-08-13", "label": "In-service day (teachers return)"},
+        {"date": "2027-08-16", "label": "In-service day"},
+        {"date": "2027-11-08", "label": "In-service day"},
+        {"date": "2028-02-16", "label": "In-service day"},
+        {"date": "2028-05-25", "label": "In-service day (all schools)"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five in-service days for all schools: 13 and 16 August 2027, 8 November 2027, 16 February 2028 and 25 May 2028.",
+      "statedDays": 190,
+      "notes": "Pupils return on Tuesday 17 August 2027. The spring break (3 to 14 April 2028) includes Good Friday, and Easter Monday 17 April is also a holiday. Lanark schools also close on 8 and 9 June 2028. Schools close at 1pm on Tuesday 27 June 2028. Dates for 2028-29 are not yet on the page."
+    }
+  }
+}

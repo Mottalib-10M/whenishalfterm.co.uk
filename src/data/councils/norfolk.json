@@ -1,0 +1,45 @@
+{
+  "slug": "norfolk",
+  "name": "Norfolk",
+  "officialName": "Norfolk County Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "county",
+  "appliesTo": "Norfolk County Council is responsible for setting the term dates for community schools, community special schools, VC schools and nursery schools.",
+  "academyNote": "Foundation, VA, Foundation special, free schools and academy trusts are able to set their own dates, but most adopt the Norfolk model. We advise you to check with your child's school before making holiday or other commitments.",
+  "localFacts": [
+    {"fact": "Norfolk term dates are set after consultation with schools, neighbouring authorities and groups representing teaching and other staff; the consultation usually takes place in November and December and dates are agreed in January.", "source": "https://www.norfolk.gov.uk/article/38214/Setting-term-dates"},
+    {"fact": "Norfolk takes part in an annual Eastern region meeting of county councils, so its dates are very similar to those of Cambridgeshire and Suffolk, with minor variations caused by different arrangements for staff development days.", "source": "https://www.norfolk.gov.uk/article/38214/Setting-term-dates"},
+    {"fact": "The school calendar also sets the days on which school transport will be provided.", "source": "https://www.norfolk.gov.uk/article/38214/Setting-term-dates"},
+    {"fact": "The published 2026-27 dates are pupil days: term starts on Thursday 3 September 2026 and the council suggests staff training on 1 and 2 September 2026, 23 October 2026, 4 January 2027 and 12 April 2027.", "source": "https://www.norfolk.gov.uk/article/67207/Term-dates-and-school-holidays-2026-2027"},
+    {"fact": "Some schools may use twilight hours for staff training instead of some or all of the suggested training days.", "source": "https://www.norfolk.gov.uk/article/67207/Term-dates-and-school-holidays-2026-2027"},
+    {"fact": "Because training days are suggested on 4 January and 12 April 2027, pupils return on Tuesday 5 January and Tuesday 13 April 2027.", "source": "https://www.norfolk.gov.uk/article/67207/Term-dates-and-school-holidays-2026-2027"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.norfolk.gov.uk/article/67207/Term-dates-and-school-holidays-2026-2027", "pageUrl": "https://www.norfolk.gov.uk/article/38151/School-term-dates-and-school-holidays", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/20250722122649id_/https://www.norfolk.gov.uk/article/67207/Term-dates-and-school-holidays-2026-2027", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-03", "end": "2026-10-22", "label": "Autumn term (first half)"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term (second half)"},
+        {"start": "2027-01-05", "end": "2027-02-12", "label": "Spring term (first half)"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Spring term (second half)"},
+        {"start": "2027-04-13", "end": "2027-05-28", "label": "Summer term (first half)"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Summer term (second half)"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-23", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-04"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-12"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "We suggest schools carry out staff training on 1 and 2 September 2026, 23 October 2026, 4 January 2027, and 12 April 2027. Some may choose to use twilight hours for staff training instead of some or all of these days.",
+      "statedDays": null,
+      "notes": "Published dates are pupil term time (190 days); the five suggested training days fall outside them. Summer holiday end not listed because the 2027-28 start date could not be read."
+    }
+  }
+}
