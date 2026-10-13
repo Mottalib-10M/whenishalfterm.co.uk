@@ -23,7 +23,7 @@ export default definePage({
   },
   faqs: (h) => [
     { q: 'What are the main school holidays in 2027?', a: 'February half term, two weeks at Easter around 28 March, May half term from 31 May, about six weeks in summer from late July, October half term in late October and the Christmas holidays from about 20 December 2027. Each council fixes the exact dates.' },
-    { q: 'Are the autumn 2027 holidays published yet?', a: `For ${h.councils.filter((c) => c.years['2027-28'] && c.years['2027-28']!.status !== 'not-published').length} of the ${h.councils.length} calendars on this site, yes. Councils normally publish a year at least a year ahead; the council pages say when a year is provisional or not yet out.` },
+    { q: 'Are the autumn 2027 holidays published yet?', a: `For ${h.councils.filter((c) => c.years['2027-28'] && c.years['2027-28']!.status !== 'not-published').length} of the ${h.councils.length} calendars on this site, yes. Councils normally publish a year at least a year ahead; the council pages say when a year is provisional or not yet out, and the table on this page marks those councils as “not yet” in the October 2027 column.` },
     { q: 'How many weeks of school holidays are there in 2027?', a: 'About thirteen weeks in England and Wales: one each for the three half terms, two at Easter, two at Christmas spread over two years, and six in summer. INSET days add about a week of days without pupils, chosen by each school.' },
   ],
   body: (h) => {

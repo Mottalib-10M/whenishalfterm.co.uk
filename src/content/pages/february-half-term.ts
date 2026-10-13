@@ -22,9 +22,9 @@ export default definePage({
   },
   faqs: (h) => [
     { q: 'When is February half term 2027 in England?', a: `For most councils on this site, ${(() => { const g = h.groups('february', '2026-27', eng)[0]; return g ? h.range(g.start, g.end) : '15 to 19 February 2027'; })()}. Pupils are back on Monday 22 February unless the school has an INSET day. A handful of councils have another week; the table on this page lists them, and academies can choose differently.` },
-    { q: 'Is there a half term in February in Scotland?', a: 'Not a week. Scottish councils give a February mid-term of usually two days, sometimes extended by an in-service day, and the dates differ from one council to the next. Check the council page for the exact days.' },
-    { q: 'Is Valentine’s Day in half term in 2027?', a: 'No. Valentine’s Day 2027 is Sunday 14 February, the day before the most common half term week begins. Shrove Tuesday 2027 is 9 February, in term time, and Ash Wednesday 10 February.' },
-    { q: 'When is February half term 2028?', a: `${(() => { const g = h.groups('february', '2027-28', eng)[0]; return g ? `Where 2027-28 is published, mostly ${h.range(g.start, g.end)}.` : 'Most councils have not published 2027-28 yet.'; })()} Easter 2028 falls late, on 16 April, so the spring term of 2027-28 is long and some councils place half term later in February.` },
+    { q: 'Is there a half term in February in Scotland?', a: 'Not a week. Scottish councils give a February mid-term of usually two days, sometimes extended by an in-service day, and the dates differ from one council to the next. Check the council page on this site for the exact days, and the school letters for any extra in-service day added to them.' },
+    { q: 'Is Valentine’s Day in half term in 2027?', a: 'No. Valentine’s Day 2027 is Sunday 14 February, the day before the most common half term week begins. Shrove Tuesday 2027 is 9 February and Ash Wednesday 10 February, both in term time, in the last week before the break for most English councils.' },
+    { q: 'When is February half term 2028?', a: `${(() => { const g = h.groups('february', '2027-28', eng)[0]; return g ? `Where 2027-28 is published, mostly ${h.range(g.start, g.end)}.` : 'Most councils have not published 2027-28 yet.'; })()} Easter 2028 falls late, on 16 April, so the spring term of 2027-28 is long and some councils place half term later in February. The council pages list the published dates for each area.` },
   ],
   body: (h) => {
     const g = h.groups('february', '2026-27', eng);

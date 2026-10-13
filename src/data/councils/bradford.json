@@ -1,0 +1,214 @@
+{
+  "slug": "bradford",
+  "name": "Bradford",
+  "officialName": "City of Bradford Metropolitan District Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "metropolitan",
+  "appliesTo": "Statutory academic year calendar published by Bradford Council on Bradford Schools Online; the council's main site sends parents to the Schools Finder for each school's holiday dates.",
+  "academyNote": "The council page does not list which schools follow the calendar; it says to use the Schools Finder to find details about Bradford District schools including school holiday dates.",
+  "localFacts": [
+    {
+      "fact": "Bradford's 2026-27 calendar marks Wednesday 10 March 2027 and Monday 17 May 2027 as the likely dates for Eid, and keeps both as school days.",
+      "source": "https://bso.bradford.gov.uk/userfiles/file/IMT/Bradford%20Term%20Dates%202026-27.pdf"
+    },
+    {
+      "fact": "The council normally expects schools with a significant number of pupils celebrating Eid to consider this when they set their dates.",
+      "source": "https://bso.bradford.gov.uk/userfiles/file/IMT/Bradford%20Term%20Dates%202026-27.pdf"
+    },
+    {
+      "fact": "Each calendar identifies 195 days (190 pupil days plus 5 INSET), and schools choose their five INSET days within this schedule.",
+      "source": "https://bso.bradford.gov.uk/userfiles/file/IMT/SchoolHolidays/Bradford%20Term%20Dates%202027-28.pdf"
+    },
+    {
+      "fact": "To find when a specific school has chosen to take its INSET days, Bradford points to its School Finder.",
+      "source": "https://bso.bradford.gov.uk/content/data-guidance-for-schools/term-dates"
+    },
+    {
+      "fact": "The calendars are published as Word and PDF files on Bradford Schools Online, the council's site for schools.",
+      "source": "https://bso.bradford.gov.uk/content/data-guidance-for-schools/term-dates"
+    },
+    {
+      "fact": "The autumn term 2026-27 starts on Tuesday 1 September 2026 and the autumn term 2027-28 on Monday 6 September 2027.",
+      "source": "https://bso.bradford.gov.uk/userfiles/file/IMT/SchoolHolidays/Bradford%20Term%20Dates%202027-28.pdf"
+    },
+    {
+      "fact": "In 2028 the Easter holiday runs from Monday 10 April to Friday 21 April, so the spring term lasts until Friday 7 April.",
+      "source": "https://bso.bradford.gov.uk/userfiles/file/IMT/SchoolHolidays/Bradford%20Term%20Dates%202027-28.pdf"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://bso.bradford.gov.uk/userfiles/file/IMT/Bradford%20Term%20Dates%202026-27.pdf",
+        "pageUrl": "https://bso.bradford.gov.uk/content/data-guidance-for-schools/term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://bso.bradford.gov.uk/userfiles/file/IMT/Bradford%20Term%20Dates%202026-27.docx",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "This pattern of dates identifies 195 days. Schools have five INSET to determine within this schedule.",
+      "statedDays": 195,
+      "notes": "Calendar read from the shaded cells of the council's .docx (the PDF gives the same totals per month). Likely Eid dates, Wednesday 10 March and Monday 17 May 2027, are left as school days on the calendar.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://bso.bradford.gov.uk/userfiles/file/IMT/SchoolHolidays/Bradford%20Term%20Dates%202027-28.pdf",
+        "pageUrl": "https://bso.bradford.gov.uk/content/data-guidance-for-schools/term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://bso.bradford.gov.uk/userfiles/file/IMT/SchoolHolidays/Bradford%20Term%20Dates%202027-28.docx",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-25",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "This pattern of dates identifies 195 days. Schools have five INSET to determine within this schedule.",
+      "statedDays": 195,
+      "notes": "Easter holiday Monday 10 April to Friday 21 April 2028 (Good Friday 14 April, Easter Monday 17 April). Likely Eid on Friday 5 May 2028 is left as a school day. August 2028 is shaded as holiday; the 2028-29 start date is not on this calendar.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-26",
+          "end": "2028-08-31"
+        }
+      ]
+    }
+  }
+}

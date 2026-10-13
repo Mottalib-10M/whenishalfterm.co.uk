@@ -1,0 +1,125 @@
+SOURCE PDF: Bradford Term Dates 2027-28 (bso.bradford.gov.uk)
+BRADFORD SCHOOL CALENDAR 2027/28 
+(190 pupil days + 5 INSET)  
+ 
+ 
+ 
+ 
+Bank Holidays 
+Other Holidays 
+Likely date for Eid 
+Shaded areas denote holiday dates.  This pattern of dates identifies 195 days.  Schools have five INSET to determine within this schedule.  The Autumn 
+Term 2027/28 will commence on Monday 6th September 2027.  The probable Eid dates are Saturday 26th February 2028 & Friday 5th May 2028. The 
+Council normally expects schools, with a significant number of pupils who will be celebrating Eid, to consider this when determining their dates. 
+September   October   November   December 
+M T W T F   M T W T F   M T W T F   M T W T F 
+  1 2 3       1   1 2 3 4 5     1 2 3 
+6 7 8 9 10   4 5 6 7 8   8 9 10 11 12   6 7 8 9 10 
+13 14 15 16 17   11 12 13 14 15   15 16 17 18 19   13 14 15 16 17 
+20 21 22 23 24   18 19 20 21 22   22 23 24 25 26   20 21 22 23 24 
+27 28 29 30    25 26 27 28 29   29 30        27 28 29 30 31 
+Total Days 19  Total Days 16  Total Days 22  Total Days 13 
+                       
+January   February   March   April 
+M T W T F   M T W T F   M T W T F   M T W T F 
+3 4 5 6 7    1 2 3 4     1 2 3   3 4 5 6 7 
+10 11 12 13 14   7 8 9 10 11   6 7 8 9 10   10 11 12 13 14 
+17 18 19 20 21   14 15 16 17 18   13 14 15 16 17   17 18 19 20 21 
+24 25 26 27 28   21 22 23 24 25   20 21 22 23 24   24 25 26 27 28 
+31           28 29      27 28 29 30 31        
+Total Days 20  Total Days 16  Total Days 23  Total Days 10 
+                       
+May   June   July   August 
+M T W T F   M T W T F   M T W T F   M T W T F 
+1 2 3 4 5      1 2   3 4 5 6 7    1 2 3 4 
+8 9 10 11 12   5 6 7 8 9   10 11 12 13 14   7 8 9 10 11 
+15 16 17 18 19   12 13 14 15 16   17 18 19 20 21   14 15 16 17 18 
+22 23 24 25 26   19 20 21 22 23   24 25 26 27 28   21 22 23 24 25 
+29 30 31       26 27 28 29 30   31           28 29 30 31  
+Total Days 19  Total Days 20  Total Days 17  Total Days 195 
+ 
+
+SHADED CELLS FROM THE .DOCX VERSION (month day fill; 66FF33=Other Holidays, 9999FF=Bank Holidays, FFC000=Likely date for Eid):
+September 1 66FF33
+September 2 66FF33
+September 3 66FF33
+December 20 66FF33
+December 21 66FF33
+December 22 66FF33
+December 23 66FF33
+December 24 66FF33
+October 25 66FF33
+October 26 66FF33
+October 27 66FF33
+October 28 66FF33
+October 29 66FF33
+December 27 9999FF
+December 28 9999FF
+December 29 66FF33
+December 30 66FF33
+December 31 66FF33
+January 3 9999FF
+April 10 66FF33
+April 11 66FF33
+April 12 66FF33
+April 13 66FF33
+April 14 9999FF
+April 17 9999FF
+April 18 66FF33
+April 19 66FF33
+April 20 66FF33
+April 21 66FF33
+February 21 66FF33
+February 22 66FF33
+February 23 66FF33
+February 24 66FF33
+February 25 66FF33
+May 1 9999FF
+May 5 FFC000
+June 1 66FF33
+June 2 66FF33
+August 1 66FF33
+August 2 66FF33
+August 3 66FF33
+August 4 66FF33
+August 7 66FF33
+August 8 66FF33
+August 9 66FF33
+August 10 66FF33
+August 11 66FF33
+August 14 66FF33
+August 15 66FF33
+August 16 66FF33
+August 17 66FF33
+August 18 66FF33
+July 26 66FF33
+July 27 66FF33
+July 28 66FF33
+August 21 66FF33
+August 22 66FF33
+August 23 66FF33
+August 24 66FF33
+August 25 66FF33
+May 29 9999FF
+May 30 66FF33
+May 31 66FF33
+July 31 66FF33
+August 28 9999FF
+August 29 66FF33
+August 30 66FF33
+August 31 66FF33
+
+BSO PAGE (https://bso.bradford.gov.uk/content/data-guidance-for-schools/term-dates):
+Annual calendar
+Below are copies of the statutory academic year calendar that can be printed or downloaded.
+The number of INSET days schools may take each year is detailed in the calendars below. For details of when specific schools have chosen to take their INSET days please consult
+School Finder .
+2025/26 5 INSET
+days
+2025/26 5 INSET days
+2026/27 5 INSET days
+2026/27 5 INSET days
+2027/28 5 INSET
+days
+2027/28 5 INSET days
+DfE guidance on the school year and school day

@@ -5,20 +5,26 @@ import Tool from '../../components/Tool.astro';
 import { route } from '../../i18n/routes';
 import { COUNCILS, councilRouteId, NATION_LABEL } from '../../lib/councils';
 import { breakOf, rangeText, plainDate } from '../../lib/engine/calendar';
-import { breadcrumbSchema } from '../../lib/seo';
+import { breadcrumbSchema, faqSchema, articleSchema } from '../../lib/seo';
 import { LAST_UPDATED } from '../../data/site-config';
 const lang = 'en';
 const groups = new Map<string, typeof COUNCILS>();
 for (const c of COUNCILS) { const g = c.nation === 'england' ? `England: ${c.region}` : NATION_LABEL[c.nation]; if (!groups.has(g)) groups.set(g, []); groups.get(g)!.push(c); }
 const order = [...groups.keys()].sort();
+const faqs = [
+  { q: 'Why is my council not on the list?', a: 'We add councils in order of the number of pupils they serve and only once we have read the calendar on the council’s own website. If yours is missing, GOV.UK finds its term dates page from your postcode, and you can ask us to add it from the contact page so that the checker and the comparison include it.' },
+  { q: 'Which council sets the dates in a two-tier area?', a: 'The county council, not the district or borough council, runs schools in two-tier areas such as Kent, Essex or Surrey. In London it is the borough, in metropolitan areas the metropolitan borough, and in unitary areas the single council. That is the calendar this site lists.' },
+  { q: 'What does provisional mean in the 2027-28 column?', a: 'That the council has put the dates online as proposed or draft dates, for example during a consultation with schools, and could still change them. The checker shows them with a warning. When the council confirms the year, we update the page and the reading date.' },
+];
 const n28 = COUNCILS.filter((c) => c.years['2027-28'] && c.years['2027-28']!.status !== 'not-published').length;
 ---
-<PageLayout title="Council Term Dates List: Every Calendar on Term Dates Finder" description={`All ${COUNCILS.length} council school calendars on Term Dates Finder by region, with October half term 2026, whether 2027-28 is out yet and the day each calendar was read.`} lang={lang} jsonLd={[breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Councils', path: route('councils', lang) }])]} breadcrumbs={[{ label: 'Councils' }]}>
+<PageLayout title="Council Term Dates List: Every Calendar on Term Dates Finder" description={`All ${COUNCILS.length} council school calendars on Term Dates Finder by region, with October half term 2026, whether 2027-28 is out yet and the day each calendar was read.`} lang={lang} faqs={faqs} jsonLd={[articleSchema({ title: 'Every council calendar on the site', description: 'Directory of council school calendars', path: route('councils', lang), lang }), faqSchema(faqs, lang), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Councils', path: route('councils', lang) }])]} breadcrumbs={[{ label: 'Councils' }]}>
   <header class="mb-4"><h1 class="text-3xl font-bold text-navy-900 md:text-4xl">Every council calendar on the site</h1>
   <p class="mt-2 text-navy-700">{COUNCILS.length} calendars, {n28} with 2027-28 published. Pick a council for its full dates, its own rules and the school open checker.</p></header>
+  <div class="prose prose-slate mb-4 max-w-none"><p>Each line links to the council page, which gives both school years term by term, a day-by-day strip of the year, the bank holidays that fall in term, the rules the council states about INSET days and academies, and a comparison with its neighbours. The October half term column is the quickest way to spot a council that breaks for two weeks, or a Scottish council whose October holiday starts earlier. The 2027-28 column says whether the council has already published the following year, only as a provisional draft, or not at all. "Read" is the day we last opened the council's own calendar. Councils not yet on the site can be suggested from the contact page; we add them in order of the number of pupils they serve, and only from the council's own site.</p></div>
   <div data-chrome class="mb-6"><Tool kind="checker" council="birmingham" /></div>
   <div class="prose prose-slate max-w-none">
-    <p>Each line links to the council page. The October half term column is the quickest way to spot a council that breaks for two weeks, or one whose Scottish October holiday starts earlier. "Read" is the day we last opened the council's own calendar. Councils not yet on the site can be suggested from the contact page; we add them in order of the number of pupils they serve, and only from the council's own site.</p>
+
     <div data-sommaire class="not-prose">
       {order.map((g) => (
         <section class="mb-8">

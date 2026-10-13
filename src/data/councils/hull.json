@@ -1,0 +1,205 @@
+{
+  "slug": "hull",
+  "name": "Hull",
+  "officialName": "Hull City Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "unitary",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "Hull publishes each school year on its own page as a list of 'School opens' and 'School closes' dates.",
+      "source": "https://www.hull.gov.uk/education-and-schools/schools/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "The 2026-27 year starts later than in many areas, on Monday 7 September 2026.",
+      "source": "https://www.hull.gov.uk/schools-2/school-holidays-term-dates/2"
+    },
+    {
+      "fact": "In 2026-27 the February half term comes early, from Monday 8 to Friday 12 February 2027, and the Easter holiday runs from Monday 22 March to Friday 2 April 2027.",
+      "source": "https://www.hull.gov.uk/schools-2/school-holidays-term-dates/2"
+    },
+    {
+      "fact": "Schools close for the summer on Monday 26 July 2027, a Monday, at the end of 2026-27.",
+      "source": "https://www.hull.gov.uk/schools-2/school-holidays-term-dates/2"
+    },
+    {
+      "fact": "After Christmas 2027 schools reopen on Wednesday 5 January 2028.",
+      "source": "https://www.hull.gov.uk/schools-2/school-holidays-term-dates/3"
+    },
+    {
+      "fact": "In 2028 the Easter holiday runs from Monday 10 April to Friday 21 April, and the 2027-28 year ends on Wednesday 26 July 2028.",
+      "source": "https://www.hull.gov.uk/schools-2/school-holidays-term-dates/3"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.hull.gov.uk/schools-2/school-holidays-term-dates/2",
+        "pageUrl": "https://www.hull.gov.uk/education-and-schools/schools/school-holidays-and-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.hull.gov.uk/schools-2/school-holidays-term-dates/2",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-07",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-05",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-03-19",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday (not listed on the council page)"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The council page does not mention INSET or training days.",
+      "statedDays": null,
+      "notes": "Term starts Monday 7 September 2026 and ends Monday 26 July 2027. Easter Monday (29 March 2027) falls in the Easter holiday.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-08",
+          "end": "2027-02-12"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-22",
+          "end": "2027-04-02"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-27",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.hull.gov.uk/schools-2/school-holidays-term-dates/3",
+        "pageUrl": "https://www.hull.gov.uk/education-and-schools/schools/school-holidays-and-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.hull.gov.uk/schools-2/school-holidays-term-dates/3",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-05",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday (not listed on the council page)"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The council page does not mention INSET or training days.",
+      "statedDays": null,
+      "notes": "Spring term starts Wednesday 5 January 2028; summer term ends Wednesday 26 July 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ]
+    }
+  }
+}

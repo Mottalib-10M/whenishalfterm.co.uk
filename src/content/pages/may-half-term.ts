@@ -24,7 +24,7 @@ export default definePage({
     { q: 'Is the May bank holiday part of half term?', a: 'The late one is. The spring bank holiday on Monday 31 May 2027 is the first day of May half term in most of England. The early May bank holiday on Monday 3 May 2027 is a separate single day when schools close, four weeks earlier.' },
     { q: 'Why is May half term called Whitsun?', a: 'Whit Monday, the day after Pentecost, used to be a bank holiday. In 1971 it was replaced by the fixed spring bank holiday on the last Monday of May, but the name stuck to the holiday and to the school week that follows it.' },
     { q: 'Do GCSE exams stop during May half term?', a: 'Normally yes: the exam boards’ common timetable leaves the most usual half term week free, and papers resume after it. Schools may still hold revision days. If your child’s school has a different half term, check the exam timetable, which is national and does not move for local calendars.' },
-    { q: 'When is May half term 2028?', a: `${(() => { const g = h.groups('may', '2027-28', eng)[0]; return g ? `Where 2027-28 is published, mostly ${h.range(g.start, g.end)}` : 'Not yet published by most councils'; })()}. The spring bank holiday 2028 is Monday 29 May.` },
+    { q: 'When is May half term 2028?', a: `${(() => { const g = h.groups('may', '2027-28', eng)[0]; return g ? `Where 2027-28 is published, mostly ${h.range(g.start, g.end)}` : 'Not yet published by most councils'; })()}. The spring bank holiday 2028 is Monday 29 May, so May half term 2028 should run from that Monday to Friday 2 June in councils that follow the usual pattern. Each council page shows the published dates.` },
   ],
   body: (h) => {
     const g = h.groups('may', '2026-27', eng);

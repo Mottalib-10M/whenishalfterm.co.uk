@@ -1,0 +1,235 @@
+{
+  "slug": "north-yorkshire",
+  "name": "North Yorkshire",
+  "officialName": "North Yorkshire Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "unitary",
+  "appliesTo": "We publish school term and holiday dates for community and voluntary controlled schools in North Yorkshire.",
+  "academyNote": "Some schools have slightly different term dates to those below, whilst others including academy, voluntary aided and foundation schools set all of their own dates.",
+  "localFacts": [
+    {
+      "fact": "North Yorkshire publishes dates for community and voluntary controlled schools; academies, voluntary aided and foundation schools set all of their own dates.",
+      "source": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The council fixes three professional development training days in its calendar, and schools set a further two training dates of their own.",
+      "source": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "In 2026-27 the fixed training days are Friday 23 October 2026, Monday 4 January 2027 and Monday 26 July 2027.",
+      "source": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The 2026-27 year starts on Monday 7 September 2026 and has an early February half term, 8 to 12 February 2027.",
+      "source": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The May half term starts on a Tuesday in both years, after the late May bank holiday (1 June 2027 and 30 May 2028).",
+      "source": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "In 2027-28 the fixed training days are Monday 6 September 2027, Tuesday 4 January 2028 and Tuesday 25 July 2028.",
+      "source": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The council covers areas including Harrogate, Ripon, Scarborough, Whitby, Northallerton, Thirsk, Selby, Tadcaster, Malton, Pickering, Richmond and Skipton.",
+      "source": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.northyorks.gov.uk/sites/default/files/2025-07/School%20term%20dates%202026%20to%202027%20academic%20year.pdf",
+        "pageUrl": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-07",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-05",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-03-19",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-10-23",
+          "label": "Professional development training day"
+        },
+        {
+          "date": "2027-01-04",
+          "label": "Professional development training day"
+        },
+        {
+          "date": "2027-07-26",
+          "label": "Professional development training day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Three professional development training days are fixed in the calendar; schools also set a further two professional development training dates of their own.",
+      "statedDays": null,
+      "notes": "The May half term covers the bank holiday on Monday 31 May and Tuesday 1 to Friday 4 June 2027. Term ends Monday 26 July 2027, which is a training day.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-08",
+          "end": "2027-02-12"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-22",
+          "end": "2027-04-02"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-27",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.northyorks.gov.uk/sites/default/files/2026-08/School%20term%20dates%202027%20to%202028.pdf",
+        "pageUrl": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.northyorks.gov.uk/education-and-learning/education-and-learning/school-term-and-holiday-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-25",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-09-06",
+          "label": "Professional development training day"
+        },
+        {
+          "date": "2028-01-04",
+          "label": "Professional development training day"
+        },
+        {
+          "date": "2028-07-25",
+          "label": "Professional development training day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Three professional development training days are fixed in the calendar; schools also set a further two professional development training dates of their own.",
+      "statedDays": null,
+      "notes": "Christmas holiday runs to Monday 3 January 2028. The May half term covers the bank holiday on Monday 29 May and Tuesday 30 May to Friday 2 June 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ]
+    }
+  }
+}
