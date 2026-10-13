@@ -1,0 +1,210 @@
+{
+  "slug": "dorset",
+  "name": "Dorset",
+  "officialName": "Dorset Council",
+  "nation": "england",
+  "region": "South West",
+  "type": "unitary",
+  "appliesTo": "School term and holiday dates can vary because every school has 5 staff development days to use a year on dates they choose. Check your school's website or contact them for confirmation of dates.",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "Every Dorset school has five staff development days a year to use on dates it chooses, so parents are asked to confirm dates with the school.",
+      "source": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates"
+    },
+    {
+      "fact": "The council lists bank holidays separately from school holidays: the Easter holidays are given as 30 March to 9 April 2027, after Good Friday and Easter Monday.",
+      "source": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates"
+    },
+    {
+      "fact": "The summer half term is listed from the Tuesday (1 June 2027, 30 May 2028), as the Monday is the spring bank holiday.",
+      "source": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates"
+    },
+    {
+      "fact": "The summer term ends on Wednesday 21 July 2027 and Friday 21 July 2028.",
+      "source": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates"
+    },
+    {
+      "fact": "The 2026-27 autumn term starts on Tuesday 1 September 2026, and the 2027-28 autumn term on Wednesday 1 September 2027.",
+      "source": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates"
+    },
+    {
+      "fact": "Each year's dates can be downloaded and printed from the council page.",
+      "source": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates",
+        "pageUrl": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260814084826id_/https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day Holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Every school has 5 staff development days to use a year on dates they choose.",
+      "statedDays": null,
+      "notes": "The council lists Christmas holidays to 31 December 2026 and Easter holidays from 30 March 2027, with New Year's Day, Good Friday, Easter Monday and the spring bank holiday shown as bank holidays; they are merged into the holidays here. Read from the archived council page (August 2026); the live page blocks automated access."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates",
+        "pageUrl": "https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260814084826id_/https://www.dorsetcouncil.gov.uk/w/school-term-holiday-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-24",
+          "end": "2028-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day Holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Every school has 5 staff development days to use a year on dates they choose.",
+      "statedDays": null,
+      "notes": "Easter holidays listed as 3 to 13 April 2028, followed by Good Friday (14 April) and Easter Monday (17 April); the summer term starts on Tuesday 18 April 2028. Christmas holidays 20 to 31 December 2027 plus the New Year substitute bank holiday on 3 January 2028."
+    }
+  }
+}

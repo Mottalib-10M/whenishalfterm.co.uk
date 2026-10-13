@@ -1,0 +1,205 @@
+{
+  "slug": "gloucestershire",
+  "name": "Gloucestershire",
+  "officialName": "Gloucestershire County Council",
+  "nation": "england",
+  "region": "South West",
+  "type": "county",
+  "appliesTo": "School term dates for Community and Voluntary Controlled schools.",
+  "academyNote": "As per the Governance handbook, academies and free schools can choose to set their own term dates.",
+  "localFacts": [
+    {
+      "fact": "In 2027-28 Gloucestershire does not tie the spring break to Easter: term 4 runs to 7 April 2028 and term 5 starts on Monday 24 April, so the break (10 to 21 April) includes Good Friday and Easter Monday.",
+      "source": "https://www.gloucestershire.gov.uk/media/cu0ktbnh/gloucestershire-school-term-dates-and-holidays-for-academic-year-2027-28.pdf"
+    },
+    {
+      "fact": "Schools may hold up to five INSET days within term time, so the first or last day of term for pupils can differ from school to school.",
+      "source": "https://www.gloucestershire.gov.uk/education-and-learning/term-dates/"
+    },
+    {
+      "fact": "The council publishes six terms and the number of days in each: 39, 35, 30, 24, 34 and 33 in 2026-27, a total of 195.",
+      "source": "https://www.gloucestershire.gov.uk/education-and-learning/term-dates/"
+    },
+    {
+      "fact": "Schools considering other dates or changes to opening times are advised to contact the council's Transport Team and local childcare providers about the impact.",
+      "source": "https://www.gloucestershire.gov.uk/media/cu0ktbnh/gloucestershire-school-term-dates-and-holidays-for-academic-year-2027-28.pdf"
+    },
+    {
+      "fact": "Schools may decide individually or collectively which five days in the year are INSET or non-contact days.",
+      "source": "https://www.gloucestershire.gov.uk/media/cu0ktbnh/gloucestershire-school-term-dates-and-holidays-for-academic-year-2027-28.pdf"
+    },
+    {
+      "fact": "The 2026-27 year starts on Tuesday 1 September 2026 and ends on Wednesday 21 July 2027.",
+      "source": "https://www.gloucestershire.gov.uk/education-and-learning/term-dates/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.gloucestershire.gov.uk/education-and-learning/term-dates/",
+        "pageUrl": "https://www.gloucestershire.gov.uk/education-and-learning/term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.gloucestershire.gov.uk/education-and-learning/term-dates/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Term 1"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Term 2"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Term 3"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Term 4"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Term 5"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day Holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools may choose to hold a teachers' in-service training day (INSET) within term time (up to 5 days per year), so the date on which term ends, or starts, for pupils at different schools may change.",
+      "statedDays": 195,
+      "notes": "Six terms of 39, 35, 30, 24, 34 and 33 days for Community and Voluntary Controlled schools. Summer holidays shown to 1 September 2027, as term 1 of 2027-28 starts on Thursday 2 September."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.gloucestershire.gov.uk/education-and-learning/term-dates/",
+        "pageUrl": "https://www.gloucestershire.gov.uk/education-and-learning/term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.gloucestershire.gov.uk/education-and-learning/term-dates/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Term 1"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Term 2"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Term 3"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Term 4"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Term 5"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day Holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Pupils must attend for 190 of the 195 school days; schools decide which 5 days are INSET or non-contact days.",
+      "statedDays": 195,
+      "notes": "Six terms of 37, 35, 29, 35, 24 and 35 days. The council page and PDF give the end of term 4 as 'Thursday 7 April 2028'; 7 April 2028 is a Friday, and the stated 35 days match Friday 7 April. The spring break (10 to 21 April 2028) includes Good Friday and Easter Monday."
+    }
+  }
+}

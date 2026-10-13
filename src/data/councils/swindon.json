@@ -1,0 +1,205 @@
+{
+  "slug": "swindon",
+  "name": "Swindon",
+  "officialName": "Swindon Borough Council",
+  "nation": "england",
+  "region": "South West",
+  "type": "unitary",
+  "appliesTo": "Academies, free schools, foundation schools and voluntary-aided schools can set their own term dates. Schools managed by another council may also have different dates.",
+  "academyNote": "Academies, free schools, foundation schools and voluntary-aided schools can set their own term dates. Always confirm term dates with your child's school.",
+  "localFacts": [
+    {
+      "fact": "Swindon has a longer October break: term 1 ends on Wednesday 21 October 2026 and term 2 starts on Monday 2 November 2026.",
+      "source": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays"
+    },
+    {
+      "fact": "The school year has 195 days and pupils attend 190; each school sets its own five staff training (inset) days and tells parents and carers.",
+      "source": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays"
+    },
+    {
+      "fact": "The council publishes six terms with a day count for each: 37, 35, 30, 24, 34 and 35 days in 2026-27.",
+      "source": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays"
+    },
+    {
+      "fact": "Schools managed by another council may have different dates, so parents are asked to check which council is responsible for their child's school.",
+      "source": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays"
+    },
+    {
+      "fact": "Printable term date planners are offered as PDFs for 2025-26, 2026-27 and 2027-28.",
+      "source": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays"
+    },
+    {
+      "fact": "In 2027-28 the summer term runs to Tuesday 25 July 2028.",
+      "source": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays",
+        "pageUrl": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-21",
+          "label": "Term 1"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Term 2"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Term 3"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Term 4"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Term 5"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-23",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-22",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-26",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools use the other five days for staff training, sometimes called inset days. Each school sets its own training dates and tells parents and carers.",
+      "statedDays": 195,
+      "notes": "Six terms of 37, 35, 30, 24, 34 and 35 days. The October break runs from Thursday 22 October to Friday 30 October 2026."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays",
+        "pageUrl": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.swindon.gov.uk/info/20032/schools_and_education/14/dates_for_school_terms_and_holidays",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-20",
+          "label": "Term 1"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Term 2"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Term 3"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Term 4"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Term 5"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-25",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-21",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools use the other five days for staff training, sometimes called inset days. Each school sets its own training dates and tells parents and carers.",
+      "statedDays": 195,
+      "notes": "Six terms of 36, 35, 29, 30, 28 and 37 days. The October break runs from Thursday 21 October to Friday 29 October 2027. Dates for 2028-29 are not on the page."
+    }
+  }
+}

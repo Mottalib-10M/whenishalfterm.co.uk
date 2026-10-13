@@ -1,0 +1,205 @@
+{
+  "slug": "wiltshire",
+  "name": "Wiltshire",
+  "officialName": "Wiltshire Council",
+  "nation": "england",
+  "region": "South West",
+  "type": "unitary",
+  "appliesTo": "Term dates for community and voluntary controlled schools are set by the local authority in consultation with neighbouring authorities and groups representing school staff.",
+  "academyNote": "In foundation, voluntary aided, academies, and residential special schools, it is the governing body that decides the beginning and the end of school terms and holidays.",
+  "localFacts": [
+    {
+      "fact": "Wiltshire has a longer October break: term 1 ends on a Wednesday (21 October 2026, 20 October 2027) and term 2 starts on the Monday a week and a half later.",
+      "source": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays"
+    },
+    {
+      "fact": "Schools in the Mere and Tisbury area may choose between Wiltshire and Dorset dates.",
+      "source": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays"
+    },
+    {
+      "fact": "All five staff development days (or the equivalent of 30 hours) are set at each school's discretion and are taken within the 195 published term days.",
+      "source": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays"
+    },
+    {
+      "fact": "The council publishes six terms with a day count for each: 37, 35, 30, 24, 34 and 35 days in 2026-27, a total of 195.",
+      "source": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays"
+    },
+    {
+      "fact": "Dates are set in consultation with neighbouring authorities and groups representing school staff.",
+      "source": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays"
+    },
+    {
+      "fact": "The 2026-27 year starts on Tuesday 1 September 2026, and the 2027-28 summer term runs to Tuesday 25 July 2028.",
+      "source": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays",
+        "pageUrl": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260627004620id_/https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-21",
+          "label": "Term 1"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Term 2"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Term 3"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Term 4"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Term 5"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-23",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-22",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-26",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "In Wiltshire, all five staff development days (or the equivalent of 30 hours) are set at the individual school's discretion. All days will be taken within the 195 published term days.",
+      "statedDays": 195,
+      "notes": "Six terms of 37, 35, 30, 24, 34 and 35 days. The October break runs from Thursday 22 October to Friday 30 October 2026. Read from the archived council page (June 2026); the live page blocks automated access."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays",
+        "pageUrl": "https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260627004620id_/https://www.wiltshire.gov.uk/article/1684/School-term-dates-and-holidays",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-20",
+          "label": "Term 1"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Term 2"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Term 3"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Term 4"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Term 5"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-25",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-21",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Five staff development days set by each school within the 195 published term days.",
+      "statedDays": 195,
+      "notes": "Six terms of 36, 35, 29, 30, 28 and 37 days. The October break runs from Thursday 21 October to Friday 29 October 2027. Dates for 2028-29 are not on the page."
+    }
+  }
+}
