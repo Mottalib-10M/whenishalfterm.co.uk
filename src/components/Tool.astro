@@ -1,0 +1,35 @@
+---
+/** Renders one browser tool with the data it needs: the page's council in full, the others by name only. */
+import TermChecker from './calc/TermChecker';
+import CompareTool from './calc/CompareTool';
+import PenaltyCalc from './calc/PenaltyCalc';
+import CountdownTool from './calc/CountdownTool';
+import YearTool from './calc/YearTool';
+import BankHolidayTool from './calc/BankHolidayTool';
+import BreakFinder from './calc/BreakFinder';
+import { COUNCILS, NAMES, toLite, councilBySlug, councilRouteId } from '../lib/councils';
+import { route } from '../i18n/routes';
+import type { ToolKind } from '../lib/guide-types';
+import type { BreakKey } from '../lib/engine/calendar';
+interface Props { kind: ToolKind; council?: string; other?: string; secondary?: boolean; idPrefix?: string }
+const { kind, council = 'kent', other, secondary = false, idPrefix } = Astro.props;
+const c = councilBySlug(council) ?? COUNCILS[0];
+const initial = toLite(c);
+const methodHref = route('method', 'en');
+const hrefs = Object.fromEntries(COUNCILS.map((x) => [x.slug, route(councilRouteId(x.slug), 'en')]));
+const pickOther = () => {
+  if (other && councilBySlug(other)) return councilBySlug(other)!;
+  const same = COUNCILS.filter((x) => x.slug !== c.slug && x.region === c.region);
+  return same[0] ?? COUNCILS.find((x) => x.slug !== c.slug)!;
+};
+const breakKey = kind.startsWith('break:') ? (kind.slice(6) as BreakKey) : null;
+---
+{kind === 'checker' && <TermChecker client:load initial={initial} names={NAMES} methodHref={methodHref} councilHrefs={hrefs} />}
+{kind === 'compare' && <CompareTool client:load a={initial} b={toLite(pickOther())} names={NAMES} methodHref={methodHref} secondary={secondary} idPrefix={idPrefix} />}
+{kind === 'penalty' && <PenaltyCalc client:load methodHref={methodHref} />}
+{kind === 'countdown' && <CountdownTool client:load initial={initial} names={NAMES} secondary={secondary} idPrefix={idPrefix} />}
+{kind === 'countdown-summer' && <CountdownTool client:load initial={initial} names={NAMES} secondary={secondary} idPrefix={idPrefix} only="summer" />}
+{kind === 'year' && <YearTool client:load initial={initial} names={NAMES} secondary={secondary} idPrefix={idPrefix} />}
+{kind === 'inset' && <YearTool client:load initial={initial} names={NAMES} secondary={secondary} idPrefix={idPrefix ?? 'in'} focus="inset" />}
+{kind === 'bank' && <BankHolidayTool client:load secondary={secondary} />}
+{breakKey && <BreakFinder client:load initial={initial} names={NAMES} breakKey={breakKey} year="2026-27" secondary={secondary} fullHref={hrefs[c.slug]} />}

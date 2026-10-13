@@ -1,0 +1,201 @@
+{
+  "slug": "telford-and-wrekin",
+  "name": "Telford and Wrekin",
+  "officialName": "Telford & Wrekin Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "unitary",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "Telford & Wrekin's calendar is the term dates agreed for Telford & Wrekin and the West Midlands region.",
+      "source": "https://www.telford.gov.uk/media/xmbhtjn5/copy-of-agreed-t-w-term-dates-2026-27.pdf"
+    },
+    {
+      "fact": "Schools are closed to pupils on five professional development (PD) days each year, which each school identifies within the agreed dates.",
+      "source": "https://www.telford.gov.uk/schools-and-learning/school-term-dates/"
+    },
+    {
+      "fact": "Term dates are set on the basis of 195 days for staff, and pupils are required to attend for 190 days.",
+      "source": "https://www.telford.gov.uk/media/xmbhtjn5/copy-of-agreed-t-w-term-dates-2026-27.pdf"
+    },
+    {
+      "fact": "The 2027-28 calendar is headed Confirmed Term Dates 2027-2028 for T & W and West Midlands Regional group.",
+      "source": "https://www.telford.gov.uk/media/omsf3wib/copy-of-agreed-t-w-term-dates-2027-28_.pdf"
+    },
+    {
+      "fact": "The council's Attendance Support team asks parents to contact their child's school first to report or discuss any absence.",
+      "source": "https://www.telford.gov.uk/schools-and-learning/school-term-dates/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.telford.gov.uk/media/xmbhtjn5/copy-of-agreed-t-w-term-dates-2026-27.pdf",
+        "pageUrl": "https://www.telford.gov.uk/schools-and-learning/school-term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.telford.gov.uk/media/xmbhtjn5/copy-of-agreed-t-w-term-dates-2026-27.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Public holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Inset days should be allocated from within the agreed dates. The five inset days are to be identified by schools.",
+      "statedDays": 195,
+      "notes": "Autumn 74, spring 54 and summer 67 days."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.telford.gov.uk/media/omsf3wib/copy-of-agreed-t-w-term-dates-2027-28_.pdf",
+        "pageUrl": "https://www.telford.gov.uk/schools-and-learning/school-term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.telford.gov.uk/media/omsf3wib/copy-of-agreed-t-w-term-dates-2027-28_.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Public holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Inset days should be allocated from within the agreed dates. The five inset days are to be identified by schools.",
+      "statedDays": 195,
+      "notes": "Term starts Thursday 2 September 2027."
+    }
+  }
+}

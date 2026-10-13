@@ -1,0 +1,210 @@
+{
+  "slug": "shropshire",
+  "name": "Shropshire",
+  "officialName": "Shropshire Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "unitary",
+  "appliesTo": "",
+  "academyNote": "Shropshire-maintained schools and academies are required to allocate five professional development (PD) days for staff across the academic year. Please contact your child's school, directly, to confirm the exact dates of the school term, PD days and holidays.",
+  "localFacts": [
+    {
+      "fact": "Shropshire calls staff training days professional development (PD) days and says schools may be closed to pupils on these five days.",
+      "source": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/"
+    },
+    {
+      "fact": "For 2026-27 the council lists two PD days: Tuesday 1 September 2026 and Monday 4 January 2027.",
+      "source": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/"
+    },
+    {
+      "fact": "The 2026-27 summer term ends on Wednesday 21 July 2027, a later finish than Shropshire's 2025-26 summer term, which ended on 17 July 2026.",
+      "source": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/"
+    },
+    {
+      "fact": "Shropshire publishes a 2027-28 term dates calendar as a PDF alongside the web page.",
+      "source": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/"
+    },
+    {
+      "fact": "Parents who need to take a child out of school in term time are told to contact the school before booking travel, as permission may not be granted.",
+      "source": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/",
+        "pageUrl": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-09-01",
+          "label": "PD day"
+        },
+        {
+          "date": "2027-01-04",
+          "label": "PD day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "The page lists 1 September 2026 and 4 January 2027 as PD days; schools allocate five PD days in total.",
+      "statedDays": null,
+      "notes": ""
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/",
+        "pageUrl": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://next.shropshire.gov.uk/schools-and-education/term-time-and-holiday-dates/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Public holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools allocate five PD days; none are listed on the page for 2027-28.",
+      "statedDays": null,
+      "notes": "Term starts Thursday 2 September 2027."
+    }
+  }
+}

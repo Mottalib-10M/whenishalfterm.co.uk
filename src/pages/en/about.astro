@@ -1,0 +1,28 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { LAST_UPDATED, AUTHOR_NAME, CONTACT_EMAIL, AUTHOR_ROLE } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { personSchema, organizationSchema, breadcrumbSchema, profilePageSchema } from '../../lib/seo';
+import { displayDate } from '../../lib/format';
+import { COUNCILS } from '../../lib/councils';
+const lang = 'en';
+const n = COUNCILS.length;
+const n28 = COUNCILS.filter((c) => c.years['2027-28'] && c.years['2027-28']!.status !== 'not-published').length;
+---
+<PageLayout title="Term Dates Finder and Radif Partners: who reads the dates" description="Who publishes Term Dates Finder, why it reads every school calendar on the council's own website, what the site covers in England, Scotland, Wales and NI and how to report a wrong date." lang={lang} jsonLd={[personSchema(lang), organizationSchema(lang), profilePageSchema({ path: route('about', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'About', path: route('about', lang) }])]} breadcrumbs={[{ label: 'About' }]}>
+  <header class="mb-6"><p class="kicker">About</p><h1 class="mt-1 text-3xl font-bold text-navy-900 md:text-4xl">Who is behind Term Dates Finder</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <div class="not-prose mb-6"><p class="text-lg font-semibold text-navy-900">{AUTHOR_NAME}</p><p class="text-navy-700">{AUTHOR_ROLE[lang]}</p></div>
+    <p>Term Dates Finder is published by Radif Partners, a company that builds free tools on top of public data. This site answers one practical question for families across the United Kingdom: when are the schools in my area open, and when are they not?</p>
+    <h2>Why it exists</h2>
+    <p>In England, Wales and Scotland each council sets the term dates of the schools it runs. GOV.UK does not list them: it sends you to your council, where the calendar often sits in a PDF, a Word file or a page that a fortnight later is replaced by next year's. Sheffield publishes a .doc file, Bedford and Wokingham a PDF, Kent's own page refuses automated visitors. The sites that rank above the councils tend to give "typical" dates for the whole of England, with no source and no date of checking, and none of them answers the question a parent actually has: is school open on this particular day?</p>
+    <p>This site does the opposite. We read the calendar of each council on its own website, one council at a time, and store it as data with the address of the page and the day we read it. A program then checks that the calendar holds together. On top of that data, the tools answer in a second: school day or not, how many days until the next break, how many school days are left, where two councils' holidays differ. Today the site covers {n} calendars, {n28} of which already include 2027-28.</p>
+    <h2>What we are not</h2>
+    <p>We are not a council, a school or the Department for Education, and we cannot authorise an absence or cancel a penalty notice. We list council calendars, not individual schools: academies, free schools and voluntary aided schools may set other dates, and every school in England picks some of its own INSET days. The school's calendar always wins.</p>
+    <h2>How the site is paid for</h2>
+    <p>It is free and needs no account. If advertising is added later it will never sit above a tool, and it cannot use what you type, because the tools run in your browser.</p>
+    <h2>Tell us when a date is wrong</h2>
+    <p>Councils revise calendars after consultations and sometimes fix a typing slip in a PDF without changing its name. If you see a difference, write to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a> with the page and the council link. The <a href={route('method', lang)}>method page</a> explains how each calendar is read and tested, and the <a href={route('editorial', lang)}>editorial policy</a> how corrections are made.</p>
+    <p class="text-sm text-navy-600">Council calendars read up to <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-GB')}</time>.</p>
+  </div>
+</PageLayout>

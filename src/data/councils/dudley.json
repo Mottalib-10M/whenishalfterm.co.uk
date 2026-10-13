@@ -1,0 +1,205 @@
+{
+  "slug": "dudley",
+  "name": "Dudley",
+  "officialName": "Dudley Metropolitan Borough Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "metropolitan",
+  "appliesTo": "Standard school term dates for schools within Dudley Borough. Please check with your school for Inset days before making holiday arrangements.",
+  "academyNote": "Academies within the Local Authority do not have to follow the term dates set by this process, they can independently choose to set their own dates. However, most academies ensure that their term dates match the dates of other local schools.",
+  "localFacts": [
+    {
+      "fact": "Dudley's term dates are proposed jointly with neighbouring West Midlands authorities, including Birmingham, Sandwell, Staffordshire, Walsall, Wolverhampton and Worcestershire, so families across borders share the same holidays.",
+      "source": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/"
+    },
+    {
+      "fact": "The proposed dates are ratified at a meeting between the local Joint Consultative Committee of unions and the local authority.",
+      "source": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/"
+    },
+    {
+      "fact": "The council plans term dates as much as four years ahead of the current year.",
+      "source": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/"
+    },
+    {
+      "fact": "The page gives a working day count per term: 74, 54 and 67 days in 2026-27, a total of 195, with inset days to be checked with each school.",
+      "source": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/"
+    },
+    {
+      "fact": "In 2027-28 the autumn term starts on Thursday 2 September 2027 and the Easter break is late, with the spring term ending on Friday 7 April 2028 and the summer term starting on Monday 24 April 2028.",
+      "source": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/"
+    },
+    {
+      "fact": "The page also lists a Primary Liaison Week in summer, for example Monday 29 June to Friday 3 July 2026.",
+      "source": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/",
+        "pageUrl": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Please check with your school for Inset days before making holiday arrangements. The 195 listed working days include the five inset days chosen by each school.",
+      "statedDays": 195,
+      "notes": "Total working days 74 (autumn), 54 (spring) and 67 (summer)."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/",
+        "pageUrl": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.dudley.gov.uk/residents/learning-and-school/school-information/school-term-dates/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Please check with your school for Inset days before making holiday arrangements.",
+      "statedDays": 195,
+      "notes": "Total working days 72 (autumn), 64 (spring) and 59 (summer). Term starts on Thursday 2 September 2027; two-week Easter break from 10 to 21 April 2028."
+    }
+  }
+}

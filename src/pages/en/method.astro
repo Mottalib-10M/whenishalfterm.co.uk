@@ -1,0 +1,47 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { LAST_UPDATED } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { breadcrumbSchema, articleSchema } from '../../lib/seo';
+import { displayDate } from '../../lib/format';
+import { COUNCILS } from '../../lib/councils';
+import { P } from '../../lib/engine/params';
+import { BANK_SOURCE } from '../../lib/engine/calendar';
+const lang = 'en';
+const all = COUNCILS.flatMap((c) => Object.values(c.years).filter((y) => y && y.status !== 'not-published' && y.source));
+const byVia = (v: string) => all.filter((y) => y!.source!.via === v).length;
+const byFmt = (f: string) => all.filter((y) => y!.source!.format === f).length;
+const s = (k: keyof typeof P.sources) => P.sources[k];
+---
+<PageLayout title="Term Dates Method: how each council calendar is read and tested" description="How Term Dates Finder reads each council's term dates, checks them by program, works out school days, bank holidays and INSET days, compares two councils, and what the tools cannot know." lang={lang} jsonLd={[articleSchema({ title: 'How the term dates are read and tested', description: 'Method of Term Dates Finder', path: route('method', lang), lang }), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Method', path: route('method', lang) }])]} breadcrumbs={[{ label: 'Method' }]}>
+  <header class="mb-6"><p class="kicker">Method</p><h1 class="mt-1 text-3xl font-bold text-navy-900 md:text-4xl">How the dates are read, checked and counted</h1></header>
+  <div class="prose prose-slate max-w-none">
+    <h2>1. One council, one official page</h2>
+    <p>For each of the {COUNCILS.length} calendars on the site we open the council's own term dates page and the file it links to. Of the {all.length} school years stored, {byFmt('pdf')} were read in a PDF, {byFmt('html')} on a web page and {byFmt('doc') + byFmt('docx')} in a Word document. {byVia('wayback')} came from the Internet Archive copy of the official file, because the council's website turns away automated readers; {byVia('webfetch')} were opened through a browser reader. The address of the official file and the reading date are stored with every year and printed on the council page.</p>
+    <p>Northern Ireland has no councils setting term dates: we use the common closure dates published by the <a href={s('ni_holidays').url} target="_blank" rel="nofollow noopener">{s('ni_holidays').label.en}</a> and explain what each school still decides.</p>
+    <h2>2. What is stored</h2>
+    <p>Each calendar becomes a list of <em>sessions</em>, the stretches of weeks when the school is in term, and of named <em>holidays</em> between them. In-service days fixed by a council (common in Scotland and Wales) are stored as dates when pupils are at home. A bank holiday inside a term, such as the early May bank holiday in England, does not end a term but closes the school that day.</p>
+    <h2>3. The checks a calendar must pass</h2>
+    <ul>
+      <li>no term starts or ends on a Saturday or Sunday;</li>
+      <li>two terms never overlap and come in date order;</li>
+      <li>every weekday between two terms belongs to a named holiday, so no day is left "open" by mistake;</li>
+      <li>no in-service day falls outside term;</li>
+      <li>the number of school days is printed and compared with what the council states when it states one.</li>
+    </ul>
+    <p>Then we compare each file with the text kept from the council page, line by line. The checks found real slips: Kent's 2026-27 PDF lists the May Day bank holiday as "3/05/2026" when it means 3 May 2027.</p>
+    <h2>4. Is school open on a given day?</h2>
+    <p>The engine answers in this order: weekend; a named holiday; an in-service day fixed by the council; another closure listed by the council; a bank holiday (England, Wales and Northern Ireland, from the <a href={BANK_SOURCE.url} target="_blank" rel="nofollow noopener">GOV.UK bank holidays feed</a>, read on {displayDate(BANK_SOURCE.retrieved, 'en-GB')}); otherwise a school day. In Scotland, councils list their own public and local holidays, which do not follow the bank holiday list, so only the council's list counts.</p>
+    <h2>5. School days, countdowns and comparisons</h2>
+    <p>"School days" are the days the engine marks open between two dates, both included. A countdown gives calendar days to the first day of the next break and school days until then. A comparison walks through every weekday of the year from 1 September and counts the days when both councils are off, and the days when only one is. In England the law asks for at least {P.schoolYear.englandSessions} sessions, two a day, so {P.schoolYear.englandPupilDays} days for pupils (<a href={s('school_day_regs').url} target="_blank" rel="nofollow noopener">{s('school_day_regs').label.en}</a>), while teachers work {P.schoolYear.englandTeacherDays} days: councils that publish 195 days leave five for each school to use as INSET days.</p>
+    <h2>6. Absence penalties</h2>
+    <p>The fine calculator applies the national framework of the <a href={s('dfe_attendance').url} target="_blank" rel="nofollow noopener">Department for Education attendance guidance</a> for England and regulation 4 of the <a href={s('wales_penalty_regs').url} target="_blank" rel="nofollow noopener">Education (Penalty Notices) (Wales) Regulations 2013</a>. Amounts are kept in one parameter file read on {displayDate(P.retrieved_at, 'en-GB')}.</p>
+    <h2>7. What the tools cannot know</h2>
+    <ul>
+      <li>the INSET days an English school picks for itself, and any day a school closes for a polling station, a strike or the weather;</li>
+      <li>the dates of academies, free schools, voluntary aided, foundation and independent schools, which can differ from the council's;</li>
+      <li>a change a council makes after our reading date: the date is on every page, and we re-read calendars each term.</li>
+    </ul>
+    <p>Method version: {LAST_UPDATED}. Questions: <a href={route('contact', lang)}>contact</a>.</p>
+  </div>
+</PageLayout>

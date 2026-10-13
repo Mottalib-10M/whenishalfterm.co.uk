@@ -1,0 +1,215 @@
+{
+  "slug": "staffordshire",
+  "name": "Staffordshire",
+  "officialName": "Staffordshire County Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "county",
+  "appliesTo": "These dates are for community and voluntary controlled schools in Staffordshire. The dates above only apply to community, voluntary controlled, community special and maintained nursery schools in Staffordshire.",
+  "academyNote": "Other types of schools have freedom over their school terms and holiday dates. They are encouraged to accept the dates set by us but they are not required to. You should contact your school for confirmation of term dates.",
+  "localFacts": [
+    {
+      "fact": "Staffordshire fixes the first day of each school year as an inset day for its community and voluntary controlled schools, and schools choose the other four.",
+      "source": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates"
+    },
+    {
+      "fact": "In 2026-27 the fixed inset day is Tuesday 1 September 2026, so pupils start on Wednesday 2 September.",
+      "source": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates"
+    },
+    {
+      "fact": "In 2027-28 the fixed inset day is Thursday 2 September 2027 and pupils start on Friday 3 September; the council says schools may wish to set Friday 3 September as an inset day too.",
+      "source": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates"
+    },
+    {
+      "fact": "The council's term pattern gives staff 195 days and requires pupils to attend for 190.",
+      "source": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates"
+    },
+    {
+      "fact": "The dates apply to community, voluntary controlled, community special and maintained nursery schools; academies, free, foundation and voluntary aided schools are encouraged but not required to follow them.",
+      "source": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates"
+    },
+    {
+      "fact": "Staffordshire already lists dates for 2028-29, with Monday 4 September 2028 fixed as an inset day.",
+      "source": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates",
+        "pageUrl": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-09-01",
+          "label": "Inset day (fixed by the council)"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Tuesday 1 September 2026 is fixed as an inset day; the other four inset days are identified by schools.",
+      "statedDays": 195,
+      "notes": "Pupils start on Wednesday 2 September 2026. The council lists the Easter holiday as Monday 29 March to Friday 9 April 2027; Friday 26 March is Good Friday."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates",
+        "pageUrl": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.staffordshire.gov.uk/schools-and-learning/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-09-02",
+          "label": "Inset day (fixed by the council)"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Thursday 2 September 2027 is fixed as an inset day and the other four days are to be identified by schools. Schools may wish to set Friday 3 September as an inset day.",
+      "statedDays": 195,
+      "notes": "Pupils start on Friday 3 September 2027. The council lists the Christmas holiday as Monday 20 to Friday 31 December 2027; Monday 3 January 2028 is the New Year bank holiday."
+    }
+  }
+}

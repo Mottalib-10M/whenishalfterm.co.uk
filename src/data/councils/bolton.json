@@ -1,0 +1,210 @@
+{
+  "slug": "bolton",
+  "name": "Bolton",
+  "officialName": "Bolton Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "metropolitan",
+  "appliesTo": "We are responsible for setting holiday and term dates for community and voluntary controlled schools.",
+  "academyNote": "The term dates for foundation and voluntary aided schools are decided by their governing bodies. Term dates vary for each school; please check with the school for their holiday dates.",
+  "localFacts": [
+    {
+      "fact": "Bolton's 2026/27 pattern equates to 197 days, so governing boards have the authority to set 7 occasional days to meet local needs.",
+      "source": "https://www.bolton.gov.uk/downloads/file/6212/school-term-dates-2026-2027"
+    },
+    {
+      "fact": "Bolton asks schools to place their 5 INSET days outside the published term time.",
+      "source": "https://www.bolton.gov.uk/downloads/file/6212/school-term-dates-2026-2027"
+    },
+    {
+      "fact": "The 2026/27 summer term runs to Friday 23 July 2027 and the next school year starts on Monday 6 September 2027.",
+      "source": "https://www.bolton.gov.uk/downloads/file/6212/school-term-dates-2026-2027"
+    },
+    {
+      "fact": "In 2027/28 the pattern equates to 192 days, with 2 occasional days for governing boards to set.",
+      "source": "https://www.bolton.gov.uk/downloads/file/7254/school-term-dates-2027-2028"
+    },
+    {
+      "fact": "If a school is used as a polling station for the local elections on Thursday 6 May 2027 and has to close, one of its occasional days should be used for the closure.",
+      "source": "https://www.bolton.gov.uk/downloads/file/6212/school-term-dates-2026-2027"
+    },
+    {
+      "fact": "Bolton's February half term in 2028 is Monday 21 to Friday 25 February.",
+      "source": "https://www.bolton.gov.uk/downloads/file/7254/school-term-dates-2027-2028"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.bolton.gov.uk/downloads/file/6212/school-term-dates-2026-2027",
+        "pageUrl": "https://www.bolton.gov.uk/school-information/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.bolton.gov.uk/downloads/file/6212/school-term-dates-2026-2027",
+        "retrieved": "2026-10-13",
+        "format": "docx"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-23",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-26",
+          "end": "2027-09-03"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Children will be in school for 190 days and staff for 195 days; 5 INSET days to be allocated by the school during non-term time.",
+      "statedDays": 197,
+      "notes": "Term totals: autumn 74, spring 54, summer 69 days. The pattern equates to 197 days and governing boards determine 7 occasional days. Local elections on Thursday 6 May 2027 may close schools used as polling stations."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.bolton.gov.uk/downloads/file/7254/school-term-dates-2027-2028",
+        "pageUrl": "https://www.bolton.gov.uk/school-information/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.bolton.gov.uk/downloads/file/7254/school-term-dates-2027-2028",
+        "retrieved": "2026-10-13",
+        "format": "docx"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-24",
+          "end": "2028-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Children will be in school for 190 days and staff for 195 days; 5 INSET days to be allocated by the school during non-term time.",
+      "statedDays": 192,
+      "notes": "Term totals: autumn 70, spring 59, summer 63 days. The pattern equates to 192 days and governing boards determine 2 occasional days. Start of the next academic year is Monday 4 September 2028."
+    }
+  }
+}

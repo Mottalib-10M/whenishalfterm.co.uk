@@ -1,0 +1,201 @@
+{
+  "slug": "trafford",
+  "name": "Trafford",
+  "officialName": "Trafford Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "metropolitan",
+  "appliesTo": "Term dates are provided as a general guide.",
+  "academyNote": "Since some schools set their own or make minor local adjustments, always check your school's website for specific dates.",
+  "localFacts": [
+    {
+      "fact": "Trafford publishes its dates as a general guide, noting that some schools set their own or make minor local adjustments.",
+      "source": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays"
+    },
+    {
+      "fact": "The council lists the number of school days in each of the six opening periods, for example 39, 35, 30, 24, 34 and 33 days in 2026-27.",
+      "source": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays"
+    },
+    {
+      "fact": "Each year has 190 teaching days and five inset days.",
+      "source": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays"
+    },
+    {
+      "fact": "All schools close for the early May bank holiday: Monday 3 May 2027 and Monday 1 May 2028.",
+      "source": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays"
+    },
+    {
+      "fact": "In 2027-28 the school year starts later, on Monday 6 September 2027, and ends on Wednesday 26 July 2028.",
+      "source": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays",
+        "pageUrl": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn 1"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn 2"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring 1"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring 2"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer 1"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer 2"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-03"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "There are 190 teaching days and five inset days in the academic year; the published opening periods total 195 school days, and schools set their own inset days.",
+      "statedDays": 195,
+      "notes": "Six opening periods of 39, 35, 30, 24, 34 and 33 school days (195)."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays",
+        "pageUrl": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.trafford.gov.uk/schools-and-learning/term-dates-and-holidays",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn 1"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn 2"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring 1"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring 2"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer 1"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Summer 2"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "There are 190 teaching days and five inset days in the academic year; the published opening periods total 195 school days, and schools set their own inset days.",
+      "statedDays": 195,
+      "notes": "Six opening periods of 35, 35, 29, 30, 28 and 38 school days (195). Year opens Monday 6 September 2027 and closes Wednesday 26 July 2028."
+    }
+  }
+}

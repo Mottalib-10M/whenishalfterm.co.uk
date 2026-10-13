@@ -1,0 +1,205 @@
+{
+  "slug": "croydon",
+  "name": "Croydon",
+  "officialName": "London Borough of Croydon",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "These term dates apply to most Croydon local authority schools. Some schools have different holiday and term dates, in particular, voluntary aided schools.",
+  "academyNote": "Academies, free and voluntary aided schools have similar dates, but the council recommends checking with individual schools.",
+  "localFacts": [
+    {
+      "fact": "Croydon's dates apply to most local authority schools, but voluntary aided schools in particular may set different holiday and term dates.",
+      "source": "https://www.croydon.gov.uk/schools-and-education/schools/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The council's PDF counts 195 school days in 2026-27 (38, 35, 30, 24, 34 and 34 per half term); pupils attend 190 and schools add 5 training days.",
+      "source": "https://www.croydon.gov.uk/sites/default/files/2025-09/Term-dates-2026-to-2027.pdf"
+    },
+    {
+      "fact": "Schools which close for local elections are required to extend the summer term or make the closure coincide with an inset day.",
+      "source": "https://www.croydon.gov.uk/schools-and-education/schools/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "Croydon has already published term dates up to the 2028-29 school year.",
+      "source": "https://www.croydon.gov.uk/schools-and-education/schools/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "In 2027-28 the spring term runs to Friday 31 March 2028 and the summer term starts on Tuesday 18 April 2028, the day after Easter Monday.",
+      "source": "https://www.croydon.gov.uk/sites/default/files/2026-07/2027_28-term-dates.pdf"
+    },
+    {
+      "fact": "The web page gives the end of the 2026-27 Christmas break as Friday 2 January, while the council PDF gives Friday 1 January 2027.",
+      "source": "https://www.croydon.gov.uk/schools-and-education/schools/school-term-and-holiday-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.croydon.gov.uk/sites/default/files/2025-09/Term-dates-2026-to-2027.pdf",
+        "pageUrl": "https://www.croydon.gov.uk/schools-and-education/schools/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.croydon.gov.uk/sites/default/files/2025-09/Term-dates-2026-to-2027.pdf",
+        "retrieved": "2026-10-12",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The dates include 5 inset days; most schools have 5 training days each year when pupils do not attend, and parents should check the dates with each school.",
+      "statedDays": 195,
+      "notes": "Term 1 starts Wednesday 2 September 2026. The web page shows the Christmas holiday ending Friday 2 January; the PDF gives Friday 1 January 2027, used here."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.croydon.gov.uk/sites/default/files/2026-07/2027_28-term-dates.pdf",
+        "pageUrl": "https://www.croydon.gov.uk/schools-and-education/schools/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.croydon.gov.uk/sites/default/files/2026-07/2027_28-term-dates.pdf",
+        "retrieved": "2026-10-12",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Total school days available = 195; schools set their own training days.",
+      "statedDays": 195,
+      "notes": "Christmas holiday runs to Monday 3 January 2028 (New Year bank holiday); spring term starts Tuesday 4 January 2028."
+    }
+  }
+}

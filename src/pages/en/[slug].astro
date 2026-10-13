@@ -1,0 +1,14 @@
+---
+/** Guides (src/content/pages/) and council pages (src/data/councils/) share the /en/<slug>/ level. */
+import ContentPage from '../../components/ContentPage.astro';
+import CouncilPage from '../../components/CouncilPage.astro';
+import { PAGES } from '../../lib/guides';
+import { COUNCILS, councilRouteId } from '../../lib/councils';
+import type { PageDef } from '../../lib/guide-types';
+import type { Council } from '../../lib/engine/calendar';
+export function getStaticPaths() {
+  return [...PAGES.map((page) => ({ params: { slug: page.slug }, props: { page } })), ...COUNCILS.map((council) => ({ params: { slug: councilRouteId(council.slug) }, props: { council } }))];
+}
+const { page, council } = Astro.props as { page?: PageDef; council?: Council };
+---
+{page ? <ContentPage page={page} /> : <CouncilPage council={council!} />}

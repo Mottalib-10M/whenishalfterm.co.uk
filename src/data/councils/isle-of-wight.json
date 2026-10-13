@@ -1,0 +1,131 @@
+{
+  "slug": "isle-of-wight",
+  "name": "Isle of Wight",
+  "officialName": "Isle of Wight Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "unitary",
+  "appliesTo": "We will continue to set term and holiday dates for community and voluntary controlled schools.",
+  "academyNote": "Academies, private and independent schools have the freedom to determine and set their own term dates/holidays and inset days.",
+  "localFacts": [
+    {
+      "fact": "Island schools take a two-week October half term: 19 October to 30 October 2026, as in 2025 (20 to 31 October 2025).",
+      "source": "https://www.iow.gov.uk/schools-and-education/schools/school-term-dates-and-development-day-closures/"
+    },
+    {
+      "fact": "The summer term runs late to make up for the longer October break: it ends on Wednesday 28 July 2027 (27 July 2026 the year before).",
+      "source": "https://www.iow.gov.uk/schools-and-education/schools/school-term-dates-and-development-day-closures/"
+    },
+    {
+      "fact": "Schools can take up to five development day closures during an academic year, which may change the start or end date of any school term.",
+      "source": "https://www.iow.gov.uk/schools-and-education/schools/school-term-dates-and-development-day-closures/"
+    },
+    {
+      "fact": "The council publishes each school's development day closures on its term dates page, including academies' dates where known.",
+      "source": "https://www.iow.gov.uk/schools-and-education/schools/school-term-dates-and-development-day-closures/"
+    },
+    {
+      "fact": "For 2025-26 the council listed some schools taking a one-week October half term and finishing for the summer a week earlier.",
+      "source": "https://www.iow.gov.uk/schools-and-education/schools/school-term-dates-and-development-day-closures/"
+    },
+    {
+      "fact": "Each school is responsible for telling parents, meal providers and transport about its development day closures.",
+      "source": "https://www.iow.gov.uk/schools-and-education/schools/school-term-dates-and-development-day-closures/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.iow.gov.uk/schools-and-education/schools/school-term-dates-and-development-day-closures/",
+        "pageUrl": "https://www.iow.gov.uk/schools-and-education/schools/school-term-dates-and-development-day-closures/",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260119023020id_/https://iow.gov.uk/schools-and-education/schools/school-term-dates-and-development-day-closures/",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-16",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-28",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-19",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools can take up to five development day closures during an academic year; the council publishes them school by school.",
+      "statedDays": null,
+      "notes": "Two-week October half term, 19 to 30 October 2026; summer term ends Wednesday 28 July 2027. Read from the Wayback Machine copy of 19 January 2026 (the live iow.gov.uk site returns 403). The council's 2026-27 PDF could not be read."
+    },
+    "2027-28": {
+      "status": "not-published",
+      "source": {},
+      "sessions": [],
+      "holidays": [],
+      "closures": [],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "",
+      "statedDays": null,
+      "notes": "Not read: the live iow.gov.uk page returns 403 and the latest Wayback copy (19 January 2026) lists term dates only for 2025 to 2026 and 2026 to 2027. To be checked again."
+    }
+  }
+}

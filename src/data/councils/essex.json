@@ -1,0 +1,140 @@
+{
+  "slug": "essex",
+  "name": "Essex",
+  "officialName": "Essex County Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "county",
+  "appliesTo": "Essex County Council School Term and Holiday Dates for Community and Voluntary Controlled Schools.",
+  "academyNote": "The above dates may vary for individual schools, especially Foundation, Voluntary Aided schools and Academies. You are strongly advised to check with your child's school before making any holiday or other commitments.",
+  "localFacts": [
+    {
+      "fact": "Essex County Council sets the published dates for community and voluntary controlled schools.",
+      "source": "https://secureschools.essex.gov.uk/displaydocument.aspx?docid=2476"
+    },
+    {
+      "fact": "The 2026-27 calendar has 195 days: 74 in the autumn term, 54 in the spring term and 67 in the summer term.",
+      "source": "https://secureschools.essex.gov.uk/displaydocument.aspx?docid=2476"
+    },
+    {
+      "fact": "Schools allocate five non-pupil days out of the school days shown, or the equivalent in disaggregated twilight sessions.",
+      "source": "https://secureschools.essex.gov.uk/displaydocument.aspx?docid=2476"
+    },
+    {
+      "fact": "The calendar lists the May bank holiday on 3 May 2027 alongside the summer half term of 31 May to 4 June 2027.",
+      "source": "https://secureschools.essex.gov.uk/displaydocument.aspx?docid=2476"
+    },
+    {
+      "fact": "The council page says there are 195 school days in a year and schools also have 5 days for staff training, and tells parents to contact the school to find out when they will be.",
+      "source": "https://www.essex.gov.uk/schools-and-learning/schools/essex-school-terms-and-holidays/academic-year-2026-2027"
+    },
+    {
+      "fact": "Essex lists the Easter bank holidays (Friday 26 March to Monday 29 March 2027) separately from the spring holiday (Easter) of 30 March to 9 April 2027.",
+      "source": "https://www.essex.gov.uk/schools-and-learning/schools/essex-school-terms-and-holidays/academic-year-2026-2027"
+    },
+    {
+      "fact": "Essex strongly advises parents to check with their child's school before making any holiday or other commitments.",
+      "source": "https://secureschools.essex.gov.uk/displaydocument.aspx?docid=2476"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.essex.gov.uk/schools-and-learning/schools/essex-school-terms-and-holidays/academic-year-2026-2027",
+        "pageUrl": "https://www.essex.gov.uk/schools-and-learning/schools/essex-school-terms-and-holidays",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20250612162625id_/https://www.essex.gov.uk/schools-and-learning/schools/essex-school-terms-and-holidays/academic-year-2026-2027",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "In addition, schools allocate five non-pupil days out of the school days indicated, or the equivalent in disaggregated twilight sessions.",
+      "statedDays": 195,
+      "notes": "Autumn term Tuesday 1 September 2026 to Friday 18 December 2026 (74 days); spring Monday 4 January to Thursday 25 March 2027 (54 days); summer Monday 12 April to Wednesday 21 July 2027 (67 days). Dates read on the essex.gov.uk page (Wayback copy of 12 June 2025) and checked against the council's Word calendar on secureschools.essex.gov.uk. The page gives the summer holiday as Thursday 22 July to 'Wednesday 31 August 2027' (31 August 2027 is a Tuesday)."
+    },
+    "2027-28": {
+      "status": "not-published",
+      "source": {},
+      "sessions": [],
+      "holidays": [],
+      "closures": [],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "",
+      "statedDays": null,
+      "notes": "Not read: the essex.gov.uk term dates page returns a bot challenge (HTTP 202, empty body) the latest Wayback copy of the Essex school terms and holidays page (30 September 2025) lists academic years only up to 2026 to 2027, and no 2027-28 calendar was found on secureschools.essex.gov.uk. To be checked again."
+    }
+  }
+}

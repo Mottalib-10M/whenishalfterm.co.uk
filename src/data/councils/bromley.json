@@ -1,0 +1,213 @@
+{
+  "slug": "bromley",
+  "name": "Bromley",
+  "officialName": "London Borough of Bromley",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "The local authority sets dates for maintained schools and voluntary controlled schools and these are recommended for other types of schools.",
+  "academyNote": "Academies, foundation, voluntary aided and free schools have powers to set their own term dates and the council recommends that parents check with individual school websites.",
+  "localFacts": [
+    {
+      "fact": "Bromley's autumn term starts in late August: Wednesday 26 August 2026 and Thursday 26 August 2027, with the August bank holiday falling inside the term.",
+      "source": "https://www.bromley.gov.uk/schools-colleges/school-term-dates/3"
+    },
+    {
+      "fact": "In return the October half term lasts two weeks: Monday 19 to Friday 30 October 2026, and Monday 18 to Friday 29 October 2027.",
+      "source": "https://www.bromley.gov.uk/schools-colleges/school-term-dates/3"
+    },
+    {
+      "fact": "Term dates are set following consultation with neighbouring local education authorities and staff association representatives.",
+      "source": "https://www.bromley.gov.uk/schools-colleges/school-term-dates"
+    },
+    {
+      "fact": "There are 195 teacher days a year, of which five week-days are staff development days chosen by the head teacher, leaving 190 days for pupils.",
+      "source": "https://www.bromley.gov.uk/schools-colleges/school-term-dates"
+    },
+    {
+      "fact": "The local authority sets dates for maintained and voluntary controlled schools; academies, foundation, voluntary aided and free schools can set their own.",
+      "source": "https://www.bromley.gov.uk/schools-colleges/school-term-dates"
+    },
+    {
+      "fact": "The induction day for Year 6 pupils moving to secondary school in autumn 2026 is Tuesday 7 July 2026; for autumn 2027 the council is proposing Tuesday 6 July 2027.",
+      "source": "https://www.bromley.gov.uk/schools-colleges/school-term-dates/4"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.bromley.gov.uk/schools-colleges/school-term-dates/3",
+        "pageUrl": "https://www.bromley.gov.uk/schools-colleges/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.bromley.gov.uk/schools-colleges/school-term-dates/3",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-08-26",
+          "end": "2026-10-16",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-23",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-19",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-26",
+          "end": "2027-08-25"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2026-08-31",
+          "label": "Summer bank holiday"
+        },
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Five school week-days are staff development days chosen by the head teacher, leaving 190 pupil days.",
+      "statedDays": 195,
+      "notes": "Autumn term starts Wednesday 26 August 2026 (bank holiday 31 August) and the October half term lasts two weeks (19 to 30 October). Summer holidays end the day before the 2027-28 start on Thursday 26 August 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.bromley.gov.uk/schools-colleges/school-term-dates/4",
+        "pageUrl": "https://www.bromley.gov.uk/schools-colleges/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.bromley.gov.uk/schools-colleges/school-term-dates/4",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-08-26",
+          "end": "2027-10-15",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-25",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-18",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-08-30",
+          "label": "Summer bank holiday"
+        },
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Same rule: five staff development days chosen by the head teacher.",
+      "statedDays": 195,
+      "notes": "Autumn term starts Thursday 26 August 2027 (bank holiday 30 August); two-week October half term 18 to 29 October 2027; summer term ends Tuesday 25 July 2028. The page says the council is 'also proposing' the Year 6 induction day for 2027."
+    }
+  }
+}

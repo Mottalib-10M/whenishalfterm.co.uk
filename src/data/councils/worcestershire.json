@@ -1,0 +1,201 @@
+{
+  "slug": "worcestershire",
+  "name": "Worcestershire",
+  "officialName": "Worcestershire County Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "county",
+  "appliesTo": "School term dates for Community and Voluntary Controlled schools.",
+  "academyNote": "To check the term dates of Academies, Foundation, Free or Voluntary Aided Schools you will need to view the school website or contact the school directly.",
+  "localFacts": [
+    {
+      "fact": "Worcestershire's dates are approved for community and voluntary controlled schools only.",
+      "source": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates"
+    },
+    {
+      "fact": "The council presents each holiday as the day school closes and the day it re-opens, and calls the half terms autumn, spring and summer mid-term.",
+      "source": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates"
+    },
+    {
+      "fact": "Worcestershire calls its staff training days Teacher Education Days (TED) and asks parents to check them with their child's school.",
+      "source": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates"
+    },
+    {
+      "fact": "The page lists the Whitsun Bank Holiday as the first day of the summer mid-term: Monday 31 May 2027 and Monday 29 May 2028.",
+      "source": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates"
+    },
+    {
+      "fact": "In 2027-28 schools re-open after Christmas on Tuesday 4 January 2028 and after Easter on Monday 24 April 2028.",
+      "source": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates",
+        "pageUrl": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "To check TED days contact your child's school.",
+      "statedDays": null,
+      "notes": "Easter: school closes Thursday 25 March 2027, re-opens Monday 12 April 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates",
+        "pageUrl": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.worcestershire.gov.uk/council-services/schools-education-and-learning/apply-school-place/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "To check TED days contact your child's school.",
+      "statedDays": null,
+      "notes": "Approved term dates for Community and Voluntary Controlled Schools. Term starts Thursday 2 September 2027."
+    }
+  }
+}

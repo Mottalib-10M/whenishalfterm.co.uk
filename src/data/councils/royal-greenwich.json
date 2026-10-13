@@ -1,0 +1,205 @@
+{
+  "slug": "royal-greenwich",
+  "name": "Royal Greenwich",
+  "officialName": "Royal Borough of Greenwich",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "These dates apply to community nurseries, primary, secondary and special schools.",
+  "academyNote": "Term dates for academies, free schools and voluntary-aided schools will be similar, but you should check with the school.",
+  "localFacts": [
+    {
+      "fact": "Royal Greenwich's dates apply to community nurseries, primary, secondary and special schools.",
+      "source": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates"
+    },
+    {
+      "fact": "Academies, free schools and voluntary-aided schools will have similar dates, but parents should check with the school.",
+      "source": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates"
+    },
+    {
+      "fact": "Children should attend school for 190 days (380 half sessions) during the school year.",
+      "source": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates"
+    },
+    {
+      "fact": "Schools that close for local elections will extend the summer term or make the closure coincide with an inset day.",
+      "source": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates"
+    },
+    {
+      "fact": "The council has published term dates as far as 2029 to 2030.",
+      "source": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates"
+    },
+    {
+      "fact": "In 2027-28 the Easter holiday runs from Monday 3 to Monday 17 April 2028, and Term 5 starts on Tuesday 18 April.",
+      "source": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates/term-dates-2027-2028"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates/term-dates-2026-2027",
+        "pageUrl": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates/term-dates-2026-2027",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Not listed; pupils attend 190 days and schools set inset days.",
+      "statedDays": null,
+      "notes": "Term 5 runs Monday 12 April to Friday 28 May 2027 except the bank holiday on 3 May."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates/term-dates-2027-2028",
+        "pageUrl": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates/term-dates-2027-2028",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Not listed; schools set inset days.",
+      "statedDays": null,
+      "notes": "Christmas and new year holiday Monday 20 December 2027 to Monday 3 January 2028."
+    }
+  }
+}

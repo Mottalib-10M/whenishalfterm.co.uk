@@ -1,0 +1,201 @@
+{
+  "slug": "stoke-on-trent",
+  "name": "Stoke-on-Trent",
+  "officialName": "Stoke-on-Trent City Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "unitary",
+  "appliesTo": "",
+  "academyNote": "Schools not run by the city council (such as academies) are free to choose their own term dates, although we encourage all schools to accept the term dates agreed on these pages.",
+  "localFacts": [
+    {
+      "fact": "Stoke-on-Trent publishes one web page per term, and already lists terms up to summer 2029.",
+      "source": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates"
+    },
+    {
+      "fact": "Schools choose the dates of their five inset days themselves and parents are asked to check the school's website.",
+      "source": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates"
+    },
+    {
+      "fact": "The city council encourages academies and other schools it does not run to accept its agreed term dates, but they are free to choose their own.",
+      "source": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates"
+    },
+    {
+      "fact": "The council lists the 2027 summer holiday as Thursday 22 July to Wednesday 1 September 2027.",
+      "source": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates/3"
+    },
+    {
+      "fact": "In 2027-28 the Christmas holiday runs from Monday 20 December 2027 to Monday 3 January 2028, and the Easter holiday from Monday 10 to Friday 21 April 2028.",
+      "source": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates/4"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates",
+        "pageUrl": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools have five extra inset days per year, which the schools themselves choose the dates for. Check your child's school's website for details.",
+      "statedDays": null,
+      "notes": "Easter holiday Friday 26 March to Friday 9 April 2027 (Easter Sunday 28 March)."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates/4",
+        "pageUrl": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.stoke.gov.uk/info/20007/schools_and_education/22/term_dates/4",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools have five extra inset days per year, which the schools themselves choose the dates for. Check your child's school's website for details.",
+      "statedDays": null,
+      "notes": "Schools open Thursday 2 September 2027. Summer holiday Monday 24 July to Friday 1 September 2028."
+    }
+  }
+}

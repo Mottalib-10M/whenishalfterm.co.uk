@@ -1,0 +1,123 @@
+{
+  "_lisezmoi": "Paramètres réglementaires du site (amendes, seuils, nombre de jours). Les dates de chaque conseil sont dans src/data/councils/, les jours fériés dans src/data/bank-holidays.json. Chaque valeur est relue sur la source citée ; retrieved_at mis à jour ce jour-là.",
+  "year": 2026,
+  "retrieved_at": "2026-10-12",
+  "valid_from": "2026-08-01",
+  "valid_to": "2027-07-31",
+  "penalties": {
+    "england": {
+      "firstReduced": 80,
+      "firstReducedDays": 21,
+      "firstFull": 160,
+      "firstFullDays": 28,
+      "second": 160,
+      "secondDays": 28,
+      "maxNoticesIn3Years": 2,
+      "thresholdSessions": 10,
+      "thresholdWeeks": 10,
+      "prosecutionLevel3": 1000,
+      "prosecutionLevel4": 2500,
+      "exclusionReduced": 60,
+      "exclusionFull": 120,
+      "since": "2024-08-19",
+      "source": "dfe_attendance"
+    },
+    "wales": {
+      "reduced": 60,
+      "reducedDays": 28,
+      "full": 120,
+      "fullDays": 42,
+      "source": "wales_penalty_regs"
+    },
+    "northern-ireland": {
+      "courtFinePerChild": 1000,
+      "source": "ni_attendance"
+    },
+    "scotland": {
+      "source": "scot_attendance"
+    }
+  },
+  "schoolYear": {
+    "englandPupilDays": 190,
+    "englandTeacherDays": 195,
+    "englandTeacherHours": 1265,
+    "niOpenDays": 200,
+    "niDevelopmentDaysMax": 10,
+    "source": "school_day_regs",
+    "englandSessions": 380
+  },
+  "sources": {
+    "dfe_attendance": {
+      "url": "https://www.gov.uk/government/publications/working-together-to-improve-school-attendance",
+      "label": {
+        "en": "Department for Education, Working together to improve school attendance (statutory guidance, updated 9 July 2026)"
+      }
+    },
+    "dfe_attendance_pdf": {
+      "url": "https://assets.publishing.service.gov.uk/media/6a4f9ec6a6586e258d371bd0/Working_together_to_improve_school_attendance_2026.pdf",
+      "label": {
+        "en": "Working together to improve school attendance, 2026 edition (PDF): national framework for penalty notices, paragraphs 179 to 205"
+      }
+    },
+    "govuk_absence": {
+      "url": "https://www.gov.uk/school-attendance-absence/penalties",
+      "label": {
+        "en": "GOV.UK, School attendance and absence: penalties"
+      }
+    },
+    "wales_penalty_regs": {
+      "url": "https://www.legislation.gov.uk/wsi/2013/1983/contents",
+      "label": {
+        "en": "The Education (Penalty Notices) (Wales) Regulations 2013, regulation 4 (amount of penalty)"
+      }
+    },
+    "scot_attendance": {
+      "url": "https://www.gov.scot/publications/included-engaged-involved-part-1-positive-approach-promotion-management-attendance-scottish-schools/",
+      "label": {
+        "en": "Scottish Government, Included, engaged and involved part 1: attendance in Scottish schools"
+      }
+    },
+    "ni_attendance": {
+      "url": "https://www.nidirect.gov.uk/articles/school-attendance-and-absence",
+      "label": {
+        "en": "nidirect, School attendance and absence (Education Welfare Service)"
+      }
+    },
+    "ni_holidays": {
+      "url": "https://www.education-ni.gov.uk/articles/school-holidays",
+      "label": {
+        "en": "Department of Education (Northern Ireland), School holidays 2026/2027"
+      }
+    },
+    "ni_terms": {
+      "url": "https://www.nidirect.gov.uk/articles/term-dates-and-school-holidays",
+      "label": {
+        "en": "nidirect, Term dates and school holidays"
+      }
+    },
+    "bank_holidays": {
+      "url": "https://www.gov.uk/bank-holidays",
+      "label": {
+        "en": "GOV.UK, UK bank holidays (England and Wales, Scotland, Northern Ireland)"
+      }
+    },
+    "govuk_find_council": {
+      "url": "https://www.gov.uk/school-term-holiday-dates",
+      "label": {
+        "en": "GOV.UK, School term and holiday dates: find your local council"
+      }
+    },
+    "kent_2026": {
+      "url": "https://www.kent.gov.uk/education-and-children/schools/term-dates",
+      "label": {
+        "en": "Kent County Council, Term dates (190 pupil days, 195 teacher days, 1,265 hours)"
+      }
+    },
+    "school_day_regs": {
+      "url": "https://www.legislation.gov.uk/uksi/1999/3181/regulation/3",
+      "label": {
+        "en": "The Education (School Day and School Year) (England) Regulations 1999, regulation 3: at least 380 sessions a year"
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "tower-hamlets",
+  "name": "Tower Hamlets",
+  "officialName": "London Borough of Tower Hamlets",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "",
+  "academyNote": "Pupils are required to be in school 190 days. Five inset days each year will be determined by each individual school.",
+  "localFacts": [
+    {
+      "fact": "Tower Hamlets builds 197 days into 2026-27: five for INSET and two extra holiday days for Eid al-Fitr and Eid al-Adha, which schools place because the dates move.",
+      "source": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx"
+    },
+    {
+      "fact": "The council lists approximate Eid dates: Eid ul-Fitr on 9 March 2027 and Eid ul-Adha on 17 May 2027.",
+      "source": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx"
+    },
+    {
+      "fact": "In 2027-28 the dates again provide 197 days, with one extra day for Eid al-Adha (about 5 May 2028); Eid ul-Fitr is projected to fall on a weekend.",
+      "source": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx"
+    },
+    {
+      "fact": "Term 1 of 2026-27 starts on Tuesday 1 September 2026, and the summer term ends on Friday 23 July 2027.",
+      "source": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx"
+    },
+    {
+      "fact": "The 2027-28 summer term runs to Wednesday 26 July 2028, with the summer break from Thursday 27 July 2028.",
+      "source": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx"
+    },
+    {
+      "fact": "Five inset days each year are determined by each individual school.",
+      "source": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx",
+        "pageUrl": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-23",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-26",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Five inset days determined by each school; the two Eid days are not fixed by the council.",
+      "statedDays": 197,
+      "notes": "These dates provide 197 days: five for INSET and two additional holiday days for Eid al-Fitr and Eid al-Adha, not specified because they move. The page lists the Easter break from Monday 29 March; Friday 26 March 2027 is Good Friday."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx",
+        "pageUrl": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.towerhamlets.gov.uk/lgnl/education_and_learning/schools/term_and_holiday_dates.aspx",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Five inset days determined by each school, plus one Eid al-Adha day.",
+      "statedDays": 197,
+      "notes": "197 days: five INSET days and one additional day for Eid al-Adha. The page lists the Christmas break to Friday 31 December 2027 (3 January 2028 is the New Year bank holiday) and the Easter break to Friday 14 April (17 April is Easter Monday). The page counts Term 6 (Monday 5 June to Wednesday 26 July 2028) as 37 days, but that range holds 38 weekdays, so the dates as written give 198 days rather than the stated 197."
+    }
+  }
+}

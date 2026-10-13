@@ -1,0 +1,215 @@
+{
+  "slug": "nottingham",
+  "name": "Nottingham",
+  "officialName": "Nottingham City Council",
+  "nation": "england",
+  "region": "East Midlands",
+  "type": "unitary",
+  "appliesTo": "Please note that the dates listed below apply for all Local Authority maintained Schools in Nottingham City.",
+  "academyNote": "Foundation, Trust, Voluntary Aided Schools, Academies and Free Schools are responsible for setting their own holiday patterns, which may differ from the dates listed here. Please check the school website for details of their holiday dates.",
+  "localFacts": [
+    {
+      "fact": "Nottingham City Council says it keeps a legal responsibility to set term and holiday dates and aims for stability and consistency across city maintained schools and with academies where possible.",
+      "source": "https://www.nottinghamcity.gov.uk/terms"
+    },
+    {
+      "fact": "The council recommends an INSET day at the start of each year: Tuesday 1 September 2026 and Wednesday 1 September 2027; the other INSET days are decided by each school.",
+      "source": "https://www.nottinghamcity.gov.uk/terms"
+    },
+    {
+      "fact": "Nottingham City has a two-week October half term: Monday 19 to Friday 30 October 2026, and Monday 18 to Friday 29 October 2027.",
+      "source": "https://www.nottinghamcity.gov.uk/terms"
+    },
+    {
+      "fact": "The summer term ends late, on Wednesday 28 July 2027 and Wednesday 26 July 2028.",
+      "source": "https://www.nottinghamcity.gov.uk/terms"
+    },
+    {
+      "fact": "In 2027-28 the autumn term ends on Tuesday 21 December 2027 and the summer term starts on Tuesday 18 April 2028, the day after Easter Monday.",
+      "source": "https://www.nottinghamcity.gov.uk/terms"
+    },
+    {
+      "fact": "The council already lists term dates up to 2029-30.",
+      "source": "https://www.nottinghamcity.gov.uk/terms"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.nottinghamcity.gov.uk/terms",
+        "pageUrl": "https://www.nottinghamcity.gov.uk/terms",
+        "via": "direct",
+        "fetchedUrl": "https://www.nottinghamcity.gov.uk/terms",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-16",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-28",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-19",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-29",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-09-01",
+          "label": "Inset day (recommended by the council)"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Schools will be closed for five teacher training (INSET) days. Tuesday 1 September is a recommended INSET day; the others are decided by the school.",
+      "statedDays": null,
+      "notes": "Pupils start Wednesday 2 September 2026. Two-week October half term."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.nottinghamcity.gov.uk/terms",
+        "pageUrl": "https://www.nottinghamcity.gov.uk/terms",
+        "via": "direct",
+        "fetchedUrl": "https://www.nottinghamcity.gov.uk/terms",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-15",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-21",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-18",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-22",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-09-01",
+          "label": "Inset day (recommended by the council)"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Wednesday 1 September 2027 is a recommended INSET day; the others are decided by the school.",
+      "statedDays": null,
+      "notes": "Pupils start Thursday 2 September 2027. Two-week October half term."
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "slug": "coventry",
+  "name": "Coventry",
+  "officialName": "Coventry City Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "metropolitan",
+  "appliesTo": "Term dates for Coventry's schools are set up to three years in advance.",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "Coventry sets its term dates up to three years in advance.",
+      "source": "https://www.coventry.gov.uk/schools-schooling/school-term-dates/print"
+    },
+    {
+      "fact": "The local authority sets the dates each year in consultation with parents, headteachers, governing bodies, professional associations, Diocesan Boards of Education, FE colleges and trade unions.",
+      "source": "https://www.coventry.gov.uk/schools-schooling/school-term-dates/print"
+    },
+    {
+      "fact": "Coventry's 2026-27 autumn term starts on Wednesday 2 September 2026, a day later than several neighbouring West Midlands councils.",
+      "source": "https://www.coventry.gov.uk/schools-schooling/school-term-dates/print"
+    },
+    {
+      "fact": "A total of 195 days are defined as school days: pupils attend for 190 and each school sets its own 5 staff training days.",
+      "source": "https://www.coventry.gov.uk/schools-schooling/school-term-dates/print"
+    },
+    {
+      "fact": "The council offers each year as a printable calendar and as an ics file to add to a digital calendar.",
+      "source": "https://www.coventry.gov.uk/schools-schooling/school-term-dates/print"
+    },
+    {
+      "fact": "In 2027-28 the summer term ends on Thursday 20 July 2028, with summer holidays beginning on Friday 21 July 2028.",
+      "source": "https://www.coventry.gov.uk/schools-schooling/school-term-dates/print"
+    },
+    {
+      "fact": "Holiday activities are listed in the Coventry Family Information Directory what's on section.",
+      "source": "https://www.coventry.gov.uk/schools-schooling/school-term-dates/print"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.coventry.gov.uk/schools-schooling/school-term-dates",
+        "pageUrl": "https://www.coventry.gov.uk/schools-schooling/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.coventry.gov.uk/schools-schooling/school-term-dates/print",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "195 school days are defined; pupils attend 190 and the remaining 5 days for staff training are set at each school individually.",
+      "statedDays": 195,
+      "notes": "All dates are inclusive. Summer holidays begin Thursday 22 July 2027. Counted from the listed dates, the terms hold 194 weekdays once the May Day bank holiday is taken out, one fewer than the 195 the page states."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.coventry.gov.uk/schools-schooling/school-term-dates",
+        "pageUrl": "https://www.coventry.gov.uk/schools-schooling/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.coventry.gov.uk/schools-schooling/school-term-dates/print",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-20",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "195 school days are defined; pupils attend 190 and the remaining 5 days for staff training are set at each school individually.",
+      "statedDays": 195,
+      "notes": "Summer term ends Thursday 20 July 2028; summer holidays begin Friday 21 July 2028. Counted from the listed dates, the terms hold 194 weekdays once the May Day bank holiday is taken out, one fewer than the 195 the page states."
+    }
+  }
+}

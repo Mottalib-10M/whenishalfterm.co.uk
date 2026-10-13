@@ -1,0 +1,215 @@
+{
+  "slug": "oxfordshire",
+  "name": "Oxfordshire",
+  "officialName": "Oxfordshire County Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "county",
+  "appliesTo": "Some schools may differ, check with your school.",
+  "academyNote": "The page says some schools may differ and to check with your school; it asks parents to check INSET days on the school's website because schools have different INSET days.",
+  "localFacts": [
+    {
+      "fact": "Oxfordshire names one countywide 'available for work' or INSET day each year: 1 September 2026 and 3 September 2027.",
+      "source": "https://www.oxfordshire.gov.uk/schools/term-dates-and-holidays"
+    },
+    {
+      "fact": "Schools set four more INSET days themselves; the council calendar counts them inside the 195 pupil days shown.",
+      "source": "https://www.oxfordshire.gov.uk/sites/default/files/file/school/Termdates2026-27.pdf"
+    },
+    {
+      "fact": "Term dates are set by the council after consultation with schools, neighbouring authorities and groups representing teaching and other staff, among others.",
+      "source": "https://www.oxfordshire.gov.uk/schools/term-dates-and-holidays"
+    },
+    {
+      "fact": "In 2027-28 the autumn term starts late for pupils, on Monday 6 September 2027, after the countywide INSET day on Friday 3 September.",
+      "source": "https://www.oxfordshire.gov.uk/sites/default/files/file/school/Termdates2027-28.pdf"
+    },
+    {
+      "fact": "In 2027-28 the spring term runs to 7 April 2028 and the Easter holiday is 10 to 21 April 2028, around Easter Sunday 16 April.",
+      "source": "https://www.oxfordshire.gov.uk/schools/term-dates-and-holidays"
+    },
+    {
+      "fact": "Oxfordshire calls the May break the 'Late Spring half-term'.",
+      "source": "https://www.oxfordshire.gov.uk/schools/term-dates-and-holidays"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.oxfordshire.gov.uk/sites/default/files/file/school/Termdates2026-27.pdf",
+        "pageUrl": "https://www.oxfordshire.gov.uk/schools/term-dates-and-holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.oxfordshire.gov.uk/schools/term-dates-and-holidays",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-09-01",
+          "label": "Countywide 'available for work' or INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "1 September 2026 has been identified as a countywide 'available for work' or INSET day. Four more can be set by the school, within the 195 days shown.",
+      "statedDays": 195,
+      "notes": "Pupils start on 2 September 2026. The page lists the Christmas holiday as 21 to 31 December and Easter as 30 March to 9 April; the calendar marks 1 January, 26 March and 29 March 2027 as public holidays. Summer holiday runs to 2 September 2027 because 2027-28 starts on 3 September."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.oxfordshire.gov.uk/sites/default/files/file/school/Termdates2027-28.pdf",
+        "pageUrl": "https://www.oxfordshire.gov.uk/schools/term-dates-and-holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.oxfordshire.gov.uk/schools/term-dates-and-holidays",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-03",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-21",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-05",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-22",
+          "end": "2028-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-09-03",
+          "label": "Countywide 'available for work' or INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "3 September 2027 has been identified as a countywide 'available for work' or INSET day. Four more can be set by the school.",
+      "statedDays": 195,
+      "notes": "Pupils start Monday 6 September 2027. The page shows 'Autumn Term 1 November - 21 December' and 'Christmas holiday 21 December - 31 December'; the calendar PDF shows 21 December as a school day and 22 December to 4 January as holiday (3 January public holiday), with spring term from 5 January. Half-term lengths 36, 37, 28, 35, 24 and 35 days, total 195."
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "slug": "warwickshire",
+  "name": "Warwickshire",
+  "officialName": "Warwickshire County Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "county",
+  "appliesTo": "Warwickshire County Council sets term and holiday dates for all community and voluntary controlled schools.",
+  "academyNote": "Academies, foundation, and aided schools set their own dates, and we work with them to keep dates as similar as possible. Academies and free schools set their own training days.",
+  "localFacts": [
+    {
+      "fact": "Warwickshire sets two of the five teacher training days itself and leaves three to schools: 1 September 2026 and 4 January 2027 in 2026-27, 1 September 2027 and 5 January 2028 in 2027-28.",
+      "source": "https://www.warwickshire.gov.uk/schoolholidaydates"
+    },
+    {
+      "fact": "The council sets its dates on stated parameters: 195 school days, holidays in full weeks where possible, a three-weekend break at Christmas and Easter, a summer holiday close to six weeks and a pattern close to neighbouring councils.",
+      "source": "https://www.warwickshire.gov.uk/schoolholidaydates"
+    },
+    {
+      "fact": "Dates are usually published 18 months before the academic year starts; dates for 2025-26 were published by March 2024.",
+      "source": "https://www.warwickshire.gov.uk/schoolholidaydates"
+    },
+    {
+      "fact": "There is one secondary induction day for all Warwickshire schools: Wednesday 8 July 2026, Wednesday 7 July 2027 and Wednesday 5 July 2028.",
+      "source": "https://www.warwickshire.gov.uk/schoolholidaydates"
+    },
+    {
+      "fact": "Unlike most West Midlands neighbours, Warwickshire starts 2027-28 on Wednesday 1 September 2027 and returns after Christmas on Wednesday 5 January 2028, both teacher training days.",
+      "source": "https://www.warwickshire.gov.uk/schoolholidaydates"
+    },
+    {
+      "fact": "The council publishes a list of closed schools when schools tell it, for example during severe weather.",
+      "source": "https://www.warwickshire.gov.uk/schoolholidaydates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://api.warwickshire.gov.uk/documents/WCCC-555761535-884",
+        "pageUrl": "https://www.warwickshire.gov.uk/schoolholidaydates",
+        "via": "direct",
+        "fetchedUrl": "https://api.warwickshire.gov.uk/documents/WCCC-555761535-884",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-09-01",
+          "label": "Teacher training day (set by the council)"
+        },
+        {
+          "date": "2027-01-04",
+          "label": "Teacher training day (set by the council)"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "The council sets two teacher training days (1 September 2026 and 4 January 2027); schools set three more.",
+      "statedDays": 195,
+      "notes": "Days per half term in the PDF: 39, 35, 30, 24, 34 and 33, total 195. The page lists the Easter holiday as 29 March to 9 April; Friday 26 March is Good Friday."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://api.warwickshire.gov.uk/documents/WCCC-555761535-864",
+        "pageUrl": "https://www.warwickshire.gov.uk/schoolholidaydates",
+        "via": "direct",
+        "fetchedUrl": "https://api.warwickshire.gov.uk/documents/WCCC-555761535-864",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-05",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-09-01",
+          "label": "Teacher training day (set by the council)"
+        },
+        {
+          "date": "2028-01-05",
+          "label": "Teacher training day (set by the council)"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "The council sets two teacher training days (1 September 2027 and 5 January 2028); schools set three more.",
+      "statedDays": 195,
+      "notes": "Christmas holiday 20 December 2027 to 4 January 2028. Days per half term in the PDF: 38, 35, 28, 35, 24 and 35, total 195."
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "derby",
+  "name": "Derby",
+  "officialName": "Derby City Council",
+  "nation": "england",
+  "region": "East Midlands",
+  "type": "unitary",
+  "appliesTo": "We set the school term and holiday dates for all Derby community schools.",
+  "academyNote": "Academies, foundation and voluntary-aided schools can have different dates.",
+  "localFacts": [
+    {
+      "fact": "Derby City Council sets term and holiday dates for all Derby community schools; academies, foundation and voluntary-aided schools can have different dates.",
+      "source": "https://www.derby.gov.uk/education-and-learning/schools-and-colleges/term-holiday-dates/"
+    },
+    {
+      "fact": "Derby's 2026-27 year starts on Friday 4 September 2026 and ends on Monday 26 July 2027.",
+      "source": "https://www.derby.gov.uk/education-and-learning/schools-and-colleges/term-holiday-dates/"
+    },
+    {
+      "fact": "The 2026-27 year totals 195 days: 71 in autumn, 54 in spring and 70 in summer.",
+      "source": "https://www.derby.gov.uk/education-and-learning/schools-and-colleges/term-holiday-dates/"
+    },
+    {
+      "fact": "The council says its 2027-28 dates were the preferred option following consultation but are subject to final agreement by Council Cabinet.",
+      "source": "https://www.derby.gov.uk/education-and-learning/schools-and-colleges/term-holiday-dates/"
+    },
+    {
+      "fact": "Derby's calendars show 195 days, including up to 5 days to be taken as professional development days for teaching staff.",
+      "source": "https://www.derby.gov.uk/media/derbycitycouncil/content/documents/education/derby-city-school-term-dates-2026-27.pdf"
+    },
+    {
+      "fact": "Derby already lists provisional dates up to 2029-30.",
+      "source": "https://www.derby.gov.uk/education-and-learning/schools-and-colleges/term-holiday-dates/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.derby.gov.uk/education-and-learning/schools-and-colleges/term-holiday-dates/",
+        "pageUrl": "https://www.derby.gov.uk/education-and-learning/schools-and-colleges/term-holiday-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.derby.gov.uk/education-and-learning/schools-and-colleges/term-holiday-dates/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-04",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-27",
+          "end": "2027-09-03"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools decide when to take their five in service training days (inset days). Schools will inform parents about inset dates for their school.",
+      "statedDays": 195,
+      "notes": "Term starts Friday 4 September 2026 and ends Monday 26 July 2027."
+    },
+    "2027-28": {
+      "status": "provisional",
+      "source": {
+        "officialUrl": "https://www.derby.gov.uk/media/derbycitycouncil/content/documents/education/derby-city-school-term-dates2027-28.pdf",
+        "pageUrl": "https://www.derby.gov.uk/education-and-learning/schools-and-colleges/term-holiday-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.derby.gov.uk/media/derbycitycouncil/content/documents/education/derby-city-school-term-dates2027-28.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-22",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-06",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-24",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-23",
+          "end": "2028-01-05"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools decide when to take their five in service training days (inset days). Schools will inform parents about inset dates for their school.",
+      "statedDays": 195,
+      "notes": "These term dates were the preferred option following consultation but are subject to final agreement by Council Cabinet. The PDF calendar is labelled Option A. The web page prints some weekdays wrongly (Monday 26 May 2028 is a Friday; it lists Monday 1 January 2028, while the calendar marks the bank holiday on Monday 3 January 2028)."
+    }
+  }
+}

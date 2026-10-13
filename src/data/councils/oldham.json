@@ -1,0 +1,201 @@
+{
+  "slug": "oldham",
+  "name": "Oldham",
+  "officialName": "Oldham Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "metropolitan",
+  "appliesTo": "These holiday dates are for guidance only.",
+  "academyNote": "The council says its dates are for guidance only and asks parents to visit their school's website for its specific holiday timetable.",
+  "localFacts": [
+    {
+      "fact": "Oldham's holiday dates are for guidance only, and parents are asked to check their school's website for its specific timetable.",
+      "source": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays"
+    },
+    {
+      "fact": "Each pattern contains 195 days; schools then choose INSET days to bring pupil days down to 190.",
+      "source": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays"
+    },
+    {
+      "fact": "The council lists the days in school for each half term, for example 39 and 35 days in autumn 2026.",
+      "source": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays"
+    },
+    {
+      "fact": "In 2027/28 Oldham's Easter holidays run from 8 to 23 April 2028, with the spring term ending on 7 April and the summer term starting on 24 April.",
+      "source": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays"
+    },
+    {
+      "fact": "Oldham's February half term in 2028 runs from 19 to 27 February, with schools reopening on 28 February 2028.",
+      "source": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays",
+        "pageUrl": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The patterns contain 195 days, and individual schools then choose INSET days to reduce the number of days in school for pupils to 190.",
+      "statedDays": 195,
+      "notes": "Days in school by half term: 39, 35, 30, 24, 34 and 33 (195). Summer holidays begin 22 July 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays",
+        "pageUrl": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays",
+        "via": "direct",
+        "fetchedUrl": "https://www.oldham.gov.uk/info/200226/schools/1960/school_holidays",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-20",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The patterns contain 195 days, and individual schools then choose INSET days to reduce the number of days in school for pupils to 190.",
+      "statedDays": 195,
+      "notes": "Days in school by half term: 38, 35, 34, 30, 24 and 34 (195). Summer term closes 20 July 2028."
+    }
+  }
+}

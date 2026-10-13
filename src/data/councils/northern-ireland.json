@@ -1,0 +1,58 @@
+{
+  "slug": "northern-ireland",
+  "name": "Northern Ireland",
+  "officialName": "Department of Education (Northern Ireland)",
+  "nation": "northern-ireland",
+  "region": "Northern Ireland",
+  "type": "ni",
+  "appliesTo": "The table below lists the non-operational dates for schools in the 2026/2027 academic year. It is worth noting that schools can operate on these dates at their own discretion to suit their individual circumstances.",
+  "academyNote": "Northern Ireland has no councils setting term dates: all school sectors agree common holiday dates each year, and each school then sets its own term dates and staff training days around them.",
+  "localFacts": [
+    {"fact": "There is no local authority calendar in Northern Ireland: the Department of Education publishes the common non-operational dates agreed by all school sectors, and each school sets its own term around them.", "source": "https://www.education-ni.gov.uk/articles/school-holidays"},
+    {"fact": "On the common holiday dates, school transport and school meal services are not available, even if a school decides to open.", "source": "https://www.nidirect.gov.uk/articles/term-dates-and-school-holidays"},
+    {"fact": "Schools must open for 200 days in the year and can use up to ten days for staff training and school development, when pupils stay at home.", "source": "https://www.nidirect.gov.uk/articles/term-dates-and-school-holidays"},
+    {"fact": "In 2026-27 the Minister granted three extra closure days, one per term, for the TransformED NI reform of teaching and learning: 25 September 2026, 25 January 2027 and 4 May 2027.", "source": "https://www.education-ni.gov.uk/articles/school-holidays"},
+    {"fact": "The summer holiday begins on 1 July: schools in Northern Ireland break up at the end of June, three weeks before most schools in England and Wales.", "source": "https://www.education-ni.gov.uk/articles/school-holidays"},
+    {"fact": "St Patrick's Day (17 March 2027) and Halloween (29 and 30 October 2026) are common closure dates.", "source": "https://www.education-ni.gov.uk/articles/school-holidays"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.education-ni.gov.uk/articles/school-holidays", "pageUrl": "https://www.education-ni.gov.uk/articles/school-holidays", "via": "direct", "fetchedUrl": "https://www.education-ni.gov.uk/articles/school-holidays", "retrieved": "2026-10-12", "format": "html"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-28", "label": "Autumn term"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Autumn term"},
+        {"start": "2027-01-04", "end": "2027-02-10", "label": "Spring term"},
+        {"start": "2027-02-15", "end": "2027-03-16", "label": "Spring term"},
+        {"start": "2027-03-18", "end": "2027-03-24", "label": "Spring term"},
+        {"start": "2027-04-05", "end": "2027-04-30", "label": "Summer term"},
+        {"start": "2027-05-05", "end": "2027-05-28", "label": "Summer term"},
+        {"start": "2027-06-01", "end": "2027-06-30", "label": "Summer term"}
+      ],
+      "holidays": [
+        {"name": "Halloween break", "start": "2026-10-29", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February mid-term", "start": "2027-02-11", "end": "2027-02-12"},
+        {"name": "St Patrick's Day", "start": "2027-03-17", "end": "2027-03-17"},
+        {"name": "Easter holidays", "start": "2027-03-25", "end": "2027-04-02"},
+        {"name": "May Day and extra closure day", "start": "2027-05-03", "end": "2027-05-04"},
+        {"name": "Spring bank holiday", "start": "2027-05-31", "end": "2027-05-31"},
+        {"name": "Summer holidays", "start": "2027-07-01", "end": "2027-08-31"}
+      ],
+      "closures": [
+        {"date": "2026-09-25", "label": "Extra closure day (TransformED NI)"},
+        {"date": "2027-01-25", "label": "Extra closure day (TransformED NI)"}
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools also have the discretion to take a number of staff training and school development days (up to ten). Pupils do not attend on these days and such days are likely to differ from school to school.",
+      "statedDays": null,
+      "notes": "Common non-operational dates; schools may open on them. 4 May 2027 is the third TransformED closure day, next to May Day."
+    },
+    "2027-28": {
+      "status": "not-published",
+      "sessions": [], "holidays": [],
+      "notes": "The Department of Education page lists 2025/26 and 2026/27 only (read 12 October 2026)."
+    }
+  }
+}

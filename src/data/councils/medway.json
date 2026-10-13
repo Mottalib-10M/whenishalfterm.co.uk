@@ -1,0 +1,210 @@
+{
+  "slug": "medway",
+  "name": "Medway",
+  "officialName": "Medway Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "unitary",
+  "appliesTo": "Most Medway schools have the same holiday dates, but some academy, voluntary-aided or foundation schools may differ. If in doubt, contact the individual school.",
+  "academyNote": "Academies have the authority to set their own term dates.",
+  "localFacts": [
+    {
+      "fact": "Medway's term dates give a total of 195 days: maintained schools provide 190 teaching days and use the remaining 5 for staff development.",
+      "source": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates"
+    },
+    {
+      "fact": "Each Medway school is free to decide when its 5 staff development days take place.",
+      "source": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates"
+    },
+    {
+      "fact": "Medway numbers its year in six terms and calls its breaks the autumn, Christmas, February, Easter and late spring breaks.",
+      "source": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates"
+    },
+    {
+      "fact": "In 2027-28 Term 1 starts on Monday 6 September 2027 and Term 6 runs to Wednesday 26 July 2028.",
+      "source": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates"
+    },
+    {
+      "fact": "Medway already lists dates for September 2028 to July 2029, with Term 1 starting on Friday 1 September 2028.",
+      "source": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates"
+    },
+    {
+      "fact": "Dates are set after public consultation; the council publishes the 2026 to 2027 consultation document and a joint 2027 to 2028 and 2028 to 2029 consultation document.",
+      "source": "https://www.medway.gov.uk/downloads/download/392/school_consultations"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates",
+        "pageUrl": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Term 1"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Term 2"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Term 3"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Term 4"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Term 5"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-03"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school is free to decide when its 5 staff development days take place, within the 195 days.",
+      "statedDays": 195,
+      "notes": "Good Friday 26 March and Easter Monday 29 March 2027; Easter break 30 March to 9 April 2027. Summer holiday runs to 3 September 2027 because 2027-28 starts on Monday 6 September."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates",
+        "pageUrl": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.medway.gov.uk/info/200137/schools_and_learning/355/school_term_dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Term 1"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Term 2"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Term 3"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Term 4"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Term 5"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-27",
+          "end": "2028-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Same rule: schools choose their 5 staff development days.",
+      "statedDays": 195,
+      "notes": "Term 1 starts Monday 6 September 2027; Term 6 ends Wednesday 26 July 2028. The page lists the Christmas break as 20 to 31 December 2027 with Term 3 starting Tuesday 4 January 2028 (3 January is the New Year bank holiday), and the Easter break as 3 to 14 April 2028 with Easter Monday 17 April. 2028-29 Term 1 starts Friday 1 September 2028."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+---
+/** A school year at a glance: one row per month, one square per day, coloured by the engine. */
+import { dayStatus, addDays, type Council, type YearKey } from '../lib/engine/calendar';
+interface Props { council: Council; year: YearKey }
+const { council: c, year } = Astro.props;
+const Y = c.years[year];
+const y0 = +year.slice(0, 4);
+const months: Array<{ name: string; days: Array<{ d: number; cls: string; title: string }> }> = [];
+if (Y && Y.status !== 'not-published') {
+  for (let m = 8; m <= 18; m++) {
+    const yy = y0 + Math.floor(m / 12), mm = (m % 12) + 1;
+    const first = `${yy}-${String(mm).padStart(2, '0')}-01`;
+    const days: Array<{ d: number; cls: string; title: string }> = [];
+    for (let d = first; d.slice(5, 7) === first.slice(5, 7); d = addDays(d, 1)) {
+      const s = dayStatus(c, d);
+      const cls = s.open ? 'cal-open' : s.kind === 'weekend' ? 'cal-we' : s.kind === 'bank-holiday' ? 'cal-bh' : 'cal-off';
+      days.push({ d: +d.slice(8), cls, title: `${d}: ${s.open ? 'school day' : s.label}` });
+    }
+    months.push({ name: new Date(`${first}T00:00:00Z`).toLocaleDateString('en-GB', { month: 'short', year: '2-digit', timeZone: 'UTC' }), days });
+  }
+}
+---
+{months.length > 0 && (
+  <figure class="not-prose my-6" aria-label={`${c.name} school year ${year}, day by day`}>
+    <figcaption class="mb-2 text-sm text-navy-700">{c.name}, {year}, day by day: <span class="cal-day cal-open">&nbsp;</span> school <span class="cal-day cal-off">&nbsp;</span> holiday or closure <span class="cal-day cal-bh">&nbsp;</span> bank holiday <span class="cal-day cal-we">&nbsp;</span> weekend</figcaption>
+    <div class="grid gap-x-6 sm:grid-cols-2">
+      {months.map((m) => (<div class="cal-month flex items-start gap-2 py-1"><span class="w-14 shrink-0 text-xs text-navy-700">{m.name}</span><span class="flex flex-wrap" aria-hidden="true">{m.days.map((d) => <span class={`cal-day ${d.cls}`} title={d.title}>{d.d}</span>)}</span></div>))}
+    </div>
+  </figure>
+)}

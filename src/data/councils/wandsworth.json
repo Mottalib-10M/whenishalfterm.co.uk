@@ -1,0 +1,134 @@
+{
+  "slug": "wandsworth",
+  "name": "Wandsworth",
+  "officialName": "Wandsworth Borough Council",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "Term dates for academies, foundation schools, free schools and voluntary aided schools are set by school governing bodies or academy trusts.",
+  "academyNote": "Term dates for academies, foundation schools, free schools and voluntary aided schools are set by school governing bodies or academy trusts. The term dates for these schools may be different, and they should be contacted directly.",
+  "localFacts": [
+    {
+      "fact": "Wandsworth's term dates are based on dates agreed by the London Inter Authority Admissions Group (LIAAG).",
+      "source": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/"
+    },
+    {
+      "fact": "The timetable allows for the legal 195 school days: 190 days open to pupils and 5 staff training days decided by each school's governing body.",
+      "source": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/"
+    },
+    {
+      "fact": "The page lists the 2026-27 early May bank holiday as Monday 4 May 2027, although that bank holiday falls on Monday 3 May 2027.",
+      "source": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/"
+    },
+    {
+      "fact": "As of October 2026 the council page lists 2025/26 and 2026/27 only; no 2027/28 dates are given.",
+      "source": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/"
+    },
+    {
+      "fact": "Academies, foundation, free and voluntary aided schools set their own dates and should be contacted directly.",
+      "source": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/",
+        "pageUrl": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The 5 staff training and development days are decided by the school's governing body according to its development planning cycle.",
+      "statedDays": 195,
+      "notes": "Page gives first and last days of each term and half terms; Christmas and Easter breaks are the gaps between terms. The page writes 'Bank Holiday: Monday 4 May 2027'; the early May bank holiday is Monday 3 May 2027."
+    },
+    "2027-28": {
+      "status": "not-published",
+      "sessions": [],
+      "holidays": [],
+      "closures": [],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "",
+      "statedDays": null,
+      "notes": "The council page says 'Check Wandsworth school term dates for 2025/26 and 2026/27' and gives no 2027/28 dates.",
+      "source": {
+        "officialUrl": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/",
+        "pageUrl": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.wandsworth.gov.uk/schools-and-admissions/schools/school-term-dates/",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      }
+    }
+  }
+}

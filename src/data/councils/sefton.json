@@ -1,0 +1,210 @@
+{
+  "slug": "sefton",
+  "name": "Sefton",
+  "officialName": "Sefton Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "metropolitan",
+  "appliesTo": "Sefton Council have produced the above recommended model; however please check with your relevant schools for their individual dates.",
+  "academyNote": "The council page calls its dates a recommended model and asks parents to check with the relevant school for its individual dates; it advises schools to consult other local schools to cause minimum disruption.",
+  "localFacts": [
+    {
+      "fact": "Sefton Council publishes its dates as a recommended model and advises schools to consult other local schools to cause minimum disruption.",
+      "source": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/"
+    },
+    {
+      "fact": "The page gives the number of days in each term: 74, 54 and 67 days in 2026-2027, a total of 195.",
+      "source": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/"
+    },
+    {
+      "fact": "In 2027-2028 the split is 73, 64 and 58 days, again 195 in total, because Easter falls late and the spring term runs to 7 April 2028.",
+      "source": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/"
+    },
+    {
+      "fact": "Sefton's February half term in 2028 is 21 to 25 February, a week later than some neighbouring councils.",
+      "source": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/"
+    },
+    {
+      "fact": "The council notes that the government decided local authorities will continue to set term dates.",
+      "source": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/"
+    },
+    {
+      "fact": "Dates are already published for 2028-2029, with the autumn term starting on 1 September 2028.",
+      "source": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/",
+        "pageUrl": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/",
+        "via": "direct",
+        "fetchedUrl": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools will hold staff training days, also known as inset days, on various days throughout the academic year, and will be closed to pupils at these times; check the school's website.",
+      "statedDays": 195,
+      "notes": "Term totals stated by the council: autumn 74, spring 54, summer 67 days (195). The page lists term start, half term and term end only; the Christmas and Easter holidays are the gaps between terms."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/",
+        "pageUrl": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/",
+        "via": "direct",
+        "fetchedUrl": "https://www.sefton.gov.uk/childrens-services/schools-and-learning/school-terms-and-holidays/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-20",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-21",
+          "end": "2028-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools will hold staff training days, also known as inset days, on various days throughout the academic year, and will be closed to pupils at these times; check the school's website.",
+      "statedDays": 195,
+      "notes": "Term totals stated by the council: autumn 73, spring 64, summer 58 days (195). Spring term ends Friday 7 April 2028 and summer term starts 24 April 2028; summer term ends Thursday 20 July 2028."
+    }
+  }
+}

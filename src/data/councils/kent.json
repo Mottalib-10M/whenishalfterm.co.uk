@@ -1,0 +1,71 @@
+{
+  "slug": "kent",
+  "name": "Kent",
+  "officialName": "Kent County Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "county",
+  "appliesTo": "Term dates for some schools may be different. Contact your child's school to check staff training days, individual half term breaks or if your child's school is private or independent.",
+  "academyNote": "The council page says term dates for some schools may be different and to contact the school to check staff training days and individual half term breaks.",
+  "localFacts": [
+    {"fact": "Kent numbers its year in six terms (Term 1 to Term 6) rather than autumn, spring and summer halves, and publishes the number of school days in each term.", "source": "https://www.kent.gov.uk/__data/assets/pdf_file/0007/196504/Kent-term-dates-2026-27.pdf"},
+    {"fact": "The 2026-27 calendar totals 195 days across the six terms (39, 35, 30, 24, 34 and 33 days), described as a standard school year 'with additional INSET days': schools pick their own five non-contact days, so pupils attend 190.", "source": "https://www.kent.gov.uk/__data/assets/pdf_file/0007/196504/Kent-term-dates-2026-27.pdf"},
+    {"fact": "Schools may ask teachers to make up the five non-contact days wholly or partly through additional hours before or after sessions, within the 1,265-hour annual limit, instead of closing for full INSET days.", "source": "https://www.kent.gov.uk/__data/assets/pdf_file/0007/196504/Kent-term-dates-2026-27.pdf"},
+    {"fact": "In 2027-28 Easter falls late (Easter Sunday 16 April 2028): Term 4 runs to Friday 31 March 2028 and Term 5 starts on Tuesday 18 April 2028, the day after Easter Monday.", "source": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/196509/Kent-term-dates-2027-28.pdf"},
+    {"fact": "The 2026-27 PDF lists the May Day bank holiday inside Term 5 as '3/05/2026', a typing slip for Monday 3 May 2027.", "source": "https://www.kent.gov.uk/__data/assets/pdf_file/0007/196504/Kent-term-dates-2026-27.pdf"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.kent.gov.uk/__data/assets/pdf_file/0007/196504/Kent-term-dates-2026-27.pdf", "pageUrl": "https://www.kent.gov.uk/education-and-children/schools/term-dates", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/2026id_/https://www.kent.gov.uk/__data/assets/pdf_file/0007/196504/Kent-term-dates-2026-27.pdf", "retrieved": "2026-10-12", "format": "pdf"},
+      "sessions": [
+        {"start": "2026-09-01", "end": "2026-10-23", "label": "Term 1"},
+        {"start": "2026-11-02", "end": "2026-12-18", "label": "Term 2"},
+        {"start": "2027-01-04", "end": "2027-02-12", "label": "Term 3"},
+        {"start": "2027-02-22", "end": "2027-03-25", "label": "Term 4"},
+        {"start": "2027-04-12", "end": "2027-05-28", "label": "Term 5"},
+        {"start": "2027-06-07", "end": "2027-07-21", "label": "Term 6"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2026-10-26", "end": "2026-10-30"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-01"},
+        {"name": "February half term", "start": "2027-02-15", "end": "2027-02-19"},
+        {"name": "Easter holidays", "start": "2027-03-26", "end": "2027-04-09"},
+        {"name": "May half term", "start": "2027-05-31", "end": "2027-06-04"},
+        {"name": "Summer holidays", "start": "2027-07-22", "end": "2027-08-31"}
+      ],
+      "closures": [{"date": "2027-05-03", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Pupils attend 190 of the 195 days; each school specifies its own five non-contact days.",
+      "statedDays": 195,
+      "notes": "Determined school term dates for 2026-27, standard school year based on 6 terms with additional INSET days."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://www.kent.gov.uk/__data/assets/pdf_file/0003/196509/Kent-term-dates-2027-28.pdf", "pageUrl": "https://www.kent.gov.uk/education-and-children/schools/term-dates", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/2026id_/https://www.kent.gov.uk/__data/assets/pdf_file/0003/196509/Kent-term-dates-2027-28.pdf", "retrieved": "2026-10-12", "format": "pdf"},
+      "sessions": [
+        {"start": "2027-09-01", "end": "2027-10-22", "label": "Term 1"},
+        {"start": "2027-11-01", "end": "2027-12-17", "label": "Term 2"},
+        {"start": "2028-01-04", "end": "2028-02-11", "label": "Term 3"},
+        {"start": "2028-02-21", "end": "2028-03-31", "label": "Term 4"},
+        {"start": "2028-04-18", "end": "2028-05-26", "label": "Term 5"},
+        {"start": "2028-06-05", "end": "2028-07-21", "label": "Term 6"}
+      ],
+      "holidays": [
+        {"name": "October half term", "start": "2027-10-25", "end": "2027-10-29"},
+        {"name": "Christmas holidays", "start": "2027-12-20", "end": "2028-01-03"},
+        {"name": "February half term", "start": "2028-02-14", "end": "2028-02-18"},
+        {"name": "Easter holidays", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May half term", "start": "2028-05-29", "end": "2028-06-02"},
+        {"name": "Summer holidays", "start": "2028-07-24", "end": "2028-08-31"}
+      ],
+      "closures": [{"date": "2028-05-01", "label": "Early May bank holiday"}],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Same rule as 2026-27: five non-contact days chosen by each school.",
+      "statedDays": 195,
+      "notes": "Determined school term dates for 2027-28."
+    }
+  }
+}

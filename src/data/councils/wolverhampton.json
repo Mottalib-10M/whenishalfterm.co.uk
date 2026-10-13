@@ -1,0 +1,201 @@
+{
+  "slug": "wolverhampton",
+  "name": "Wolverhampton",
+  "officialName": "City of Wolverhampton Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "metropolitan",
+  "appliesTo": "These Term Dates are published by City of Wolverhampton Council following consultation.",
+  "academyNote": "The dates are subject to change by schools, and it is recommended that you check school websites for any changes and INSET days.",
+  "localFacts": [
+    {
+      "fact": "City of Wolverhampton Council publishes its term dates following consultation.",
+      "source": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates"
+    },
+    {
+      "fact": "The council says the dates are subject to change by schools and asks parents to check school websites for any changes and INSET days.",
+      "source": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates"
+    },
+    {
+      "fact": "The page splits each term into two blocks of term time either side of the half term week.",
+      "source": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates"
+    },
+    {
+      "fact": "The 2026-27 year runs from Tuesday 1 September 2026 to Wednesday 21 July 2027.",
+      "source": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates"
+    },
+    {
+      "fact": "The 2027-28 year starts on Thursday 2 September 2027, with a spring term block running to Friday 7 April 2028 and the summer term restarting on Monday 24 April 2028.",
+      "source": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates",
+        "pageUrl": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Check school websites for any changes and INSET days.",
+      "statedDays": null,
+      "notes": ""
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates",
+        "pageUrl": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.wolverhampton.gov.uk/education-and-schools/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Check school websites for any changes and INSET days.",
+      "statedDays": null,
+      "notes": "Term starts on Thursday 2 September 2027."
+    }
+  }
+}

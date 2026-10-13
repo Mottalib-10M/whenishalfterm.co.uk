@@ -1,0 +1,201 @@
+{
+  "slug": "brent",
+  "name": "Brent",
+  "officialName": "London Borough of Brent",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "The term and holiday dates below are for community schools only. For other schools you will need to check their website.",
+  "academyNote": "The dates are for community schools only; for other schools you will need to check their website.",
+  "localFacts": [
+    {
+      "fact": "Brent's published dates are for community schools only.",
+      "source": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates"
+    },
+    {
+      "fact": "Brent sets 198 days: 190 pupil days, 5 INSET days and 3 optional closure days to observe religious festivals other than Christmas and Easter.",
+      "source": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates"
+    },
+    {
+      "fact": "Schools only need to open for 195 of the 198 days; those not taking the optional closures finish earlier, on Wednesday 21 July 2027.",
+      "source": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates"
+    },
+    {
+      "fact": "The 2026-27 autumn term starts on Tuesday 1 September 2026 and the summer term runs to Monday 26 July 2027.",
+      "source": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates"
+    },
+    {
+      "fact": "In 2027-28 the year again totals 198 days, running to Wednesday 26 July 2028, or Friday 21 July 2028 for schools without the optional closures.",
+      "source": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates",
+        "pageUrl": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20251215040032id_/https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-27",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "5 INSET days within the 198, set by schools; 3 optional closure days for religious festivals.",
+      "statedDays": 198,
+      "notes": "198 days set; schools not taking the 3 optional religious festival closures finish on Wednesday 21 July 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates",
+        "pageUrl": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates",
+        "via": "webfetch",
+        "fetchedUrl": "https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "5 INSET days and 3 optional religious festival closure days within the 198.",
+      "statedDays": 198,
+      "notes": "Read with WebFetch (403 to curl; no Wayback copy with 2027-28). Schools without the optional closures finish on Friday 21 July 2028."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+/** Term-time holiday fine calculator (penalty notices), England and Wales; Scotland and NI explained. */
+import { useState } from 'react';
+import { penalty, type Timing } from '../../lib/engine/penalty';
+import type { Nation } from '../../lib/engine/calendar';
+import { updateURL } from '../../lib/url-state';
+
+const sel = 'h-12 w-full rounded-lg border border-navy-300 bg-white px-3 text-navy-900 focus:border-accent-500 focus:outline-none focus:ring-2 focus:ring-accent-500/20';
+function Field({ id, label, children, help }: { id: string; label: string; children: React.ReactNode; help?: string }) {
+  return (<div className="grid grid-rows-subgrid row-span-3 content-start gap-y-0"><label htmlFor={id} className="mb-1 block text-sm font-medium text-navy-700">{label}</label>{children}{help ? <p id={`${id}-help`} className="mt-1 text-xs text-navy-600">{help}</p> : <span />}</div>);
+}
+export default function PenaltyCalc({ methodHref }: { methodHref: string }) {
+  const [nation, setNation] = useState<Nation>('england');
+  const [days, setDays] = useState('5');
+  const [children, setChildren] = useState('1');
+  const [parents, setParents] = useState('2');
+  const [notice, setNotice] = useState<1 | 2 | 3>(1);
+  const [timing, setTiming] = useState<Timing>('early');
+  const d = Math.max(0, parseFloat(days.replace(',', '.')) || 0);
+  const r = penalty({ nation, parents: +parents, children: +children, notice, timing, daysOff: Math.min(d, 60) });
+  const sync = (o: Record<string, string | number>) => updateURL({ n: nation, d: days, k: children, p: parents, x: notice, t: timing, ...o });
+  return (
+    <form className="rechner rounded-lg border border-navy-200 bg-white p-4 sm:p-5" onSubmit={(e) => e.preventDefault()} aria-label="Term-time holiday fine calculator">
+      <div className="grid gap-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
+        <div className="grid grid-cols-2 gap-x-3 gap-y-3">
+          <Field id="pc-nation" label="Where is the school?"><select id="pc-nation" className={sel} value={nation} onChange={(e) => { setNation(e.target.value as Nation); sync({ n: e.target.value }); }}><option value="england">England</option><option value="wales">Wales</option><option value="scotland">Scotland</option><option value="northern-ireland">Northern Ireland</option></select></Field>
+          <Field id="pc-days" label="School days missed" help={d > 60 ? 'Counted as 60 days at most' : undefined}><input id="pc-days" type="text" inputMode="decimal" value={days} onChange={(e) => { setDays(e.target.value); sync({ d: e.target.value }); }} className={`${sel} tabular-nums`} /></Field>
+          <Field id="pc-children" label="Children taken out"><select id="pc-children" className={sel} value={children} onChange={(e) => { setChildren(e.target.value); sync({ k: e.target.value }); }}>{[1, 2, 3, 4, 5].map((n) => <option key={n} value={n}>{n}</option>)}</select></Field>
+          <Field id="pc-parents" label="Parents fined"><select id="pc-parents" className={sel} value={parents} onChange={(e) => { setParents(e.target.value); sync({ p: e.target.value }); }}><option value="1">1</option><option value="2">2</option></select></Field>
+          {nation === 'england' && <Field id="pc-notice" label="Notice for this child"><select id="pc-notice" className={sel} value={notice} onChange={(e) => { setNotice(+e.target.value as 1 | 2 | 3); sync({ x: e.target.value }); }}><option value="1">First in 3 years</option><option value="2">Second in 3 years</option><option value="3">Third in 3 years</option></select></Field>}
+          {(nation === 'england' || nation === 'wales') && notice !== 2 && <Field id="pc-timing" label="Paid"><select id="pc-timing" className={sel} value={timing} onChange={(e) => { setTiming(e.target.value as Timing); sync({ t: e.target.value }); }}><option value="early">{nation === 'wales' ? 'Within 28 days' : 'Within 21 days'}</option><option value="late">{nation === 'wales' ? 'Day 29 to 42' : 'Day 22 to 28'}</option></select></Field>}
+        </div>
+        <div data-resultat aria-live="polite" className="rounded-lg bg-accent-50 p-4">
+          <p className="text-sm text-navy-700">Total for the household</p>
+          <p className="mt-1 font-serif text-[2.4rem] font-bold leading-tight text-accent-500 tabular-nums">{r.total !== null ? `£${r.total.toLocaleString('en-GB')}` : r.system === 'none' ? 'No fixed fine' : 'Court instead'}</p>
+          {r.perNotice !== null && <p className="text-navy-800">{r.notices} notice{r.notices > 1 ? 's' : ''} × £{r.perNotice} (one per parent, per child)</p>}
+          <p className="mt-2 text-navy-800">{r.rule}.</p>
+          {r.deadline && <p className="mt-1 text-sm text-navy-700">{r.deadline}.</p>}
+          {r.meetsThreshold !== null && <p className="mt-3 border-t border-accent-100 pt-3 text-sm text-navy-800">{r.sessions} sessions missed: {r.meetsThreshold ? 'the national threshold of 10 sessions in 10 school weeks is reached, so the school must consider a notice.' : 'under the national threshold of 10 sessions in 10 school weeks, but late marks and other absence count towards it.'}</p>}
+          <p className="mt-3 text-xs text-navy-600">Estimate from the published rules, not legal advice · <a className="underline" href={methodHref}>method</a></p>
+        </div>
+      </div>
+    </form>
+  );
+}

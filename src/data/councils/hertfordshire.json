@@ -1,0 +1,205 @@
+{
+  "slug": "hertfordshire",
+  "name": "Hertfordshire",
+  "officialName": "Hertfordshire County Council",
+  "nation": "england",
+  "region": "East of England",
+  "type": "county",
+  "appliesTo": "Community and voluntary-controlled schools must use the above term dates, adding 5 INSET days and 1 Occasional day where children don't need to go to school.",
+  "academyNote": "Academies, voluntary-aided, foundation and free schools aren't required to follow the above term dates. Check with your school for their specific term dates.",
+  "localFacts": [
+    {
+      "fact": "Hertfordshire sets an annual window of 196 days: 190 days of pupil attendance, 5 professional development days and 1 day for an occasional holiday.",
+      "source": "https://www.hertfordshire.gov.uk/services/schools-and-education/at-school/school-term-dates/school-term-dates.aspx"
+    },
+    {
+      "fact": "Community and voluntary-controlled schools add their own 5 INSET days and 1 occasional day within the published dates.",
+      "source": "https://www.hertfordshire.gov.uk/services/schools-and-education/at-school/school-term-dates/school-term-dates.aspx"
+    },
+    {
+      "fact": "The council sets dates on 7 principles, including full Monday to Friday half-terms, a Christmas break of 2 full weeks where possible and holidays as close to neighbouring counties as possible.",
+      "source": "https://www.hertfordshire.gov.uk/services/schools-and-education/at-school/school-term-dates/school-term-dates.aspx"
+    },
+    {
+      "fact": "The year 7 taster day for new secondary school pupils must be the second Thursday in July: 8 July 2027 in 2026-27.",
+      "source": "https://www.hertfordshire.gov.uk/media-library/documents/schools-and-education/term-dates/termdates2627.pdf"
+    },
+    {
+      "fact": "The 2026-27 calendar is published as the Eastern Regional Group School Term and Holiday Dates.",
+      "source": "https://www.hertfordshire.gov.uk/media-library/documents/schools-and-education/term-dates/termdates2627.pdf"
+    },
+    {
+      "fact": "Hertfordshire says future term dates will be published by 31 January each year.",
+      "source": "https://www.hertfordshire.gov.uk/services/schools-and-education/at-school/school-term-dates/school-term-dates.aspx"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.hertfordshire.gov.uk/media-library/documents/schools-and-education/term-dates/termdates2627.pdf",
+        "pageUrl": "https://www.hertfordshire.gov.uk/services/schools-and-education/at-school/school-term-dates/school-term-dates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.hertfordshire.gov.uk/services/schools-and-education/at-school/school-term-dates/school-term-dates.aspx",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools add 5 INSET days and 1 occasional day of their choice within the 196-day window.",
+      "statedDays": 196,
+      "notes": "Calendar gives 39, 35, 30, 24, 34 and 34 days, total 196 (190 pupil days, 5 INSET days, 1 occasional day). Last school day Thursday 22 July 2027."
+    },
+    "2027-28": {
+      "status": "provisional",
+      "source": {
+        "officialUrl": "https://www.hertfordshire.gov.uk/doc/sch/term/school-term-and-holiday-dates-2027-28.pdf",
+        "pageUrl": "https://www.hertfordshire.gov.uk/services/schools-and-education/at-school/school-term-dates/school-term-dates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.hertfordshire.gov.uk/doc/sch/term/school-term-and-holiday-dates-2027-28.pdf",
+        "retrieved": "2026-10-12",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-24",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Same rule: 5 INSET days and 1 occasional day chosen by schools within 196 days.",
+      "statedDays": 196,
+      "notes": "The web page lists these dates, but the PDF is titled 'HERTFORDSHIRE Proposed School Term and Holiday Dates 2027/2028 (196 days)'. Last school day Monday 24 July 2028; the page gives the summer holiday as 25 July to 1 September 2028."
+    }
+  }
+}

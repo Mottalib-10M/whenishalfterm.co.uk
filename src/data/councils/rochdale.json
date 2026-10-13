@@ -1,0 +1,205 @@
+{
+  "slug": "rochdale",
+  "name": "Rochdale",
+  "officialName": "Rochdale Borough Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "metropolitan",
+  "appliesTo": "We give schools in the borough a recommended school holiday pattern for the academic year.",
+  "academyNote": "The council allows schools to change up to 2 days of its recommended holiday pattern, for example for polling days or religious festivals, and asks parents to refer to the school's website for exact term dates.",
+  "localFacts": [
+    {
+      "fact": "Rochdale publishes a recommended school holiday pattern, and schools may change up to 2 days of it, for example for polling days or religious festivals.",
+      "source": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures"
+    },
+    {
+      "fact": "Schools must choose 3 staff training days during term time, which students do not attend.",
+      "source": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures"
+    },
+    {
+      "fact": "The 2026-2027 autumn term begins on Thursday 3 September 2026, later in the week than most neighbouring councils.",
+      "source": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures/2"
+    },
+    {
+      "fact": "The council gives the length of each term in weeks: 15, 11 and 14 weeks in 2026-2027.",
+      "source": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures/2"
+    },
+    {
+      "fact": "The 2027-2028 year begins on Monday 6 September 2027, and the Easter holiday runs from 10 to 21 April 2028.",
+      "source": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures/3"
+    },
+    {
+      "fact": "The 2027-2028 page contains typing slips: the Christmas holiday is shown ending on 31 December 2028 and the summer half term starting on 29 May 2027.",
+      "source": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures/3"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures/2",
+        "pageUrl": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures",
+        "via": "direct",
+        "fetchedUrl": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures/2",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-03",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-03"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Every year schools are required to choose 3 days during term time to set aside for staff training which students don't attend.",
+      "statedDays": null,
+      "notes": "Recommended pattern for September 2026 to August 2027. Friday 26 March 2027 is a public holiday and the Easter holiday is listed as 29 March to 9 April. The page gives the summer holiday as 22 July to 31 August 2027; the next year starts Monday 6 September 2027, so 1 to 3 September 2027 are also holiday. The early May bank holiday (3 May 2027) is not listed on the page."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures/3",
+        "pageUrl": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures",
+        "via": "direct",
+        "fetchedUrl": "https://www.rochdale.gov.uk/schools/school-terms-holiday-dates-closures/3",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Every year schools are required to choose 3 days during term time to set aside for staff training which students don't attend.",
+      "statedDays": null,
+      "notes": "Recommended pattern for September 2027 to August 2028. The page shows the Christmas holiday as 20 December 2027 to 'Friday, 31 December 2028' (a slip for 2027); the spring term begins Tuesday 4 January 2028. The summer half term is shown as 'Monday, 29 May 2027' to Friday 2 June 2028 (a slip for 2028). Summer holiday: Monday 24 July to Thursday 31 August 2028. The early May bank holiday (1 May 2028) is not listed on the page."
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "east-sussex",
+  "name": "East Sussex",
+  "officialName": "East Sussex County Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "county",
+  "appliesTo": "The term and holiday dates on this page only apply to: community schools (run by the council) voluntary controlled schools (faith schools run by the council)",
+  "academyNote": "They may not apply to voluntary aided schools; academies; free schools; sixth form colleges; further education colleges; schools in the independent sector (private schools).",
+  "localFacts": [
+    {
+      "fact": "East Sussex numbers its year in six terms, Term 1 to Term 6, with named breaks such as the autumn, February, spring and May school holidays.",
+      "source": "https://www.eastsussex.gov.uk/education-learning/term-dates"
+    },
+    {
+      "fact": "The 2026-27 calendar names one staff training (INSET) day, Wednesday 2 September 2026, the first day of Term 1.",
+      "source": "https://www.eastsussex.gov.uk/media/m2sgpgc5/east-sussex-school-term-and-holiday-dates-2026-2027-final.pdf"
+    },
+    {
+      "fact": "The council lists a primary to secondary transition week, 28 June to 2 July 2027, identified by secondary schools to support pupils moving up.",
+      "source": "https://www.eastsussex.gov.uk/media/m2sgpgc5/east-sussex-school-term-and-holiday-dates-2026-2027-final.pdf"
+    },
+    {
+      "fact": "For 2027-28 the council names Wednesday 1 September 2027 as the staff training (INSET) day and gives a total of 195 days (190 pupil days and five INSET days).",
+      "source": "https://www.eastsussex.gov.uk/media/fepc3pfg/es-school-term-and-holiday-dates-2027-2028.pdf"
+    },
+    {
+      "fact": "The web page says schools are responsible for setting their own INSET days and tells parents to check with the school.",
+      "source": "https://www.eastsussex.gov.uk/education-learning/term-dates"
+    },
+    {
+      "fact": "Term dates and holidays can be added to a phone or online calendar through a subscription feed, and the council also publishes them as open data on data.gov.uk.",
+      "source": "https://www.eastsussex.gov.uk/education-learning/term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.eastsussex.gov.uk/media/m2sgpgc5/east-sussex-school-term-and-holiday-dates-2026-2027-final.pdf",
+        "pageUrl": "https://www.eastsussex.gov.uk/education-learning/term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.eastsussex.gov.uk/media/m2sgpgc5/east-sussex-school-term-and-holiday-dates-2026-2027-final.pdf",
+        "retrieved": "2026-10-12",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Term 1"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Term 2"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Term 3"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Term 4"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Term 5"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-09-02",
+          "label": "Staff training (INSET) day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "The calendar names Wednesday 2 September 2026 as a staff training (INSET) day; the web page says schools are responsible for setting their own INSET days.",
+      "statedDays": 195,
+      "notes": "Term 1 starts on Wednesday 2 September 2026 and Term 6 ends on Thursday 22 July 2027. Term lengths 38, 35, 30, 24, 34 and 34 days, total 195."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.eastsussex.gov.uk/media/fepc3pfg/es-school-term-and-holiday-dates-2027-2028.pdf",
+        "pageUrl": "https://www.eastsussex.gov.uk/education-learning/term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.eastsussex.gov.uk/media/fepc3pfg/es-school-term-and-holiday-dates-2027-2028.pdf",
+        "retrieved": "2026-10-12",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Term 1"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Term 2"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Term 3"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Term 4"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Term 5"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-09-01",
+          "label": "Staff training (INSET) day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "Staff training (INSET) day: Wednesday 1 September 2027. Total 195 days (190 pupil days and five INSET days).",
+      "statedDays": 195,
+      "notes": "Term lengths 38, 35, 29, 30, 28 and 35 days. Transition week to be confirmed. The first day of the autumn term in September 2028 will not be confirmed until the 2028/2029 timetable has been consulted on and approved."
+    }
+  }
+}

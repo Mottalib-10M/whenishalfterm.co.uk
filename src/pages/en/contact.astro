@@ -1,0 +1,24 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import LegalIdentity from '../../components/LegalIdentity.astro';
+import { CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title={`Contact ${SITE_NAMES[lang]}: wrong date, missing council`} description="Tell Term Dates Finder about a term date that differs from your council's calendar, a council we have not covered yet, or ask for the date checker to put on a school or parish website." lang={lang} noindex={true} breadcrumbs={[{ label: 'Contact' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Contact</h1>
+    <p>Email: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>. A person reads every message.</p>
+    <h2>A date looks wrong</h2>
+    <p>Send the page address and the link to the council page or PDF that shows another date. Councils sometimes revise a calendar after consultation, or publish a corrected PDF under the same name, and a second pair of eyes catches it faster than our next scheduled check. A corrected date goes live with the new reading date on the page.</p>
+    <h2>Your council is not on the site</h2>
+    <p>Tell us which one. We add councils in order of population and only from the council's own website, so a link to its term dates page helps.</p>
+    <h2>Your child's school has other dates</h2>
+    <p>That is normal for academies, free schools, voluntary aided and foundation schools, which set their own calendars. We publish council calendars only and cannot list individual schools.</p>
+    <h2>Putting the checker on your website</h2>
+    <p>Parent groups, childminders, holiday clubs and local news sites can show the date checker in an iframe at no cost: the code is on the <a href={route('widget', lang)}>embed page</a>.</p>
+    <h2>Publisher</h2>
+    <LegalIdentity lang={lang} />
+    <p>Updated: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

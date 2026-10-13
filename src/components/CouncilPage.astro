@@ -1,0 +1,88 @@
+---
+/**
+ * Council page, generated from `src/data/councils/<slug>.json`. Order: H1, standfirst, folded
+ * citable block, the "is school open?" checker on the first screen, the two calendars, what is
+ * particular about this council (its localFacts, the unique part), the comparison, a year strip,
+ * a compare tool with a neighbour, FAQ and sources.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Clamp from './Clamp.astro';
+import Tool from './Tool.astro';
+import YearStrip from './YearStrip.astro';
+import { route } from '../i18n/routes';
+import { t } from '../i18n/ui';
+import { label } from '../i18n/nav';
+import { COUNCILS, councilRouteId, NATION_LABEL } from '../lib/councils';
+import { councilIntro, councilResume, councilCompare, councilFaqs, termBankHolidays, dayAfter } from '../lib/council-text';
+import { breaks, longDate, plainDate, rangeText, weekdaysIn, YEARS, type Council } from '../lib/engine/calendar';
+import { table } from '../lib/helpers';
+import { P } from '../lib/engine/params';
+import { articleSchema, faqSchema, breadcrumbSchema, webPageSchema, webApplicationSchema } from '../lib/seo';
+import { AUTHOR_NAME } from '../data/site-config';
+import { TITLES } from '../data/council-snippets';
+interface Props { council: Council }
+const { council: c } = Astro.props;
+const lang = 'en';
+const ui = t(lang);
+const id = councilRouteId(c.slug);
+const path = route(id, lang);
+const sn = TITLES(c);
+const faqs = councilFaqs(c);
+const jsonLd = [articleSchema({ title: sn.h1, description: sn.description, path, lang }), webPageSchema({ name: sn.h1, description: sn.description, path, lang }), breadcrumbSchema([{ name: ui.breadcrumbHome, path: route('home', lang) }, { name: 'Councils', path: route('councils', lang) }, { name: c.name, path }]), webApplicationSchema({ name: `${c.name} school open checker`, description: sn.description, path, lang })];
+if (faqs.length) jsonLd.push(faqSchema(faqs, lang));
+const peers = COUNCILS.filter((x) => x.slug !== c.slug && x.region === c.region).slice(0, 5);
+const other = peers[0]?.slug ?? COUNCILS.find((x) => x.slug !== c.slug && x.nation === c.nation)?.slug;
+const related = [...peers.map((p) => ({ href: route(councilRouteId(p.slug), lang), name: `${p.name} term dates`, description: p.officialName })),
+  { href: route('half-term-dates', lang), name: label('half-term-dates'), description: 'Every council on one page' }].slice(0, 6);
+const srcs = YEARS.flatMap((y) => c.years[y]?.source ? [{ name: `${c.officialName}, term dates ${y}${c.years[y]!.source!.via === 'wayback' ? ' (read through the Internet Archive copy of the official file)' : ''}`, url: c.years[y]!.source!.officialUrl }] : []);
+const uniq = srcs.filter((s, i) => srcs.findIndex((x) => x.url === s.url) === i);
+const factSrc = [...new Set(c.localFacts.map((f) => f.source))].filter((u) => !uniq.some((s) => s.url === u)).map((u) => ({ name: `${c.officialName}: ${new URL(u).pathname.split('/').filter(Boolean).slice(-1)[0]?.replace(/[-_]/g, ' ').replace(/\.(pdf|docx?|html?)$/i, '') || 'page'}`, url: u }));
+const sources = [...uniq, ...factSrc, { name: P.sources.bank_holidays.label.en, url: P.sources.bank_holidays.url }];
+function yearTable(y: (typeof YEARS)[number]) {
+  const Y = c.years[y];
+  if (!Y || Y.status === 'not-published' || !Y.sessions.length) return '';
+  const rows: Array<Array<string | number>> = [];
+  const bs = breaks(c).filter((b) => b.year === y);
+  for (const s of Y.sessions) {
+    rows.push([s.label ?? 'Term', `${longDate(s.start)} to ${longDate(s.end)}`, weekdaysIn(s.start, s.end)]);
+    const h = bs.find((b) => b.start > s.end);
+    if (h && !rows.some((r) => r[0] === `<strong>${h.name}</strong>` && String(r[1]).startsWith(rangeText(h.start, h.end)))) rows.push([`<strong>${h.name}</strong>`, rangeText(h.start, h.end), weekdaysIn(h.start, h.end)]);
+  }
+  return table(['Period', 'Dates', 'Weekdays'], rows, `${c.officialName}, ${y}${Y.status === 'provisional' ? ' (provisional)' : ''}. Breaks in bold.`, ['l', 'l', 'r']);
+}
+const t1 = yearTable('2026-27'), t2 = yearTable('2027-28');
+const bh1 = termBankHolidays(c, '2026-27');
+const y1 = c.years['2026-27'];
+const insetList = y1?.inset ?? [];
+---
+<PageLayout title={sn.title} description={sn.description} lang={lang} jsonLd={jsonLd} faqs={faqs} faqChrome={true} related={related} sources={sources} breadcrumbs={[{ label: 'Councils', href: route('councils', lang) }, { label: c.name }]}>
+  <article>
+    <header class="mb-3">
+      <p class="kicker">{c.nation === 'england' ? c.region : NATION_LABEL[c.nation]} · {c.officialName}</p>
+      <h1 class="mt-1 text-[1.75rem] font-bold text-navy-900 max-sm:leading-tight sm:text-3xl md:text-4xl">{sn.h1}</h1>
+      <p class="mt-2 text-base text-navy-700 sm:text-lg">{councilIntro(c)}</p>
+    </header>
+    <div data-chrome><Clamp text={councilResume(c)} id={`clamp-${c.slug}`} class="mb-3" /></div>
+    <div data-outil data-chrome class="mb-4"><Tool kind="checker" council={c.slug} /></div>
+    <p data-chrome class="mb-8 text-sm text-navy-600">{ui.reviewedBy} <a href={route('about', lang)} class="underline hover:text-navy-900">{AUTHOR_NAME}</a> · <a href={route('editorial', lang)} class="underline hover:text-navy-900">{ui.editorialPolicy}</a> · <a href={route('method', lang)} class="underline hover:text-navy-900">{label('method')}</a></p>
+    <div class="prose prose-slate max-w-none">
+      <h2>What is particular about {c.name}</h2>
+      {c.localFacts.map((f) => <p>{f.fact}</p>)}
+      {c.appliesTo && <blockquote><p>{c.appliesTo}</p><footer class="text-sm">{c.officialName}, term dates page</footer></blockquote>}
+      {c.academyNote && c.academyNote !== c.appliesTo && <p>{c.academyNote}</p>}
+      <div data-chrome>
+        <h2>{c.name} term dates 2026-27</h2>
+        {t1 ? <Fragment set:html={t1} /> : <p>Not published yet.</p>}
+        {bh1.length > 0 && <p>Bank holidays inside term time, with no school: {bh1.join(', ')}.</p>}
+        {insetList.length > 0 && <p>In-service days fixed by the council, pupils at home: {insetList.map((i) => longDate(i.date)).join(', ')}.</p>}
+        {y1?.insetNote && <p>{y1.insetNote}</p>}
+        <h2>{c.name} term dates 2027-28</h2>
+        {t2 ? <Fragment set:html={t2} /> : <p>{c.years['2027-28']?.notes || `${c.officialName} had not published its 2027-28 calendar on ${plainDate(c.years['2026-27']?.source?.retrieved ?? '2026-10-12')}.`}</p>}
+        <YearStrip council={c} year="2026-27" />
+        <h2>How {c.name} compares</h2>
+        <Fragment set:html={councilCompare(c)} />
+      </div>
+      <div data-chrome class="not-prose"><Tool kind="compare" council={c.slug} other={other} secondary={true} idPrefix="cp" /></div>
+    </div>
+  </article>
+</PageLayout>

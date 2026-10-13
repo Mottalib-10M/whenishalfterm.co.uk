@@ -1,0 +1,206 @@
+{
+  "slug": "lewisham",
+  "name": "Lewisham",
+  "officialName": "London Borough of Lewisham",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "In 2026-27 children should attend school for 190 days (380 half sessions) and teachers must be available for 195 days.",
+      "source": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates"
+    },
+    {
+      "fact": "Schools which close for local elections must extend a term or make the closure coincide with an INSET day.",
+      "source": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates"
+    },
+    {
+      "fact": "The council gives day counts per half term: 38, 35, 30, 24, 34 and 34 in 2026-27, a total of 195.",
+      "source": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates"
+    },
+    {
+      "fact": "Lewisham has already published 2028-29 dates, with Term 1 starting on Friday 1 September 2028.",
+      "source": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates"
+    },
+    {
+      "fact": "For 2027-28 the page lists the Christmas holiday as Monday 20 to 31 December 2027, with New Year's Day observed on Monday 3 January 2028 and Term 3 starting on Tuesday 4 January.",
+      "source": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates",
+        "pageUrl": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Teachers must be available for 195 days and children attend 190, so 5 days are INSET days set by schools.",
+      "statedDays": 195,
+      "notes": "Total: 195. The early May bank holiday is taken on 3 May."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates",
+        "pageUrl": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://lewisham.gov.uk/myservices/education/schools/school-term-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-24",
+          "end": "2028-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Not stated for 2027-28.",
+      "statedDays": null,
+      "notes": "The page ends the Christmas holiday on 31 December 2027; Monday 3 January 2028 is the New Year bank holiday and Term 3 starts on Tuesday 4 January. Summer holiday end taken from the 2028-29 start (Friday 1 September 2028)."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Source: https://southwark.gov.uk/schools-and-education/school-term-and-holiday-dates/academic-year-2027-2028
+Retrieved: 2026-10-12
+Via: WebFetch (the page returns HTTP 202 with an empty body to curl; no Wayback copy exists). WebFetch declined to copy the page verbatim and restated the dates as below.
+
+Autumn term 2027
+- 1 September to 22 October (starts Wednesday, ends Friday)
+- Half term: 25 to 29 October
+- 1 November to 17 December (Monday to Friday)
+Spring term 2028
+- 4 January to 11 February (starts Tuesday, ends Friday)
+- Half term: 14 to 18 February
+- 21 February to 31 March (Monday to Friday)
+Summer term 2028
+- 18 April to 26 May (starts Tuesday, ends Friday). The May Day bank holiday is taken on 1 May 2028 within this term.
+- Half term: 29 May to 2 June
+- 5 June to 21 July (Monday to Friday)
+The page was last updated on 8 October 2026. It doesn't list any INSET days, academy notes, or draft or provisional status.
+
+--- Index page https://www.southwark.gov.uk/schools-and-education/school-term-and-holiday-dates (WebFetch): lists Academic year 2025 to 2026, 2026 to 2027 and 2027 to 2028; page last updated 6 October 2026.
+--- Page https://southwark.gov.uk/schools-and-education/school-term-and-holiday-dates/academic-year-2026-2027 (WebFetch, restated): same 2026-27 dates as the Word document; spring start printed as "Monday 5 January 2026" and second spring block as "Monday 22 February 2026" (year typos); May Day bank holiday taken on Monday 3 May; final block Monday 7 June to Thursday 22 July 2027. Last updated 15 September 2026.

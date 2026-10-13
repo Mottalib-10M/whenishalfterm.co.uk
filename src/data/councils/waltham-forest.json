@@ -1,0 +1,201 @@
+{
+  "slug": "waltham-forest",
+  "name": "Waltham Forest",
+  "officialName": "London Borough of Waltham Forest",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "Waltham Forest publishes its term dates as a colour-coded 'holiday pattern' calendar, marking school days, bank holidays and school closures.",
+      "source": "https://www.walthamforest.gov.uk/sites/default/files/2025-10/Term%20Dates%202026-27%20%283%29.pdf"
+    },
+    {
+      "fact": "The 2026-27 calendar marks Tuesday 1 September 2026 as a school closure, so the autumn term opens on Wednesday 2 September.",
+      "source": "https://www.walthamforest.gov.uk/sites/default/files/2025-10/Term%20Dates%202026-27%20%283%29.pdf"
+    },
+    {
+      "fact": "Both 2026-27 and 2027-28 total 195 school days, counted per half term (38, 35, 30, 24, 34 and 34 in 2026-27).",
+      "source": "https://www.walthamforest.gov.uk/sites/default/files/2025-10/Term%20Dates%202026-27%20%283%29.pdf"
+    },
+    {
+      "fact": "In 2027-28 the half terms count 38, 35, 29, 30, 28 and 35 days, with the summer half term starting on the spring bank holiday, Monday 29 May 2028.",
+      "source": "https://www.walthamforest.gov.uk/sites/default/files/2025-10/Term%20Dates%202027-28.pdf"
+    },
+    {
+      "fact": "The council page was last updated on 4 November 2025, with a next review due on 13 October 2026.",
+      "source": "https://www.walthamforest.gov.uk/schools-education-and-learning/school-term-and-closure-dates/school-holiday-and-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.walthamforest.gov.uk/sites/default/files/2025-10/Term%20Dates%202026-27%20%283%29.pdf",
+        "pageUrl": "https://www.walthamforest.gov.uk/schools-education-and-learning/school-term-and-closure-dates/school-holiday-and-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260508120341id_/https://www.walthamforest.gov.uk/sites/default/files/2025-10/Term%20Dates%202026-27%20%283%29.pdf",
+        "retrieved": "2026-10-12",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The calendar shows 195 school days and does not mark INSET days.",
+      "statedDays": 195,
+      "notes": "Read from the colour-coded calendar: last school day Thursday 22 July 2027, Friday 23 July marked as closure."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.walthamforest.gov.uk/sites/default/files/2025-10/Term%20Dates%202027-28.pdf",
+        "pageUrl": "https://www.walthamforest.gov.uk/schools-education-and-learning/school-term-and-closure-dates/school-holiday-and-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260508114154id_/https://www.walthamforest.gov.uk/sites/default/files/2025-10/Term%20Dates%202027-28.pdf",
+        "retrieved": "2026-10-12",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The calendar shows 195 school days and does not mark INSET days.",
+      "statedDays": 195,
+      "notes": "Read from the colour-coded calendar: last school day Friday 21 July 2028."
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "slug": "southampton",
+  "name": "Southampton",
+  "officialName": "Southampton City Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "unitary",
+  "appliesTo": "School term and holiday dates for all local authority maintained and voluntary controlled schools in Southampton.",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "Southampton's dates cover all local authority maintained and voluntary controlled schools in the city.",
+      "source": "https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/school-year-calendar-2026-27/"
+    },
+    {
+      "fact": "Each Southampton school year has 190 teaching days and five staff training days.",
+      "source": "https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/school-year-calendar-2026-27/"
+    },
+    {
+      "fact": "Schools close to pupils on several days a year for INSET days, and parents must contact the schools directly or check their websites for these dates.",
+      "source": "https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/"
+    },
+    {
+      "fact": "The council publishes a separate school year calendar page for each year, which can be printed or saved as a PDF.",
+      "source": "https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/school-year-calendar-2027-28/"
+    },
+    {
+      "fact": "Southampton names its six half terms Autumn one, Autumn two, Spring one, Spring two, Summer one and Summer two.",
+      "source": "https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/school-year-calendar-2027-28/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/school-year-calendar-2026-27/",
+        "pageUrl": "https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20250812221121id_/https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/school-year-calendar-2026-27/",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn one"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn two"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring one"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring two"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer one"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer two"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Teaching days: 190 teaching and five staff training days. Parents must contact schools for their INSET dates.",
+      "statedDays": null,
+      "notes": "The holiday table gives the Christmas holidays as 21 December 2026 to 4 January 2027, while the term table starts Spring one on 4 January 2027; 4 January is treated as a school day. Read from the Wayback Machine copy of 12 August 2025 (the live site is behind an Incapsula block)."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/school-year-calendar-2027-28/",
+        "pageUrl": "https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20250914213716id_/https://www.southampton.gov.uk/schools-learning/school-information/school-term-dates/school-year-calendar-2027-28/",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn one"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn two"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring one"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring two"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer one"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer two"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Teaching days: 190 teaching and five staff training days.",
+      "statedDays": null,
+      "notes": "Summer two ends Friday 21 July 2028; the holiday table starts the summer holidays on 24 July 2028. Read from the Wayback Machine copy of 14 September 2025."
+    }
+  }
+}

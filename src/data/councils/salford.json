@@ -1,0 +1,222 @@
+{
+  "slug": "salford",
+  "name": "Salford",
+  "officialName": "Salford City Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "metropolitan",
+  "appliesTo": "The council sets the school term dates for community and voluntary controlled schools.",
+  "academyNote": "The governing bodies of academies and voluntary aided schools set their own term dates but are encouraged to follow a similar pattern. Some voluntary-aided, foundation, or academy schools may be slightly different.",
+  "localFacts": [
+    {
+      "fact": "Salford's Easter break is always the first two full weeks in April, regardless of where Easter itself falls.",
+      "source": "https://www.salford.gov.uk/schools-and-learning/school-holidays/information-on-school-term-dates/"
+    },
+    {
+      "fact": "Schools close on Good Friday and Easter Monday even when they fall in term time, as on 26 and 29 March 2027.",
+      "source": "https://www.salford.gov.uk/schools-and-learning/school-holidays/information-on-school-term-dates/"
+    },
+    {
+      "fact": "Autumn half term is always the last full week in October and spring half term the third full week in February.",
+      "source": "https://www.salford.gov.uk/schools-and-learning/school-holidays/information-on-school-term-dates/"
+    },
+    {
+      "fact": "All terms start on a Monday, or on a Tuesday when a bank holiday makes it necessary.",
+      "source": "https://www.salford.gov.uk/schools-and-learning/school-holidays/information-on-school-term-dates/"
+    },
+    {
+      "fact": "Schools choose their five inset days, with no more than two days in a row, and may use twilight sessions instead.",
+      "source": "https://www.salford.gov.uk/schools-and-learning/school-holidays/information-on-school-term-dates/"
+    },
+    {
+      "fact": "The Salford scheme totals 190 days, the statutory number.",
+      "source": "https://www.salford.gov.uk/schools-and-learning/school-holidays/information-on-school-term-dates/"
+    },
+    {
+      "fact": "The 2027 to 2028 summer term ends on Wednesday 26 July 2028, later than most neighbouring councils.",
+      "source": "https://www.salford.gov.uk/schools-and-learning/school-holidays/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.salford.gov.uk/schools-and-learning/school-holidays/",
+        "pageUrl": "https://www.salford.gov.uk/schools-and-learning/school-holidays/",
+        "via": "direct",
+        "fetchedUrl": "https://www.salford.gov.uk/schools-and-learning/school-holidays/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-04-02",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-19",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-04-05",
+          "end": "2027-04-16"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-09-03"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-03-26",
+          "label": "Good Friday"
+        },
+        {
+          "date": "2027-03-29",
+          "label": "Easter Monday"
+        },
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school individually chooses when to hold its five teacher development (inset) days; no more than two days set consecutively, and this time could be designated as twilight sessions.",
+      "statedDays": 190,
+      "notes": "Spring term closes Friday 2 April 2027 and the summer term opens Monday 19 April 2027, so Good Friday 26 March and Easter Monday 29 March are bank holiday closures inside the spring term. Whitsun half term is Tuesday 1 to Friday 4 June 2027 after the Monday 31 May bank holiday. Summer term closes Thursday 22 July 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.salford.gov.uk/schools-and-learning/school-holidays/",
+        "pageUrl": "https://www.salford.gov.uk/schools-and-learning/school-holidays/",
+        "via": "direct",
+        "fetchedUrl": "https://www.salford.gov.uk/schools-and-learning/school-holidays/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-27",
+          "end": "2028-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school individually chooses when to hold its five teacher development (inset) days; no more than two days set consecutively, and this time could be designated as twilight sessions.",
+      "statedDays": 190,
+      "notes": "Autumn term opens Monday 6 September 2027. Easter bank holidays 14 and 17 April 2028 fall in the Easter break. Half term is Tuesday 30 May to Friday 2 June 2028 after the Monday 29 May bank holiday. Summer term closes Wednesday 26 July 2028; the 2028 to 2029 year opens Monday 4 September 2028."
+    }
+  }
+}

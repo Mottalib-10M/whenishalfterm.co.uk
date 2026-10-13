@@ -1,0 +1,25 @@
+Source: https://www.brent.gov.uk/education-schools-and-learning/community-school-term-dates
+Retrieved: 2026-10-12
+Via: WebFetch (the page returns HTTP 403 to curl; the latest Wayback copy, 15 December 2025, lists only 2025/26 and 2026/27). WebFetch restated the wording rather than copying verbatim. It reports the live page lists 2026/27, 2027/28 and 2028/29, for community schools only.
+
+2027/28
+Autumn Term 2027 (73 days)
+- First half: Wednesday 1 September to Friday 22 October 2027
+- Half term: Monday 25 October to Friday 29 October 2027
+- Second half: Monday 1 November to Friday 17 December 2027
+- Christmas holiday: Monday 20 December 2027 to Monday 3 January 2028
+- Bank holidays: Monday 27 December 2027, Tuesday 28 December 2027, Monday 3 January 2028
+Spring Term 2028 (59 days)
+- First half: Tuesday 4 January to Friday 11 February 2028
+- Half term: Monday 14 February to Friday 18 February 2028
+- Second half: Monday 21 February to Friday 31 March 2028
+- School holidays: Monday 3 April to Monday 17 April 2028
+- Bank holidays: Friday 14 April 2028, Monday 17 April 2028
+Summer Term 2028 (63+3 days)
+- First half: Tuesday 18 April to Friday 26 May 2028
+- Half term: Monday 29 May to Friday 2 June 2028
+- Second half: Monday 5 June to Wednesday 26 July 2028
+- Bank holidays: Monday 1 May 2028, Monday 29 May 2028
+Notes: The year totals 198 days, with the same split as 2026/27: schools must open for 195, including 190 pupil days, 5 INSET days, and 3 optional religious-festival closure days. Schools that don't take the optional closures should finish on Friday 21 July 2028.
+
+(WebFetch also confirmed the same 2026/27 dates as the Wayback copy: Tuesday 1 September 2026 to Monday 26 July 2027, early finish Wednesday 21 July 2027.)

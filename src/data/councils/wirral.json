@@ -1,0 +1,201 @@
+{
+  "slug": "wirral",
+  "name": "Wirral",
+  "officialName": "Wirral Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "metropolitan",
+  "appliesTo": "",
+  "academyNote": "The council page says each governing body of a school is responsible for setting five INSET days during the school year and asks parents to contact the school directly.",
+  "localFacts": [
+    {
+      "fact": "Wirral Council says each school's governing body sets its own five INSET days in addition to the dates it lists.",
+      "source": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "Wirral calls the spring holiday the 'Easter and spring break': 26 March to 9 April 2027, including the Easter bank holidays.",
+      "source": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "The late May break in summer 2028 is called the 'Whit half-term' on the council page: 29 May to 2 June 2028.",
+      "source": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "The summer holiday 2028 starts on 24 July, with the September 2028 return date still to be confirmed.",
+      "source": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "The May Bank Holiday on Monday 3 May 2027 falls inside an open period of the summer term.",
+      "source": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates",
+        "pageUrl": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Bank Holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each governing body of a school is responsible for setting five INSET days during the school year.",
+      "statedDays": null,
+      "notes": "Autumn term 2027 return: 1 September 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates",
+        "pageUrl": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.wirral.gov.uk/schools-and-learning/school-holidays-and-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Bank Holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each governing body of a school is responsible for setting five INSET days during the school year.",
+      "statedDays": null,
+      "notes": "The page lists the Easter and spring break as 3 to 17 April 2028 (Easter Monday 17 April) and summer term open from 18 April. The summer holiday runs from 24 July 2028 with the September 2028 return to be confirmed."
+    }
+  }
+}

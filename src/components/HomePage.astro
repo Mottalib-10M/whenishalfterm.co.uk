@@ -1,0 +1,96 @@
+---
+/**
+ * Home: the checker first (RECETTE §5), then the year as a timeline of breaks with how many councils
+ * share each date, the council directory by nation and region, the explanation of why calendars
+ * differ, the comparison tool, the guides, FAQ and sources. Figures come from the council files.
+ */
+import PageLayout from '../layouts/PageLayout.astro';
+import Clamp from './Clamp.astro';
+import Tool from './Tool.astro';
+import { route } from '../i18n/routes';
+import { label } from '../i18n/nav';
+import { PAGES } from '../lib/guides';
+import { COUNCILS, councilRouteId, NATION_LABEL } from '../lib/councils';
+import { modeOf, listAnd } from '../lib/council-text';
+import { rangeText, plainDate, breakOf, BREAK_LABEL, type BreakKey } from '../lib/engine/calendar';
+import { table, groups } from '../lib/helpers';
+import { P } from '../lib/engine/params';
+import { LAST_UPDATED, AUTHOR_NAME } from '../data/site-config';
+import { displayDate } from '../lib/format';
+import { websiteSchema, organizationSchema, faqSchema, webApplicationSchema } from '../lib/seo';
+const lang = 'en';
+const n = COUNCILS.length;
+const eng = COUNCILS.filter((c) => c.nation === 'england');
+const n28 = COUNCILS.filter((c) => c.years['2027-28'] && c.years['2027-28']!.status !== 'not-published').length;
+const keys: BreakKey[] = ['october', 'christmas', 'february', 'easter', 'may', 'summer'];
+const timeline = keys.map((k) => {
+  const g = groups(k, '2026-27', (c) => c.nation === 'england');
+  const top = g[0];
+  const others = g.slice(1).reduce((a, x) => a + x.names.length, 0);
+  return [BREAK_LABEL[k], top ? rangeText(top.start, top.end) : 'n/a', top ? `${top.names.length} of ${top.names.length + others}` : '', others ? `${others} other date${others > 1 ? 's' : ''}` : 'none'];
+});
+const timelineHtml = table(['Break 2026-27', 'Most common date in England', 'Councils on it', 'Councils that differ'], timeline, `English councils on this site, ${eng.length} calendars read up to ${plainDate(LAST_UPDATED)}.`, ['l', 'l', 'r', 'l']);
+const oct = modeOf('october', '2026-27', 'england');
+const twoWeek = COUNCILS.filter((c) => { const b = breakOf(c, '2026-27', 'october'); return b && b.weekdays >= 10; }).map((c) => c.name);
+const easterOdd = groups('easter', '2026-27', (c) => c.nation === 'england').slice(1).flatMap((g) => g.names);
+const regions = new Map<string, typeof COUNCILS>();
+for (const c of COUNCILS) { const r = c.nation === 'england' ? c.region : NATION_LABEL[c.nation]; if (!regions.has(r)) regions.set(r, []); regions.get(r)!.push(c); }
+const regionOrder = [...regions.keys()].sort((a, b) => a.localeCompare(b));
+const title = 'Term Dates 2026-27 by Council: Half Terms, INSET, Holidays';
+const description = `School term dates 2026-27 and 2027-28 for ${n} councils, read on each council's own site: half terms, Easter, summer, INSET days, plus a checker for any day.`;
+const resume = `Most councils in England start the 2026-27 school year in the first days of September and take October half term ${oct ? rangeText(oct.start, oct.end) : 'in the last week of October'}, but the calendar is not national: each local authority in England, Wales and Scotland sets the term dates of the schools it runs, and Northern Ireland works from common closure dates agreed by all school sectors. This site holds ${n} of those calendars, every one read on the council's own website with the link and the date we read it, ${n28} of them with 2027-28 as well. Pick your council and a date: the checker tells you whether it is a school day, which holiday it falls in, how many days and school days remain before the next break, and how many school days are left in the year. Academies and voluntary aided schools can set other dates and every English school chooses some INSET days itself, so the school's own calendar has the last word.`;
+const faqs = [
+  { q: 'When is October half term 2026?', a: `For ${oct ? `${oct.count} of the ${oct.total}` : 'most'} English councils on this site it is ${oct ? rangeText(oct.start, oct.end) : 'the last week of October'}, with pupils back on Monday 2 November. ${twoWeek.length ? `${listAnd(twoWeek)} ${twoWeek.length > 1 ? 'take' : 'takes'} two weeks.` : ''} Scotland has a longer October break that varies by council, and Northern Ireland closes on 29 and 30 October for Halloween.` },
+  { q: 'Do all schools in a council have the same holidays?', a: 'No. The council calendar binds community and voluntary controlled schools. Academies, free schools, foundation and voluntary aided schools set their own term dates and often follow the council, but not always. Every English school also chooses up to five INSET days, which are not on the council calendar.' },
+  { q: 'Where do these term dates come from?', a: 'From each council’s own term dates page or the PDF or Word calendar it links to, read one by one. The page of every council gives the link to that file and the day we read it. When a council site blocks automated readers, we read the Internet Archive copy of the same file and say so.' },
+  { q: 'Can I take my child on holiday during term time?', a: `Only with the head teacher’s permission for exceptional circumstances. In England an unauthorised holiday can bring a penalty notice of £${P.penalties.england.firstReduced} per parent per child if paid within ${P.penalties.england.firstReducedDays} days, £${P.penalties.england.firstFull} within ${P.penalties.england.firstFullDays} days. Wales uses £${P.penalties.wales.reduced} and £${P.penalties.wales.full}; Scotland and Northern Ireland have no fixed penalty.` },
+  { q: 'Why does the checker say a school day when my child is off?', a: 'Probably an INSET day chosen by the school, or a school that is an academy with its own calendar. The checker only knows the council calendar, the bank holidays and the in-service days a council fixes. Check the letters or website of the school for its training days.' },
+  { q: 'Are the 2027-28 term dates out yet?', a: `For ${n28} of the ${n} calendars on this site, yes: many councils publish two years ahead so that families can plan. Where the council has not published 2027-28, the council page says so and the checker reports “not published yet” for those dates instead of guessing.` },
+];
+const jsonLd = [websiteSchema(lang), organizationSchema(lang), webApplicationSchema({ name: 'School open checker', description, path: route('home', lang), lang }), faqSchema(faqs, lang)];
+const sources = [
+  { name: P.sources.govuk_find_council.label.en, url: P.sources.govuk_find_council.url },
+  { name: P.sources.bank_holidays.label.en, url: P.sources.bank_holidays.url },
+  { name: P.sources.ni_holidays.label.en, url: P.sources.ni_holidays.url },
+  { name: P.sources.school_day_regs.label.en, url: P.sources.school_day_regs.url },
+  { name: P.sources.dfe_attendance.label.en, url: P.sources.dfe_attendance.url },
+];
+const guides = PAGES.map((p) => ({ href: route(p.id, lang), name: p.nav, card: p.card }));
+---
+<PageLayout title={title} description={description} lang={lang} jsonLd={jsonLd} faqs={faqs} sources={sources} dateLine={false}>
+  <header class="mb-2">
+    <h1 class="text-[1.7rem] font-bold leading-tight text-navy-900 sm:text-3xl md:text-4xl">School term dates 2026-27 and 2027-28, council by council</h1>
+    <p class="mt-2 text-navy-700">Is school open on a given day? Pick your council: the answer comes from its own calendar, not a national average.</p>
+    <p data-chrome class="mt-1 text-sm text-navy-600">{n} calendars read on council websites · dates checked on <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-GB')}</time> · <a class="underline" href={route('method', lang)}>method</a> · <a class="underline" href={route('about', lang)}>about</a></p>
+  </header>
+  <Clamp text={resume} id="clamp-home" class="mb-3" />
+  <div data-chrome class="mb-6"><Tool kind="checker" council="kent" /></div>
+  <div class="prose prose-slate max-w-none">
+    <h2>The 2026-27 year, break by break</h2>
+    <p>One line per break: the date most English councils chose, and how many picked another. The council pages give each calendar in full.</p>
+    <div data-chrome><Fragment set:html={timelineHtml} /></div>
+    {twoWeek.length > 0 && <p>{listAnd(twoWeek)} {twoWeek.length > 1 ? 'break' : 'breaks'} for two weeks in October 2026, a change that families with children in two areas notice first.</p>}
+    {easterOdd.length > 0 && <p>At Easter, {listAnd(easterOdd.slice(0, 8))}{easterOdd.length > 8 ? ' and others' : ''} {easterOdd.length > 1 ? 'move' : 'moves'} away from the most common two weeks.</p>}
+    <h2>Find your council</h2>
+    <div data-chrome class="not-prose grid gap-x-8 gap-y-4 sm:grid-cols-2 lg:grid-cols-3">
+      {regionOrder.map((r) => (<div><h3 class="mb-1 font-serif text-lg font-semibold text-navy-900">{r}</h3><p class="text-sm leading-7 text-navy-800">{regions.get(r)!.map((c, i) => <>{i > 0 && ' · '}<a class="underline decoration-navy-300 hover:text-accent-500" href={route(councilRouteId(c.slug), lang)}>{c.name}</a></>)}</p></div>))}
+    </div>
+    <p>Not sure which council runs your schools? It is the one you pay council tax to, or for two-tier areas the county council rather than the district. GOV.UK finds it from a postcode on its <a href={P.sources.govuk_find_council.url} target="_blank" rel="nofollow noopener">term dates page</a>.</p>
+    <h2>Why your dates are not your neighbour's</h2>
+    <p>England has no national school calendar. The Education Act gives the decision to whoever employs the staff: the local authority for community and voluntary controlled schools, the governing body for foundation and voluntary aided schools, the trust for an academy. Councils consult head teachers and unions, then publish a calendar one or two years ahead. Most land on the same weeks because they aim at the same things: a break around Easter, roughly six-week terms, and summer holidays that start in the third week of July.</p>
+    <p>They do not always land in the same place. A council may fix Easter as two weeks around Easter Sunday, or as the first two weeks of April whatever the date of Easter. One council starts the year on a Tuesday, its neighbour on a Thursday.{twoWeek.length > 0 && ` ${listAnd(twoWeek)} ${twoWeek.length > 1 ? 'have' : 'has'} moved to a two-week October break.`} In Scotland the differences are wider: the summer holiday starts in late June, the October break lasts one or two weeks depending on the council, and every council has its own September weekend and its own in-service days. Wales sets dates council by council too, and Northern Ireland works from common closure dates around which each school builds its year.</p>
+    <p>That is why a single national list is wrong for part of the country every year. It is also why the school's own calendar matters: an academy trust can set dates across several councils, and every English school takes five training days that only it announces.</p>
+    <h2>Two homes, two councils</h2>
+    <p>Parents who live apart, grandparents who look after children in the holidays, and families whose children go to schools on either side of a council boundary can line up two calendars here: the tool below counts the weekdays when one child is off and the other in school, break by break.</p>
+    <div data-chrome class="not-prose"><Tool kind="compare" council="kent" other="surrey" secondary={true} idPrefix="hc" /></div>
+    <h2>Before you book a term-time trip</h2>
+    <p>A day out of school without permission counts as unauthorised absence. In England the head teacher can grant leave only for exceptional circumstances, and since August 2024 a national framework sets the fine: £{P.penalties.england.firstReduced} per parent and per child if paid within {P.penalties.england.firstReducedDays} days, £{P.penalties.england.firstFull} within {P.penalties.england.firstFullDays}, and a second notice within three years at £{P.penalties.england.second}. The school has to consider a notice once a pupil reaches {P.penalties.england.thresholdSessions} unauthorised sessions, five days, within {P.penalties.england.thresholdWeeks} school weeks. Wales charges £{P.penalties.wales.reduced} or £{P.penalties.wales.full}. Scotland and Northern Ireland have no fixed penalty notice, but a holiday is still recorded as unauthorised. The <a href={route('term-time-holiday-fines', lang)}>fine calculator</a> works out the amount for your family.</p>
+    <h2>Every guide</h2>
+    <div data-chrome class="not-prose grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      {guides.map((g) => <a href={g.href} class="block border-l-2 border-accent-500 py-1 pl-3 hover:bg-accent-50"><span class="font-semibold text-navy-900">{g.name}</span><span class="block text-sm text-navy-700">{g.card}</span></a>)}
+    </div>
+    <h2>How to read the dates on this site</h2>
+    <p>Each council page shows the two school years as a list of terms and breaks, a strip with every day of the year coloured by the engine, and the bank holidays that fall inside term. "Weekdays" counts Monday to Friday, including bank holidays inside a break. The checker's "school days" leave out weekends, holidays, bank holidays and the in-service days a council fixes; they cannot leave out the INSET days a school picks for itself. When a council marks a year as provisional, the page says so. Every page carries the reading date: if a council changes a date afterwards, the official calendar wins, and we would like to hear about it.</p>
+    <p class="text-sm text-navy-700">Compiled by {AUTHOR_NAME}. This site does better than the first Google result because each council's 2026-27 and 2027-28 dates are read on its own website, linked and dated, and a checker answers "is school open that day?" at once, where the best-known list gives dates with no source and councils publish PDFs to read yourself.</p>
+  </div>
+</PageLayout>

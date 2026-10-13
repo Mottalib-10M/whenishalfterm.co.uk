@@ -1,0 +1,205 @@
+{
+  "slug": "surrey",
+  "name": "Surrey",
+  "officialName": "Surrey County Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "county",
+  "appliesTo": "From September 2026, community and voluntary controlled schools will have a two-week autumn half term. Other schools set their own dates but are encouraged to follow these.",
+  "academyNote": "Academies, Voluntary Aided and Foundation schools may have different term dates.",
+  "localFacts": [
+    {
+      "fact": "From September 2026 Surrey's community and voluntary controlled schools have a two-week autumn half term, from 19 October to 30 October 2026.",
+      "source": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates"
+    },
+    {
+      "fact": "To make room for the longer October break, five days are taken from the summer holiday: the summer term 2027 runs until Wednesday 28 July 2027.",
+      "source": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates"
+    },
+    {
+      "fact": "The 2026-27 school year still has 195 days, including 5 INSET days, which schools set themselves.",
+      "source": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates"
+    },
+    {
+      "fact": "From September 2027 the council's schools go back to a one-week autumn half term (25 to 29 October 2027).",
+      "source": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates"
+    },
+    {
+      "fact": "Surrey says dates for the 2028 to 2029 academic year will be published before 10 May 2027.",
+      "source": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates"
+    },
+    {
+      "fact": "The council offers the 2026 to 2027 term dates as an .ics calendar file, which does not include each school's INSET days.",
+      "source": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates",
+        "pageUrl": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-16",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-28",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-19",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-29",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools set their own INSET days. The school year has 195 days, including 5 INSET days.",
+      "statedDays": 195,
+      "notes": "Two-week autumn half term (19 to 30 October 2026); five days taken from the summer holiday, so the summer term ends on Wednesday 28 July 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates",
+        "pageUrl": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-21",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-19",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-22",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "There are five Inset (Teacher Training) Days in 2027 to 2028, set locally by schools and taken from the 195 days given.",
+      "statedDays": 195,
+      "notes": "Back to a one-week autumn half term. Autumn term ends on Tuesday 21 December 2027 and the summer term on Wednesday 19 July 2028. 2028-29 dates to be published before 10 May 2027."
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "slug": "birmingham",
+  "name": "Birmingham",
+  "officialName": "Birmingham City Council",
+  "nation": "england",
+  "region": "West Midlands",
+  "type": "metropolitan",
+  "appliesTo": "The dates on this page may not apply to academies, foundation, free or voluntary aided schools.",
+  "academyNote": "These schools are encouraged to accept the dates set by Birmingham City Council, but they are not required to. You should contact these schools directly to confirm their term dates.",
+  "localFacts": [
+    {
+      "fact": "Birmingham City Council encourages academies, foundation, free and voluntary aided schools to accept its dates, but they are not required to.",
+      "source": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates"
+    },
+    {
+      "fact": "The council states there are 195 school days in each year (39 weeks): pupils spend 190 days (38 weeks) in school and 5 days are reserved for training teachers and support staff.",
+      "source": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates"
+    },
+    {
+      "fact": "Birmingham already publishes dates for 2028-29, with the autumn term 2028 starting on Monday 4 September 2028.",
+      "source": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates"
+    },
+    {
+      "fact": "The 2027-28 year starts on Thursday 2 September 2027 and the spring term 2028 runs to Friday 7 April 2028, with the summer term starting on Monday 24 April 2028.",
+      "source": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates"
+    },
+    {
+      "fact": "The 2026-27 summer term ends on Wednesday 21 July 2027.",
+      "source": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates",
+        "pageUrl": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-01"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "5 of the 195 days are reserved for training teachers and support staff; schools set these days.",
+      "statedDays": 195,
+      "notes": ""
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates",
+        "pageUrl": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.birmingham.gov.uk/info/20014/schools_and_learning/685/school_term_dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-02",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "5 of the 195 days are reserved for training teachers and support staff; schools set these days.",
+      "statedDays": 195,
+      "notes": "Term starts on Thursday 2 September 2027."
+    }
+  }
+}

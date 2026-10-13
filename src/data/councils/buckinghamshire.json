@@ -1,0 +1,215 @@
+{
+  "slug": "buckinghamshire",
+  "name": "Buckinghamshire",
+  "officialName": "Buckinghamshire Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "unitary",
+  "appliesTo": "Community, Voluntary, Controlled, Community Special and Maintained Nursery Schools (the Local Authority duty to set School Term and Holidays Dates, Education Act 2002).",
+  "academyNote": "Academy schools, voluntary aided schools, and foundation schools are responsible for setting their own term dates. This includes inset dates (training days). Most schools aim to keep consistencies across the county as far as possible.",
+  "localFacts": [
+    {
+      "fact": "Buckinghamshire fixes one INSET day on 1 September each year (1 September 2026 and 1 September 2027); schools allocate 4 further training days within the term dates.",
+      "source": "https://www.buckinghamshire.gov.uk/documents/41324/Bucks_final_term_dates_2027_2028.pdf"
+    },
+    {
+      "fact": "The council sets 195 staff days and 190 teaching days under its duty in the Education Act 2002.",
+      "source": "https://www.buckinghamshire.gov.uk/documents/41324/Bucks_final_term_dates_2027_2028.pdf"
+    },
+    {
+      "fact": "The 2027-28 dates were agreed and published on Tuesday 17 February 2026.",
+      "source": "https://www.buckinghamshire.gov.uk/documents/41324/Bucks_final_term_dates_2027_2028.pdf"
+    },
+    {
+      "fact": "Voluntary aided, foundation trust, free schools and academies can set their own dates, but have mostly adopted the same dates as the local authority in the past.",
+      "source": "https://www.buckinghamshire.gov.uk/documents/41324/Bucks_final_term_dates_2027_2028.pdf"
+    },
+    {
+      "fact": "The council's calendars also mark transition days for pupils moving school.",
+      "source": "https://www.buckinghamshire.gov.uk/documents/41322/School_Term_Dates_2026_to_2027_PDF.pdf"
+    },
+    {
+      "fact": "The council strongly recommends that parents check the published dates on their school's website.",
+      "source": "https://www.buckinghamshire.gov.uk/schools-libraries-and-parks/school-admissions-and-appeals/school-term-dates/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.buckinghamshire.gov.uk/documents/41322/School_Term_Dates_2026_to_2027_PDF.pdf",
+        "pageUrl": "https://www.buckinghamshire.gov.uk/schools-libraries-and-parks/school-admissions-and-appeals/school-term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.buckinghamshire.gov.uk/schools-libraries-and-parks/school-admissions-and-appeals/school-term-dates/",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2026-09-01",
+          "label": "INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "There is a proposed inset day on 1 September 2026; pupils start on Wednesday 2 September 2026. The PDF says the autumn total includes one INSET day on 1 September and 4 further INSET days are selected by each school.",
+      "statedDays": 195,
+      "notes": "PDF titled 'Buckinghamshire Council Final Term Dates 2026-2027'. Summer term ends Wednesday 21 July 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.buckinghamshire.gov.uk/documents/41324/Bucks_final_term_dates_2027_2028.pdf",
+        "pageUrl": "https://www.buckinghamshire.gov.uk/schools-libraries-and-parks/school-admissions-and-appeals/school-term-dates/",
+        "via": "direct",
+        "fetchedUrl": "https://www.buckinghamshire.gov.uk/schools-libraries-and-parks/school-admissions-and-appeals/school-term-dates/",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [
+        {
+          "date": "2027-09-01",
+          "label": "INSET day"
+        }
+      ],
+      "insetMode": "partly-fixed",
+      "insetNote": "We have specified one INSET day on 1 September and schools should allocate 4 further training/INSET days within these term dates.",
+      "statedDays": 195,
+      "notes": "Agreed term dates 2027/2028. The autumn term starts on Wednesday 1 September 2027 (the INSET day); summer holiday starts Monday 24 July 2028."
+    }
+  }
+}

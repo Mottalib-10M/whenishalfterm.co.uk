@@ -1,0 +1,201 @@
+{
+  "slug": "portsmouth",
+  "name": "Portsmouth",
+  "officialName": "Portsmouth City Council",
+  "nation": "england",
+  "region": "South East",
+  "type": "unitary",
+  "appliesTo": "These dates apply to local authority maintained schools only.",
+  "academyNote": "Academies, voluntary-aided and foundation schools may set their own term dates. Check each school's website for the latest information about term dates and inset days.",
+  "localFacts": [
+    {
+      "fact": "Portsmouth's published dates apply to local authority maintained schools only.",
+      "source": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "Most Portsmouth schools also have five teacher training (inset) days each year when pupils do not need to attend.",
+      "source": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "The council lists the May Day bank holiday inside the summer term: Monday 3 May 2027 and Monday 1 May 2028.",
+      "source": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "The full calendars for each year are published on the Portsmouth Education Partnership website, linked from the council page.",
+      "source": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "The council keeps a separate guide page for academies, voluntary aided and foundation schools.",
+      "source": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates/academies-voluntary-aided-and-foundation-schools"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates",
+        "pageUrl": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Most schools also have five teacher training (inset) days in each academic year when pupils do not need to attend; check each school's website.",
+      "statedDays": null,
+      "notes": "Autumn term Tuesday 1 September to Friday 18 December 2026; summer term ends Wednesday 21 July 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates",
+        "pageUrl": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.portsmouth.gov.uk/services/schools-and-learning/schools/school-term-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Same rule: schools set their own five inset days.",
+      "statedDays": null,
+      "notes": "Christmas: Monday 20 December 2027 to Monday 3 January 2028. Easter: Monday 3 April to Monday 17 April 2028."
+    }
+  }
+}

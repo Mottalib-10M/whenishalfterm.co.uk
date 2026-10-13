@@ -1,0 +1,28 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, LAST_UPDATED, SITE_NAMES } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+const lang = 'en';
+---
+<PageLayout title={`Editorial policy of ${SITE_NAMES[lang]}: sources, checks, fixes`} description="Where every term date on Term Dates Finder comes from, the sources we refuse, how often council calendars are re-read, how the date engine is tested and how a wrong date is corrected." lang={lang} noindex={true} breadcrumbs={[{ label: 'Editorial policy' }]} showAuthor={false}>
+  <div class="prose prose-slate max-w-none">
+    <h1>Editorial and corrections policy</h1>
+    <p>Parents book flights, childcare and time off work around these dates, and a day wrong can mean an unauthorised absence. So every date points to the official page it was read on, and a correction is made in the open.</p>
+    <h2>Who is responsible</h2><p>{AUTHOR_NAME}, reachable at <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <h2>Sources we use</h2>
+    <ul>
+      <li>the term dates page, PDF or Word calendar of each <strong>local authority</strong>, read one by one, with the address and the reading date kept for each school year;</li>
+      <li>the <strong>Department of Education</strong> in Northern Ireland for the common closure dates, and nidirect for the rules around them;</li>
+      <li><strong>GOV.UK</strong> for bank holidays in England and Wales, Scotland and Northern Ireland, read from its official data feed;</li>
+      <li>the <strong>Department for Education</strong> attendance guidance, <strong>legislation.gov.uk</strong> and the <strong>Scottish Government</strong> for absence and penalty rules.</li>
+    </ul>
+    <h2>Sources we refuse</h2><p>Revision sites, travel blogs, newspapers and other date aggregators never supply a date here, even when they rank above the council. Many give "typical" dates for a whole nation, or copy a neighbouring council's calendar. A school's own calendar is not used for a council page either, because the school may be an academy with its own dates.</p>
+    <h2>When a council page is blocked</h2><p>Some council websites refuse automated readers. We never get round a protection: we read the copy of the same official file kept by the Internet Archive, or the file opened in a browser, and the page says so next to the source.</p>
+    <h2>Testing</h2><p>Every calendar file is checked by a program before it is published: no term may start on a weekend, two terms may not overlap and every weekday between two terms must belong to a named holiday. The date engine is tested on known days such as Good Friday, Christmas Day and the first day of each break. A failing test stops the site from being built.</p>
+    <h2>Review cycle</h2><p>Council pages are re-read every term, and in particular from January, when councils publish or revise the calendar for the year after next. Each page shows the date its dates were read.</p>
+    <h2>Corrections</h2>
+    <ol><li>We open the official page again.</li><li>We correct the calendar file and the test.</li><li>The page shows the new reading date.</li></ol>
+    <h2>Independence</h2><p>No holiday company, airline or school pays for or reviews what we publish. A commercial relationship, if one ever existed, would be shown on the page concerned.</p>
+    <p>See also the <a href={route('method', lang)}>method</a>. Version: {LAST_UPDATED}.</p>
+  </div>
+</PageLayout>

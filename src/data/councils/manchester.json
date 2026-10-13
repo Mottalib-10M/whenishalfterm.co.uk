@@ -1,0 +1,209 @@
+{
+  "slug": "manchester",
+  "name": "Manchester",
+  "officialName": "Manchester City Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "metropolitan",
+  "appliesTo": "Most Manchester schools have the same holiday dates, but some voluntary-aided, foundation, or academy schools may differ.",
+  "academyNote": "Some voluntary-aided, foundation, or academy schools may differ. If in doubt, contact the individual school.",
+  "localFacts": [
+    {
+      "fact": "Most Manchester schools share the same holiday dates, but some voluntary-aided, foundation or academy schools may differ.",
+      "source": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "In 2027 Manchester's Easter holiday runs from Monday 5 April to Friday 16 April, so schools close for Good Friday and Easter Monday (26 and 29 March) during the spring term.",
+      "source": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "The 2026/2027 summer term ends on Thursday 22 July 2027.",
+      "source": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "In 2027/2028 the February half term is the week of 21 February, with schools reopening on Monday 28 February 2028.",
+      "source": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "The council lists each break as the day the school closes and the day it opens again, with bank holidays shown as single closures.",
+      "source": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates",
+        "pageUrl": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260529212110id_/https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-04-02",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-19",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-04-05",
+          "end": "2027-04-16"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-03-26",
+          "label": "Good Friday"
+        },
+        {
+          "date": "2027-03-29",
+          "label": "Easter Monday"
+        },
+        {
+          "date": "2027-05-03",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "",
+      "statedDays": null,
+      "notes": "Read from the Wayback Machine copy of 29 May 2026 because the live page returns HTTP 403. Easter holiday: school closes Friday 2 April 2027 and opens Monday 19 April 2027. Summer holiday: school closes Thursday 22 July 2027."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates",
+        "pageUrl": "https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260529212110id_/https://www.manchester.gov.uk/schools-education-and-childcare/school-holidays-and-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "",
+      "statedDays": null,
+      "notes": "Read from the Wayback Machine copy of 29 May 2026 because the live page returns HTTP 403. School opens Wednesday 1 September 2027 and Tuesday 4 January 2028; Easter holiday from Friday 31 March to Tuesday 18 April 2028."
+    }
+  }
+}

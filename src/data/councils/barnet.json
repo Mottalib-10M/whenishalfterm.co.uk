@@ -1,0 +1,134 @@
+{
+  "slug": "barnet",
+  "name": "Barnet",
+  "officialName": "London Borough of Barnet",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "Most Barnet schools follow the same school term and holiday dates.",
+  "academyNote": "Voluntary aided, foundation, academies and free schools can set their own dates and these may be different. Check with your school if you are unsure of term dates.",
+  "localFacts": [
+    {
+      "fact": "Most Barnet schools follow the same term and holiday dates; voluntary aided, foundation, academies and free schools can set their own.",
+      "source": "https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "In 2026-27 the autumn term starts on Tuesday 1 September 2026.",
+      "source": "https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The 2026-27 Christmas holiday runs to Monday 4 January 2027, so the spring term starts on Tuesday 5 January.",
+      "source": "https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The council notes that the May Day bank holiday falls on 3 May 2027 and the spring bank holiday is taken on 31 May, at the start of half term.",
+      "source": "https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The archived council page from May 2026 lists no 2027-28 dates yet.",
+      "source": "https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "pageUrl": "https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260517032448id_/https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-05",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The page does not mention INSET days.",
+      "statedDays": null,
+      "notes": "Live page blocked by bot protection; read from the Wayback copy of 17 May 2026. Summer holiday not given because the 2027-28 start is not published."
+    },
+    "2027-28": {
+      "status": "not-published",
+      "sessions": [],
+      "holidays": [],
+      "closures": [],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "",
+      "statedDays": null,
+      "notes": "The archived council page (17 May 2026) lists 2024/25, 2025/26 and 2026/27 only; the live page could not be read (bot protection).",
+      "source": {
+        "officialUrl": "https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "pageUrl": "https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260517032448id_/https://www.barnet.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "retrieved": "2026-10-12",
+        "format": "html"
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "newham",
+  "name": "Newham",
+  "officialName": "London Borough of Newham",
+  "nation": "england",
+  "region": "London",
+  "type": "london",
+  "appliesTo": "Governing bodies are responsible for setting the term and holiday dates for their schools. This calendar provides a framework to support governing bodies in determining those dates.",
+  "academyNote": "Individual school dates may vary, so parents and carers should check the relevant school's website for confirmed dates.",
+  "localFacts": [
+    {
+      "fact": "In Newham, governing bodies set their own school's dates; the council calendar is a framework to support them.",
+      "source": "https://www.newham.gov.uk/downloads/file/8985/school-term-and-holiday-dates-calendar-2026-2027"
+    },
+    {
+      "fact": "The calendar provides 195 school days, and governing boards may add up to two more (a maximum of 197) for religious observance or to extend the Christmas or summer holiday.",
+      "source": "https://www.newham.gov.uk/downloads/file/8985/school-term-and-holiday-dates-calendar-2026-2027"
+    },
+    {
+      "fact": "Five INSET days should be identified by each school, either as full days or as an equivalent number of twilight sessions.",
+      "source": "https://www.newham.gov.uk/downloads/file/8985/school-term-and-holiday-dates-calendar-2026-2027"
+    },
+    {
+      "fact": "The calendar lists religious festivals, such as Diwali on Sunday 8 November 2026 and Eid ul-Fitr predicted to begin on the evening of Tuesday 9 March 2027.",
+      "source": "https://www.newham.gov.uk/downloads/file/8985/school-term-and-holiday-dates-calendar-2026-2027"
+    },
+    {
+      "fact": "For 2027-28 the council lists Eid ul-Adha on Friday 5 May 2028 and notes Islamic dates may vary by one day with moon sightings.",
+      "source": "https://www.newham.gov.uk/downloads/file/11386/school-term-and-holiday-dates-calendar-2027-2028"
+    },
+    {
+      "fact": "Both calendars describe themselves as a 'proposed calendar'.",
+      "source": "https://www.newham.gov.uk/downloads/file/11386/school-term-and-holiday-dates-calendar-2027-2028"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "provisional",
+      "source": {
+        "officialUrl": "https://www.newham.gov.uk/downloads/file/8985/school-term-and-holiday-dates-calendar-2026-2027",
+        "pageUrl": "https://www.newham.gov.uk/downloads/download/2922/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.newham.gov.uk/downloads/file/8985/school-term-and-holiday-dates-calendar-2026-2027",
+        "retrieved": "2026-10-12",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-22",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-23",
+          "end": "2027-08-31"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Five days should be identified for staff training (INSET); they may be full days or twilight sessions.",
+      "statedDays": 195,
+      "notes": "The council calls it a proposed calendar and a framework for governing bodies. It lists the summer holiday from Friday 23 July 2027 with the end date to be confirmed; the 2027-28 calendar starts on Wednesday 1 September 2027."
+    },
+    "2027-28": {
+      "status": "provisional",
+      "source": {
+        "officialUrl": "https://www.newham.gov.uk/downloads/file/11386/school-term-and-holiday-dates-calendar-2027-2028",
+        "pageUrl": "https://www.newham.gov.uk/downloads/download/2922/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.newham.gov.uk/downloads/file/11386/school-term-and-holiday-dates-calendar-2027-2028",
+        "retrieved": "2026-10-12",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Five days should be identified for staff training (INSET).",
+      "statedDays": 195,
+      "notes": "Proposed calendar; governing bodies may designate up to two additional school days (maximum 197)."
+    }
+  }
+}

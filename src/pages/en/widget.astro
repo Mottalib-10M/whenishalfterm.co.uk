@@ -1,0 +1,20 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+import { SITE_URL } from '../../data/site-config';
+import { route } from '../../i18n/routes';
+import { breadcrumbSchema } from '../../lib/seo';
+const lang = 'en';
+const code = `<iframe src="${SITE_URL}/embed/school-open-checker/" title="Is school open? UK term dates checker" width="100%" height="760" style="border:0;max-width:1000px" loading="lazy"></iframe>`;
+---
+<PageLayout title="Embed the school open checker on your website for free" description="Put the UK school open checker on your own website for free: one iframe, every council calendar we hold, no sign-up and no tracking, updated whenever a council changes its dates." lang={lang} noindex={true} jsonLd={[breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Embed', path: route('widget', lang) }])]} breadcrumbs={[{ label: 'Embed' }]} showAuthor={false}>
+  <header class="mb-6">
+    <h1 class="text-3xl font-bold text-navy-900 md:text-4xl">Embed the school open checker</h1>
+    <p class="mt-3 text-lg text-navy-700">One line of code for a school, a parent forum, a holiday club or a local news site: visitors pick their council and a date and see at once whether school is on.</p>
+  </header>
+  <div class="prose prose-slate max-w-none">
+    <pre class="overflow-x-auto rounded-lg bg-navy-900 p-4 text-sm text-white"><code>{code}</code></pre>
+    <p>Conditions: keep the credit link under the checker visible, do not change the widget, use it as it is, with no warranty. When a council revises its calendar, the embedded checker follows.</p>
+    <p>Nothing your visitors type reaches us and the iframe sets no cookie. Questions: <a href={route('contact', lang)}>contact</a>.</p>
+  </div>
+  <div class="mt-8 overflow-hidden rounded-xl border border-navy-200"><iframe src="/embed/school-open-checker/" title="Is school open? UK term dates checker" width="100%" height="760" style="border:0" loading="lazy"></iframe></div>
+</PageLayout>
