@@ -1,0 +1,138 @@
+{
+  "slug": "doncaster",
+  "name": "Doncaster",
+  "officialName": "City of Doncaster Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "metropolitan",
+  "appliesTo": "City of Doncaster Council (CDC) is responsible for determining the holiday pattern for community primary schools, community special schools and Pupil Referral Units within the City.",
+  "academyNote": "Academies, Free Schools and Church Schools will set their own dates and are encouraged to set the same or similar dates. For Academies and Church Schools - please check with the School.",
+  "localFacts": [
+    {
+      "fact": "Doncaster's holiday pattern covers community primary schools, community special schools and Pupil Referral Units; academies, free schools and church schools set their own dates.",
+      "source": "https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "In spring 2026 the council consulted on two draft versions of the 2027-28 calendar, with a closing date of 24 April 2026.",
+      "source": "https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "Version 1 of the 2027-28 draft follows a common holiday pattern agreed with the 3 other South Yorkshire councils; Version 2 starts on the first Monday in September and finishes later in the summer term.",
+      "source": "https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "For 2026-27 the council lists the May bank holiday as a one-day closure: schools close on Monday 3 May and reopen on Tuesday 4 May 2027.",
+      "source": "https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "There are five training days to be arranged by schools each year.",
+      "source": "https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates"
+    },
+    {
+      "fact": "The 2026-27 Easter holiday starts on Good Friday, 26 March 2027, and schools reopen on Monday 12 April 2027.",
+      "source": "https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.doncaster.gov.uk/Documents/DocumentView/Stream/Media/Default/ChildrenYoungPeopleFamilies/Documents/Admissions/School%20Calendar%202026%20-%2027.pdf",
+        "pageUrl": "https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260424053953id_/https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Bank Holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Please note: There are five training days to be arranged.",
+      "statedDays": null,
+      "notes": "The live council site returns 403 to automated readers; dates read from the Wayback Machine copy of 24 April 2026 (page last updated 15 April 2026). Summer holiday starts Thursday 22 July 2027; the 2027-28 start date was not decided on that copy.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "not-published",
+      "source": {
+        "officialUrl": "https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates",
+        "pageUrl": "https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260424053953id_/https://www.doncaster.gov.uk/services/schools/school-holidays-and-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [],
+      "holidays": [],
+      "closures": [],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "",
+      "statedDays": null,
+      "notes": "On the latest readable copy (24 April 2026) the council was seeking views on two draft 2027-28 school holiday patterns (V1 and V2), closing date 24 April 2026. No determined 2027-28 dates could be read: the live page is blocked (403) and no later archive copy exists."
+    }
+  }
+}

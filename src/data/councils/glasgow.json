@@ -1,0 +1,95 @@
+{
+  "slug": "glasgow",
+  "name": "Glasgow",
+  "officialName": "Glasgow City Council",
+  "nation": "scotland",
+  "region": "Scotland",
+  "type": "scottish",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {"fact": "Teachers return two days before pupils each August: in 2026 teachers return on Monday 10 August for two in-service days and pupils return on Wednesday 12 August.", "source": "https://glasgow.gov.uk/article/4276/School-Term-Dates"},
+    {"fact": "Glasgow schools close for the September weekend, a Friday and the following Monday (25 and 28 September 2026).", "source": "https://glasgow.gov.uk/article/4276/School-Term-Dates"},
+    {"fact": "The October week is preceded by an in-service day on the Friday, so pupils are off from Friday 9 October to Friday 16 October 2026.", "source": "https://glasgow.gov.uk/article/4276/School-Term-Dates"},
+    {"fact": "The February mid term break is three days for pupils: two holidays followed by an in-service day on the Wednesday.", "source": "https://glasgow.gov.uk/article/4276/School-Term-Dates"},
+    {"fact": "An in-service day on Thursday 6 May 2027 is set to coincide with elections, and the council says it may be subject to change.", "source": "https://glasgow.gov.uk/article/4276/School-Term-Dates"},
+    {"fact": "Schools close early on the last day before the Christmas and spring holidays (2.30 pm) and at 1.00 pm on the last day of the summer term.", "source": "https://glasgow.gov.uk/article/4276/School-Term-Dates"},
+    {"fact": "The council already gives Monday 14 August 2028 as the proposed date for teachers to return after the 2027-28 year.", "source": "https://glasgow.gov.uk/article/4276/School-Term-Dates"}
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {"officialUrl": "https://glasgow.gov.uk/article/4276/School-Term-Dates", "pageUrl": "https://glasgow.gov.uk/article/4276/School-Term-Dates", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/20260218144440id_/https://glasgow.gov.uk/article/4276/School-Term-Dates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2026-08-10", "end": "2026-09-24", "label": "Autumn term"},
+        {"start": "2026-09-29", "end": "2026-10-09", "label": "Autumn term"},
+        {"start": "2026-10-19", "end": "2026-12-18", "label": "Autumn term"},
+        {"start": "2027-01-05", "end": "2027-02-12", "label": "Spring term"},
+        {"start": "2027-02-17", "end": "2027-03-25", "label": "Spring term"},
+        {"start": "2027-03-30", "end": "2027-04-02", "label": "Spring term"},
+        {"start": "2027-04-19", "end": "2027-05-27", "label": "Summer term"},
+        {"start": "2027-06-01", "end": "2027-06-25", "label": "Summer term"}
+      ],
+      "holidays": [
+        {"name": "September weekend", "start": "2026-09-25", "end": "2026-09-28"},
+        {"name": "October holiday", "start": "2026-10-12", "end": "2026-10-16"},
+        {"name": "Christmas holidays", "start": "2026-12-21", "end": "2027-01-04"},
+        {"name": "February mid-term", "start": "2027-02-15", "end": "2027-02-16"},
+        {"name": "Good Friday and Easter Monday", "start": "2027-03-26", "end": "2027-03-29"},
+        {"name": "Spring holiday", "start": "2027-04-05", "end": "2027-04-16"},
+        {"name": "May weekend", "start": "2027-05-28", "end": "2027-05-31"},
+        {"name": "Summer holidays", "start": "2027-06-28", "end": "2027-08-13"}
+      ],
+      "closures": [
+        {"date": "2027-05-03", "label": "May holiday"}
+      ],
+      "inset": [
+        {"date": "2026-08-10", "label": "In-service day (teachers return)"},
+        {"date": "2026-08-11", "label": "In-service day"},
+        {"date": "2026-10-09", "label": "In-service day"},
+        {"date": "2027-02-17", "label": "In-service day"},
+        {"date": "2027-05-06", "label": "In-service day (elections, may be subject to change)"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five in-service days set by the council: 10 and 11 August 2026, 9 October 2026, 17 February 2027 and 6 May 2027 (to coincide with elections, but may be subject to change).",
+      "statedDays": null,
+      "notes": "Pupils return on Wednesday 12 August 2026. Schools close at 2.30 pm on 18 December 2026 and 2 April 2027, and at 1.00 pm on Friday 25 June 2027. Good Friday (26 March) and Easter Monday (29 March 2027) are holidays before the spring break."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {"officialUrl": "https://glasgow.gov.uk/article/4276/School-Term-Dates", "pageUrl": "https://glasgow.gov.uk/article/4276/School-Term-Dates", "via": "wayback", "fetchedUrl": "https://web.archive.org/web/20260218144440id_/https://glasgow.gov.uk/article/4276/School-Term-Dates", "retrieved": "2026-10-13", "format": "html"},
+      "sessions": [
+        {"start": "2027-08-16", "end": "2027-09-23", "label": "Autumn term"},
+        {"start": "2027-09-28", "end": "2027-10-08", "label": "Autumn term"},
+        {"start": "2027-10-18", "end": "2027-12-21", "label": "Autumn term"},
+        {"start": "2028-01-05", "end": "2028-02-11", "label": "Spring term"},
+        {"start": "2028-02-16", "end": "2028-03-31", "label": "Spring term"},
+        {"start": "2028-04-18", "end": "2028-05-25", "label": "Summer term"},
+        {"start": "2028-05-30", "end": "2028-06-28", "label": "Summer term"}
+      ],
+      "holidays": [
+        {"name": "September weekend", "start": "2027-09-24", "end": "2027-09-27"},
+        {"name": "October holiday", "start": "2027-10-11", "end": "2027-10-15"},
+        {"name": "Christmas holidays", "start": "2027-12-22", "end": "2028-01-04"},
+        {"name": "February mid-term", "start": "2028-02-14", "end": "2028-02-15"},
+        {"name": "Spring holiday", "start": "2028-04-03", "end": "2028-04-17"},
+        {"name": "May weekend", "start": "2028-05-26", "end": "2028-05-29"},
+        {"name": "Summer holidays", "start": "2028-06-29", "end": "2028-08-11"}
+      ],
+      "closures": [
+        {"date": "2028-05-01", "label": "May holiday"}
+      ],
+      "inset": [
+        {"date": "2027-08-16", "label": "In-service day (teachers return)"},
+        {"date": "2027-08-17", "label": "In-service day"},
+        {"date": "2027-10-08", "label": "In-service day"},
+        {"date": "2028-02-16", "label": "In-service day"},
+        {"date": "2028-05-25", "label": "In-service day"}
+      ],
+      "insetMode": "fixed",
+      "insetNote": "Five in-service days set by the council: 16 and 17 August 2027, 8 October 2027, 16 February 2028 and 25 May 2028.",
+      "statedDays": null,
+      "notes": "Pupils return on Wednesday 18 August 2027. Christmas holidays start on Wednesday 22 December 2027 (schools close at 2.30 pm on Tuesday 21 December). Schools close at 1.00 pm on Wednesday 28 June 2028. Summer holidays shown to 11 August 2028, as the council gives Monday 14 August 2028 as the proposed date for teachers to return."
+    }
+  }
+}
