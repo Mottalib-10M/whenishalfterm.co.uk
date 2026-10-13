@@ -2,6 +2,7 @@
 /** Directory of every council calendar, by nation and region, with the October half term and the reading date. */
 import PageLayout from '../../layouts/PageLayout.astro';
 import Tool from '../../components/Tool.astro';
+import Clamp from '../../components/Clamp.astro';
 import { route } from '../../i18n/routes';
 import { COUNCILS, councilRouteId, NATION_LABEL } from '../../lib/councils';
 import { breakOf, rangeText, plainDate } from '../../lib/engine/calendar';
@@ -20,8 +21,8 @@ const n28 = COUNCILS.filter((c) => c.years['2027-28'] && c.years['2027-28']!.sta
 ---
 <PageLayout title="Council Term Dates List: Every Calendar on Term Dates Finder" description={`All ${COUNCILS.length} council school calendars on Term Dates Finder by region, with October half term 2026, whether 2027-28 is out yet and the day each calendar was read.`} lang={lang} faqs={faqs} jsonLd={[articleSchema({ title: 'Every council calendar on the site', description: 'Directory of council school calendars', path: route('councils', lang), lang }), faqSchema(faqs, lang), breadcrumbSchema([{ name: 'Home', path: route('home', lang) }, { name: 'Councils', path: route('councils', lang) }])]} breadcrumbs={[{ label: 'Councils' }]}>
   <header class="mb-4"><h1 class="text-3xl font-bold text-navy-900 md:text-4xl">Every council calendar on the site</h1>
-  <p class="mt-2 text-navy-700">{COUNCILS.length} calendars, {n28} with 2027-28 published. Pick a council for its full dates, its own rules and the school open checker.</p></header>
-  <div class="prose prose-slate mb-4 max-w-none"><p>Each line links to the council page, which gives both school years term by term, a day-by-day strip of the year, the bank holidays that fall in term, the rules the council states about INSET days and academies, and a comparison with its neighbours. The October half term column is the quickest way to spot a council that breaks for two weeks, or a Scottish council whose October holiday starts earlier. The 2027-28 column says whether the council has already published the following year, only as a provisional draft, or not at all. "Read" is the day we last opened the council's own calendar. Councils not yet on the site can be suggested from the contact page; we add them in order of the number of pupils they serve, and only from the council's own site.</p></div>
+  <p class="mt-2 text-navy-700">{COUNCILS.length} calendars, {n28} with 2027-28 published.</p></header>
+  <Clamp text={`Each line links to the council page, which gives both school years term by term, a day-by-day strip of the year, the bank holidays that fall in term, the rules the council states about INSET days and academies, and a comparison with its neighbours. The October half term column is the quickest way to spot a council that breaks for two weeks, or a Scottish council whose October holiday starts earlier. The 2027-28 column says whether the council has already published the following year, only as a provisional draft, or not at all. "Read" is the day we last opened the council's own calendar. Councils not yet on the site can be suggested from the contact page; we add them in order of the number of pupils they serve, and only from the council's own site.`} id="clamp-councils" class="mb-3" />
   <div data-chrome class="mb-6"><Tool kind="checker" council="birmingham" /></div>
   <div class="prose prose-slate max-w-none">
 

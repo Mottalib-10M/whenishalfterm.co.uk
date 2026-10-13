@@ -1,0 +1,210 @@
+{
+  "slug": "cumberland",
+  "name": "Cumberland",
+  "officialName": "Cumberland Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "unitary",
+  "appliesTo": "It is advisable to check with individual schools as there can be a slight variation in start and finish dates.",
+  "academyNote": "The council page does not mention academies; it advises checking with individual schools as there can be a slight variation in start and finish dates.",
+  "localFacts": [
+    {
+      "fact": "Cumberland's term dates are agreed jointly by Cumberland and Westmorland and Furness Councils.",
+      "source": "https://www.cumberland.gov.uk/sites/default/files/2025-04/2026-27_cumberland_school_term_holiday_dates_.pdf"
+    },
+    {
+      "fact": "The calendar covers 190 pupil days and makes no provision for the 5 extra non-contact days for teachers, so INSET days should be arranged outside the term dates or outside pupil hours.",
+      "source": "https://www.cumberland.gov.uk/sites/default/files/2025-04/2026-27_cumberland_school_term_holiday_dates_.pdf"
+    },
+    {
+      "fact": "For 2026-27 the council suggests Tuesday 1 September 2026 and Monday 4 January 2027 as INSET days, plus three others to be locally determined.",
+      "source": "https://www.cumberland.gov.uk/sites/default/files/2025-04/2026-27_cumberland_school_term_holiday_dates_.pdf"
+    },
+    {
+      "fact": "For 2027-28 the suggested INSET days are Thursday 2 and Friday 3 September 2027 and Tuesday 4 January 2028, plus two others to be locally determined.",
+      "source": "https://www.cumberland.gov.uk/sites/default/files/2025-04/2027-28_cumberland_school_term_holiday_dates_.pdf"
+    },
+    {
+      "fact": "The 2026-27 year ends early, on Friday 16 July 2027, and the 2027-28 year starts on Monday 6 September 2027.",
+      "source": "https://www.cumberland.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "Cumberland already publishes dates for 2028-29, starting on Wednesday 6 September 2028.",
+      "source": "https://www.cumberland.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.cumberland.gov.uk/sites/default/files/2025-04/2026-27_cumberland_school_term_holiday_dates_.pdf",
+        "pageUrl": "https://www.cumberland.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.cumberland.gov.uk/sites/default/files/2025-04/2026-27_cumberland_school_term_holiday_dates_.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-05",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-16",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "The 190 day school year makes no provision for the additional 5 days non-contact time; INSET days should be arranged outside the term dates or outside pupil hours. Suggested INSET: Tuesday 1 September 2026 and Monday 4 January 2027, plus three others to be locally determined.",
+      "statedDays": 190,
+      "notes": "Pupil days only: the year starts on Wednesday 2 September 2026 and the spring term on Tuesday 5 January 2027. The summer term ends early, on Friday 16 July 2027.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-19",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.cumberland.gov.uk/sites/default/files/2025-04/2027-28_cumberland_school_term_holiday_dates_.pdf",
+        "pageUrl": "https://www.cumberland.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.cumberland.gov.uk/sites/default/files/2025-04/2027-28_cumberland_school_term_holiday_dates_.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-05",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-20",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Suggested INSET: Thursday 2 September 2027, Friday 3 September 2027 and Tuesday 4 January 2028, plus two others to be locally determined, all outside the 190 pupil days.",
+      "statedDays": 190,
+      "notes": "Spring term starts Wednesday 5 January 2028; summer term starts Tuesday 18 April 2028 and ends Thursday 20 July 2028. The 2028-29 year starts on Wednesday 6 September 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-21",
+          "end": "2028-09-05"
+        }
+      ]
+    }
+  }
+}

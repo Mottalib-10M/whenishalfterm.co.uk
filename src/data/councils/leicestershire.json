@@ -1,0 +1,142 @@
+{
+  "slug": "leicestershire",
+  "name": "Leicestershire",
+  "officialName": "Leicestershire County Council",
+  "nation": "england",
+  "region": "East Midlands",
+  "type": "county",
+  "appliesTo": "The law requires local authority schools to have 190 school days, however some schools follow a different term-time pattern.",
+  "academyNote": "Please check with your child's school website to ensure you have the correct pattern and have noted any inset/teacher training days as these are determined by the school.",
+  "localFacts": [
+    {
+      "fact": "Leicestershire schools on the council pattern open in August: on Monday 24 August 2026 for the 2026-27 year.",
+      "source": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates"
+    },
+    {
+      "fact": "The early start means an early summer break: schools close on Tuesday 6 July 2027.",
+      "source": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates"
+    },
+    {
+      "fact": "The August bank holiday, Monday 31 August 2026, falls in the first week of the autumn term.",
+      "source": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates"
+    },
+    {
+      "fact": "The council warns that some schools follow a different term-time pattern and that inset or teacher training days are determined by each school.",
+      "source": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates"
+    },
+    {
+      "fact": "The council's current term dates document covers 2022 to 2027 (School term dates 2022/2027 PDF).",
+      "source": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates"
+    },
+    {
+      "fact": "In 2027 the spring term closes on Friday 19 March and schools reopen on Monday 5 April, so the Easter break runs from 22 March to 2 April.",
+      "source": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates",
+        "pageUrl": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260711140104id_/https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-08-24",
+          "end": "2026-10-16",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-10-26",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-19",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-06",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-19",
+          "end": "2026-10-23"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-22",
+          "end": "2027-04-02"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2026-08-31",
+          "label": "August Bank Holiday"
+        },
+        {
+          "date": "2027-05-03",
+          "label": "May Day Bank Holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Inset/teacher training days are determined by the school.",
+      "statedDays": 190,
+      "notes": "The page gives schools open and close dates and half term breaks; the autumn term restarts after the 19 to 23 October half term and the summer term ends on Tuesday 6 July 2027."
+    },
+    "2027-28": {
+      "status": "not-published",
+      "sessions": [],
+      "holidays": [],
+      "closures": [],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "",
+      "statedDays": null,
+      "notes": "The council page (archived copy of 11 July 2026; the live page is blocked to automated reading) lists term dates only up to 2026/2027. No 2027-28 dates were found on the council's site.",
+      "source": {
+        "officialUrl": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates",
+        "pageUrl": "https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260711140104id_/https://www.leicestershire.gov.uk/education-and-children/schools-colleges-and-academies/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      }
+    }
+  }
+}

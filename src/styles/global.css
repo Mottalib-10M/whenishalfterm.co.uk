@@ -64,6 +64,6 @@ h1 { font-weight: 700; } h2 { font-weight: 650; } h3 { font-weight: 600; }
   .cal-day { display: inline-block; width: 1.05rem; height: 1.05rem; margin: 1px; border-radius: 2px; font-size: .55rem; line-height: 1.05rem; text-align: center; }
   .cal-open { background: #dbe4f5; color: #012169; }
   .cal-off { background: #c8102e; color: #fff; }
-  .cal-we { background: #f1f5f9; color: #64748b; }
+  .cal-we { background: #f1f5f9; color: #475569; }
   .cal-bh { background: #fde68a; color: #78350f; }
 }

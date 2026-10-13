@@ -1,0 +1,210 @@
+{
+  "slug": "northumberland",
+  "name": "Northumberland",
+  "officialName": "Northumberland County Council",
+  "nation": "england",
+  "region": "North East",
+  "type": "unitary",
+  "appliesTo": "Some schools have allocated their own term dates. You should also check your school's website.",
+  "academyNote": "Foundation Trust, Academy and Voluntary Aided (church) schools are not obliged to follow these dates and may choose to set a different calendar.",
+  "localFacts": [
+    {
+      "fact": "Northumberland publishes a list of teacher training days school by school, grouped by school partnership, with a separate list for special schools.",
+      "source": "https://www.northumberland.gov.uk/education-skills/schools/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "In the 2026-27 training day list many schools share 1 September 2026 as a training day, and several replace some days with commuted twilight sessions.",
+      "source": "https://www.northumberland.gov.uk/NorthumberlandCountyCouncil/media/Schools-Media/Teacher-Training-Days-2026-27.pdf"
+    },
+    {
+      "fact": "The 2026-27 calendar shows 195 term time days, with 5 used by schools as non-teaching days.",
+      "source": "https://www.northumberland.gov.uk/NorthumberlandCountyCouncil/media/Document-store/Term-Dates-2026-2027.pdf"
+    },
+    {
+      "fact": "The 2027-28 calendar shows 192 days: 2 are non-teaching days and schools must find 3 further non-teaching days outside the term dates.",
+      "source": "https://www.northumberland.gov.uk/NorthumberlandCountyCouncil/media/Document-store/School%20admissions/School%20Holiday%20and%20Term%20Dates%202027-28.pdf"
+    },
+    {
+      "fact": "Schools must take account of closures for local or Parliamentary elections when setting their 2027-28 non-teaching days.",
+      "source": "https://www.northumberland.gov.uk/NorthumberlandCountyCouncil/media/Document-store/School%20admissions/School%20Holiday%20and%20Term%20Dates%202027-28.pdf"
+    },
+    {
+      "fact": "The council reminds parents they can be fined for taking children out of school in term time without consent, and that a family holiday is unlikely to be authorised.",
+      "source": "https://www.northumberland.gov.uk/education-skills/schools/school-term-and-holiday-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.northumberland.gov.uk/NorthumberlandCountyCouncil/media/Document-store/Term-Dates-2026-2027.pdf",
+        "pageUrl": "https://www.northumberland.gov.uk/education-skills/schools/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.northumberland.gov.uk/education-skills/schools/school-term-and-holiday-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "This calendar shows 195 term time days. The additional 5 days will be used by schools for non-teaching days; individual schools notify parents. The council publishes each school's teacher training days in a separate list.",
+      "statedDays": 195,
+      "notes": "The page gives the date each school closes and reopens for every holiday; schools re-open on Monday 6 September 2027.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.northumberland.gov.uk/NorthumberlandCountyCouncil/media/Document-store/School%20admissions/School%20Holiday%20and%20Term%20Dates%202027-28.pdf",
+        "pageUrl": "https://www.northumberland.gov.uk/education-skills/schools/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.northumberland.gov.uk/NorthumberlandCountyCouncil/media/Document-store/School%20admissions/School%20Holiday%20and%20Term%20Dates%202027-28.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-20",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "This calendar shows 192 days. The additional 2 days will be used by schools for non-teaching days; schools must identify 3 further non-teaching days outside these term dates.",
+      "statedDays": 192,
+      "notes": "Read from the colour-coded PDF calendar. The summer term ends on Thursday 20 July 2028 (Friday 21 July is shaded as holiday). Schools are likely to re-open on Monday 4 September 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-21",
+          "end": "2028-09-01"
+        }
+      ]
+    }
+  }
+}

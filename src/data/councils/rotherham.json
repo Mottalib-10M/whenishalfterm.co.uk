@@ -1,0 +1,205 @@
+{
+  "slug": "rotherham",
+  "name": "Rotherham",
+  "officialName": "Rotherham Metropolitan Borough Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "metropolitan",
+  "appliesTo": "",
+  "academyNote": "",
+  "localFacts": [
+    {
+      "fact": "Rotherham publishes each school year on its own page, with the bank holidays of that year listed under the term dates.",
+      "source": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates"
+    },
+    {
+      "fact": "The 2026-27 spring term ends on Thursday 25 March 2027, the day before Good Friday, and the summer term starts on Monday 12 April 2027.",
+      "source": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates/2"
+    },
+    {
+      "fact": "In both years the May half term starts on a Tuesday, after the spring bank holiday: 1 to 4 June 2027 and 30 May to 2 June 2028.",
+      "source": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates"
+    },
+    {
+      "fact": "The 2026-27 year ends on Wednesday 21 July 2027 and the 2027-28 year starts on Wednesday 1 September 2027.",
+      "source": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates"
+    },
+    {
+      "fact": "In 2028 the spring term ends on Friday 31 March and the summer term starts on Tuesday 18 April, the day after Easter Monday.",
+      "source": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates"
+    },
+    {
+      "fact": "The 2027-28 page lists Monday 3 January 2028 as the New Year's Day bank holiday, and the spring term starts on Tuesday 4 January.",
+      "source": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates/2",
+        "pageUrl": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates/2",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The council page does not mention INSET or training days.",
+      "statedDays": null,
+      "notes": "The page gives term start and end dates and half terms; the return after each half term is taken as the Monday after it ends. May half term covers Monday 31 May (Spring Bank Holiday) and Tuesday 1 to Friday 4 June 2027.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates",
+        "pageUrl": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.rotherham.gov.uk/schools-schooling/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The council page does not mention INSET or training days.",
+      "statedDays": null,
+      "notes": "May half term covers Monday 29 May (Spring Bank Holiday) and Tuesday 30 May to Friday 2 June 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ]
+    }
+  }
+}

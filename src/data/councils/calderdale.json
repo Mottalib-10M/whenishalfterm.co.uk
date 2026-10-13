@@ -1,0 +1,209 @@
+{
+  "slug": "calderdale",
+  "name": "Calderdale",
+  "officialName": "Calderdale Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "metropolitan",
+  "appliesTo": "These term dates apply to community, voluntary controlled and special schools only.",
+  "academyNote": "Academy, foundation and voluntary aided schools set their own term dates and you should contact them for details.",
+  "localFacts": [
+    {
+      "fact": "Calderdale's term dates apply to community, voluntary controlled and special schools only.",
+      "source": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "The council calls them its recommended term dates for schools in the Calderdale area, and says some schools may choose different dates.",
+      "source": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "Schools are also closed to pupils for five training or professional development days, and each school chooses when they fall.",
+      "source": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "The 2026-27 summer term ends on Wednesday 21 July 2027 and the next year does not open until Monday 6 September 2027.",
+      "source": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "After Christmas 2027 schools open for the spring term on Wednesday 5 January 2028.",
+      "source": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "The 2027-28 summer term runs until Wednesday 26 July 2028.",
+      "source": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates"
+    },
+    {
+      "fact": "The page was last updated on 2 September 2026.",
+      "source": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates",
+        "pageUrl": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools will also be closed to pupils for five School Training/Professional Development Days. Each school will choose when these will be.",
+      "statedDays": null,
+      "notes": "Recommended term dates; Good Friday 26 March 2027 falls in the Easter holiday.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates",
+        "pageUrl": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.calderdale.gov.uk/v2/residents/education-and-learning/schools/school-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-05",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Schools will also be closed to pupils for five School Training/Professional Development Days. Each school will choose when these will be.",
+      "statedDays": null,
+      "notes": "Spring term opens Wednesday 5 January 2028; summer term ends Wednesday 26 July 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ]
+    }
+  }
+}

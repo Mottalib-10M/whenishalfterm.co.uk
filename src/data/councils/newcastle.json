@@ -1,0 +1,210 @@
+{
+  "slug": "newcastle",
+  "name": "Newcastle",
+  "officialName": "Newcastle City Council",
+  "nation": "england",
+  "region": "North East",
+  "type": "metropolitan",
+  "appliesTo": "The dates on this page are set by the council for Local Authority maintained nursery schools and Byker Primary School. Other schools are encouraged to use the same dates but don't have to.",
+  "academyNote": "Foundation Trust, Academy and Voluntary Aided (church) schools are not obliged to follow these dates and may choose to set a different calendar. You will find individual school term dates on their own websites.",
+  "localFacts": [
+    {
+      "fact": "Newcastle's dates are set for council maintained nursery schools and Byker Primary School; other schools are encouraged to use them but don't have to.",
+      "source": "https://www.newcastle.gov.uk/services/schools-learning-and-childcare/about-our-schools/school-term-dates"
+    },
+    {
+      "fact": "The 2026-27 calendar shows 192 term time days: schools use 2 of them as non-teaching days and must find 3 further non-teaching days outside the term dates.",
+      "source": "https://www.newcastle.gov.uk/sites/default/files/Education%20and%20Skills/2026-27%20Community%20School%20Term%20Calendar.pdf"
+    },
+    {
+      "fact": "The 2027-28 calendar shows 193 term time days: 3 are used as non-teaching days and 2 further non-teaching days must be found outside the term dates.",
+      "source": "https://www.newcastle.gov.uk/sites/default/files/2025-12/School%20Term%20Calendar%202027%2028.pdf"
+    },
+    {
+      "fact": "Headteachers, in consultation with staff, decide when, where and how non-teaching days are planned, and each school tells parents when it is closed to pupils.",
+      "source": "https://www.newcastle.gov.uk/sites/default/files/Education%20and%20Skills/2026-27%20Community%20School%20Term%20Calendar.pdf"
+    },
+    {
+      "fact": "The 2026-27 year ends early, on Friday 16 July 2027, and schools re-open on Monday 6 September 2027.",
+      "source": "https://www.newcastle.gov.uk/sites/default/files/Education%20and%20Skills/2026-27%20Community%20School%20Term%20Calendar.pdf"
+    },
+    {
+      "fact": "After the 2027-28 year schools re-open on Monday 4 September 2028.",
+      "source": "https://www.newcastle.gov.uk/sites/default/files/2025-12/School%20Term%20Calendar%202027%2028.pdf"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.newcastle.gov.uk/sites/default/files/Education%20and%20Skills/2026-27%20Community%20School%20Term%20Calendar.pdf",
+        "pageUrl": "https://www.newcastle.gov.uk/services/schools-learning-and-childcare/about-our-schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.newcastle.gov.uk/sites/default/files/Education%20and%20Skills/2026-27%20Community%20School%20Term%20Calendar.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-16",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "This calendar shows 192 term time days. The additional 2 days will be used by schools for non-teaching days; schools must identify 3 further non-teaching days or the equivalent outside of these specified term dates.",
+      "statedDays": 192,
+      "notes": "Holidays read from the colour-coded PDF calendar (yellow school holiday, red bank holiday) and matched against the term start and end dates on the council page.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-19",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.newcastle.gov.uk/sites/default/files/2025-12/School%20Term%20Calendar%202027%2028.pdf",
+        "pageUrl": "https://www.newcastle.gov.uk/services/schools-learning-and-childcare/about-our-schools/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.newcastle.gov.uk/sites/default/files/2025-12/School%20Term%20Calendar%202027%2028.pdf",
+        "retrieved": "2026-10-13",
+        "format": "pdf"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "This calendar shows 193 term time days. The additional 3 days will be used by schools for non-teaching days; schools must identify 2 further non-teaching days or the equivalent outside of these specified term dates.",
+      "statedDays": 193,
+      "notes": "The council page lists only the first day of each half term (25 October 2027, 14 February 2028, 29 May 2028); the full holidays come from the colour-coded PDF.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-24",
+          "end": "2028-09-01"
+        }
+      ]
+    }
+  }
+}

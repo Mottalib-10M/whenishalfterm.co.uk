@@ -1,0 +1,210 @@
+{
+  "slug": "barnsley",
+  "name": "Barnsley",
+  "officialName": "Barnsley Metropolitan Borough Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "metropolitan",
+  "appliesTo": "We set the term dates for all community and voluntary controlled schools.",
+  "academyNote": "Voluntary aided schools, trust schools and academies can set their own term dates - you should check the relevant school's website for these or contact the school directly.",
+  "localFacts": [
+    {
+      "fact": "Barnsley Council sets the term dates for all community and voluntary controlled schools in the borough.",
+      "source": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/"
+    },
+    {
+      "fact": "Each school has five inset days a year, agreed with its governing body, on top of the standard holidays and bank holidays.",
+      "source": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/"
+    },
+    {
+      "fact": "The 2026-27 Easter holiday starts on Good Friday, 26 March 2027, and runs to Friday 9 April 2027.",
+      "source": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/"
+    },
+    {
+      "fact": "The 2027-28 year starts on Wednesday 1 September 2027, after a summer holiday that runs to Tuesday 31 August 2027.",
+      "source": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/"
+    },
+    {
+      "fact": "In 2028 the Easter holiday runs from Monday 3 April to Easter Monday, 17 April, and the summer term starts on Tuesday 18 April.",
+      "source": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/"
+    },
+    {
+      "fact": "The council also offers a downloadable calendar for each school year from September to August.",
+      "source": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/",
+        "pageUrl": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/",
+        "via": "direct",
+        "fetchedUrl": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday (not listed on the council page)"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "As well as the standard school holidays and any bank holidays, each school has five inset days every year. These are agreed with their governing body.",
+      "statedDays": null,
+      "notes": "Summer holiday: Thursday 22 July to Tuesday 31 August 2027.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/",
+        "pageUrl": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/",
+        "via": "direct",
+        "fetchedUrl": "https://www.barnsley.gov.uk/services/schools-and-education/school-terms-and-holidays/",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday (not listed on the council page)"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school has five inset days every year, agreed with its governing body.",
+      "statedDays": null,
+      "notes": "Christmas holiday runs to Monday 3 January 2028; Easter holiday Monday 3 April to Monday 17 April 2028; summer holiday Monday 24 July to Thursday 31 August 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-24",
+          "end": "2028-08-31"
+        }
+      ]
+    }
+  }
+}

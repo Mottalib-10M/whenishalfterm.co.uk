@@ -13,9 +13,9 @@ export default function BankHolidayTool({ secondary = false }: { secondary?: boo
   return (
     <form className={secondary ? 'my-4 rounded-lg border border-navy-200 bg-white p-4' : 'rechner rounded-lg border border-navy-200 bg-white p-4 sm:p-5'} onSubmit={(e) => e.preventDefault()} aria-label="Next bank holidays" {...(secondary ? { 'data-simulateur-secondaire': '' } : {})}>
       <div className="grid gap-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)]">
-        <div className="grid grid-rows-subgrid row-span-3 content-start gap-y-0">
+        <div className="self-start">
           <label htmlFor="bh-nation" className="mb-1 block text-sm font-medium text-navy-700">Part of the UK</label>
-          <select id="bh-nation" value={nation} onChange={(e) => setNation(e.target.value as Nation)} className="h-12 rounded-lg border border-navy-300 bg-white px-3 text-navy-900">{N.map(([k, l]) => <option key={k} value={k}>{l}</option>)}</select>
+          <select id="bh-nation" value={nation} onChange={(e) => setNation(e.target.value as Nation)} className="h-12 w-full rounded-lg border border-navy-300 bg-white px-3 text-navy-900">{N.map(([k, l]) => <option key={k} value={k}>{l}</option>)}</select>
           <p className="mt-1 text-xs text-navy-600">Wales shares the England list.</p>
         </div>
         <div {...(secondary ? {} : { 'data-resultat': '' })} aria-live="polite" className="rounded-lg bg-accent-50 p-4">

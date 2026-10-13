@@ -1,0 +1,205 @@
+{
+  "slug": "lincolnshire",
+  "name": "Lincolnshire",
+  "officialName": "Lincolnshire County Council",
+  "nation": "england",
+  "region": "East Midlands",
+  "type": "county",
+  "appliesTo": "We set the term dates for all community and voluntary-controlled schools.",
+  "academyNote": "These dates may not apply to voluntary-aided schools, foundation schools, free schools or academies. Check your school's website to confirm.",
+  "localFacts": [
+    {
+      "fact": "Lincolnshire numbers its year in six terms and gives each holiday from the Saturday to the Sunday or Monday before school restarts.",
+      "source": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times"
+    },
+    {
+      "fact": "Lincolnshire's school year starts later than many areas: Thursday 3 September 2026 and Monday 6 September 2027.",
+      "source": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times"
+    },
+    {
+      "fact": "Schools return a day after the New Year bank holiday: on Tuesday 5 January 2027 and Wednesday 5 January 2028.",
+      "source": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times"
+    },
+    {
+      "fact": "The Easter holiday is long and includes the week after Easter: 26 March to 13 April 2027, with term 5 starting on Wednesday 14 April 2027.",
+      "source": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times"
+    },
+    {
+      "fact": "In October 2023 the council changed the 2024-25 term 5 dates for all maintained schools, starting term 5 on Wednesday 23 April 2025, because GCSE exams fell on a non-teaching day.",
+      "source": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times"
+    },
+    {
+      "fact": "The council lists the end of each summer holiday as tbc until the next year's dates are set.",
+      "source": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times",
+        "pageUrl": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times",
+        "via": "direct",
+        "fetchedUrl": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-03",
+          "end": "2026-10-23",
+          "label": "Term 1"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Term 2"
+        },
+        {
+          "start": "2027-01-05",
+          "end": "2027-02-12",
+          "label": "Term 3"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Term 4"
+        },
+        {
+          "start": "2027-04-14",
+          "end": "2027-05-28",
+          "label": "Term 5"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-13"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-03"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The page does not list INSET days. The listed terms hold 190 weekdays once the early May bank holiday is taken out.",
+      "statedDays": null,
+      "notes": "Easter holiday Friday 26 March to Tuesday 13 April 2027. Summer holiday from Thursday 22 July 2027 (end shown as tbc)."
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times",
+        "pageUrl": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times",
+        "via": "direct",
+        "fetchedUrl": "https://www.lincolnshire.gov.uk/school-attendance/school-term-times",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Term 1"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Term 2"
+        },
+        {
+          "start": "2028-01-05",
+          "end": "2028-02-11",
+          "label": "Term 3"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Term 4"
+        },
+        {
+          "start": "2028-04-19",
+          "end": "2028-05-26",
+          "label": "Term 5"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Term 6"
+        }
+      ],
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-18"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The page does not list INSET days.",
+      "statedDays": null,
+      "notes": "Christmas holiday to Tuesday 4 January 2028; Easter holiday Saturday 1 to Tuesday 18 April 2028; summer holiday from Saturday 22 July 2028 (end shown as tbc)."
+    }
+  }
+}

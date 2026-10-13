@@ -1,0 +1,205 @@
+{
+  "slug": "kirklees",
+  "name": "Kirklees",
+  "officialName": "Kirklees Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "metropolitan",
+  "appliesTo": "These term dates apply to community, voluntary controlled and special schools.",
+  "academyNote": "Some schools may have different dates. Academies, free schools, foundation and voluntary aided schools can set their own term dates and they may not be the same as these published dates.",
+  "localFacts": [
+    {
+      "fact": "Kirklees term dates apply to community, voluntary controlled and special schools.",
+      "source": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx"
+    },
+    {
+      "fact": "Each school is also closed for 5 training days a year, and training days differ from school to school.",
+      "source": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx"
+    },
+    {
+      "fact": "Schools used as a polling station on election day, Thursday 6 May 2027, can use one of their training days to close the school.",
+      "source": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx"
+    },
+    {
+      "fact": "The council also flags Thursday 4 May 2028 as an election day for schools used as polling stations.",
+      "source": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx"
+    },
+    {
+      "fact": "The 2026-27 Easter holiday starts on Good Friday, 26 March 2027, and runs to Friday 9 April 2027.",
+      "source": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx"
+    },
+    {
+      "fact": "The 2027-28 summer term ends on Tuesday 25 July 2028, and the end of that summer holiday is still to be confirmed.",
+      "source": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx",
+        "pageUrl": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May day"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school is also closed for 5 training days each year. Training days are different for each school. Schools used as a polling station on Thursday 6 May 2027 can use one of their training days to close.",
+      "statedDays": null,
+      "notes": "Summer holiday: Thursday 22 July to Friday 3 September 2027.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx",
+        "pageUrl": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx",
+        "via": "direct",
+        "fetchedUrl": "https://www.kirklees.gov.uk/beta/schools/school-term-dates.aspx",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-25",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday (not listed on the council page)"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school is also closed for 5 training days each year. Schools used as a polling station on Thursday 4 May 2028 can use one of their training days to close.",
+      "statedDays": null,
+      "notes": "Summer holiday: Wednesday 26 July 2028 to a date to be confirmed.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ]
+    }
+  }
+}

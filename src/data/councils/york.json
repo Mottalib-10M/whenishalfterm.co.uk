@@ -1,0 +1,209 @@
+{
+  "slug": "york",
+  "name": "York",
+  "officialName": "City of York Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "unitary",
+  "appliesTo": "These are the recommended 'school term dates' set for schools in our area; some schools and academies may have different arrangements.",
+  "academyNote": "Schools and academies may choose to adopt different term dates, and school training dates may vary - you must always check with your school to confirm term-time arrangements.",
+  "localFacts": [
+    {
+      "fact": "York recommends that each school year starts on the first Monday in September and is 39 weeks long, giving 195 school days.",
+      "source": "https://www.york.gov.uk/attendance-truancy/school-term-dates"
+    },
+    {
+      "fact": "Dates are set using regionally agreed principles for Yorkshire and the North East, to help families who live, work or go to school in more than one council area.",
+      "source": "https://www.york.gov.uk/attendance-truancy/school-term-dates"
+    },
+    {
+      "fact": "York prioritises keeping differences small with its immediate neighbours, North Yorkshire Council and East Riding of Yorkshire Council.",
+      "source": "https://www.york.gov.uk/attendance-truancy/school-term-dates"
+    },
+    {
+      "fact": "Each school sets its own training or inset days, which may change during the year.",
+      "source": "https://www.york.gov.uk/attendance-truancy/school-term-dates"
+    },
+    {
+      "fact": "In 2026-27 the February half term is early (8 to 12 February 2027) and the summer term ends on Monday 26 July 2027.",
+      "source": "https://www.york.gov.uk/attendance-truancy/school-term-dates/2"
+    },
+    {
+      "fact": "After Christmas 2027 the spring term starts on Wednesday 5 January 2028, and the 2027-28 year ends on Wednesday 26 July 2028.",
+      "source": "https://www.york.gov.uk/attendance-truancy/school-term-dates/3"
+    },
+    {
+      "fact": "The 2026-27 dates were last updated on 10 February 2025 and the 2027-28 dates on 26 February 2026.",
+      "source": "https://www.york.gov.uk/attendance-truancy/school-term-dates/3"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.york.gov.uk/attendance-truancy/school-term-dates/2",
+        "pageUrl": "https://www.york.gov.uk/attendance-truancy/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.york.gov.uk/attendance-truancy/school-term-dates/2",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-07",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-05",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-15",
+          "end": "2027-03-19",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-05",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school sets days for teacher training, or inset days, when they're closed to pupils. Dates are provided by each school and may change during the year.",
+      "statedDays": 195,
+      "notes": "Recommended dates, last updated 10 February 2025. 195 school days per the council's stated recommendation.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-08",
+          "end": "2027-02-12"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-22",
+          "end": "2027-04-02"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-27",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.york.gov.uk/attendance-truancy/school-term-dates/3",
+        "pageUrl": "https://www.york.gov.uk/attendance-truancy/school-term-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.york.gov.uk/attendance-truancy/school-term-dates/3",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-05",
+          "end": "2028-02-18",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-28",
+          "end": "2028-04-07",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-24",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-26",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "Each school sets its own training (inset) days.",
+      "statedDays": 195,
+      "notes": "Recommended dates, last updated 26 February 2026. Spring term starts Wednesday 5 January 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-21",
+          "end": "2028-02-25"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-10",
+          "end": "2028-04-21"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ]
+    }
+  }
+}

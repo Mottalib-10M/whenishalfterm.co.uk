@@ -1,0 +1,209 @@
+{
+  "slug": "sheffield",
+  "name": "Sheffield",
+  "officialName": "Sheffield City Council",
+  "nation": "england",
+  "region": "Yorkshire and The Humber",
+  "type": "metropolitan",
+  "appliesTo": "We're responsible for setting term dates for community and voluntary controlled schools, including special schools.",
+  "academyNote": "We use a common set of term dates across the city, but schools that have their own Admission Authority can set their own term dates and our calendars may not apply to them. These schools include academies, foundations, trusts and voluntary aided schools.",
+  "localFacts": [
+    {
+      "fact": "Sheffield's calendar is approved by the council's Education, Children and Families Policy Committee after a public consultation: 7 May 2025 for 2026-27 and 24 March 2026 for 2027-28.",
+      "source": "https://www.sheffield.gov.uk/schools-childcare/school-information-term-dates"
+    },
+    {
+      "fact": "Sheffield fixes the Easter break at the start of April, so in 2027 it starts on Good Friday, 26 March, and in 2028 on Monday 3 April, before the Easter bank holidays.",
+      "source": "https://www.sheffield.gov.uk/sites/default/files/2026-01/school-calendar-consultation-2027-2028.pdf"
+    },
+    {
+      "fact": "The council's principles include an October half term in the last full week of October or early November and a Christmas break of at least 10 weekdays.",
+      "source": "https://www.sheffield.gov.uk/sites/default/files/2026-01/school-calendar-consultation-2027-2028.pdf"
+    },
+    {
+      "fact": "For 2027-28 the council recommends Wednesday 5 and Thursday 6 July 2028 as Year 7 transition days, though schools may make their own arrangements.",
+      "source": "https://www.sheffield.gov.uk/sites/default/files/2026-01/school-calendar-consultation-2027-2028.pdf"
+    },
+    {
+      "fact": "Each school decides when and how to take its 5 professional development days, which can be a full day, part of a day or training after normal school hours.",
+      "source": "https://www.sheffield.gov.uk/schools-childcare/school-information-term-dates"
+    },
+    {
+      "fact": "Sheffield publishes a framework for religious observance: schools that close for religious holidays must still give all 190 teaching days.",
+      "source": "https://www.sheffield.gov.uk/schools-childcare/school-information-term-dates"
+    },
+    {
+      "fact": "The council compares its proposed 2027-28 holidays with Derbyshire, Doncaster, Rotherham and Barnsley to keep dates aligned across the area.",
+      "source": "https://www.sheffield.gov.uk/sites/default/files/2026-01/school-calendar-consultation-2027-2028.pdf"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.sheffield.gov.uk/sites/default/files/2025-09/approved_sheffield_school_calendar_2026_to_2027.pdf",
+        "pageUrl": "https://www.sheffield.gov.uk/schools-childcare/school-information-term-dates",
+        "via": "wayback",
+        "fetchedUrl": "https://web.archive.org/web/20260607210711id_/https://www.sheffield.gov.uk/schools-childcare/school-information-term-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-01",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-04",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "May Day"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "195 days, including 5 days to be taken as professional development days for teaching staff. Each school decides for itself when and how to take these days.",
+      "statedDays": 195,
+      "notes": "Sheffield's site blocks automated reading; the page and PDF were read from the Wayback Machine copy of 7 June 2026. Month totals on the approved PDF (22, 17, 21, 14, 20, 15, 19, 15, 19, 18, 15) match these sessions.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-01"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-22",
+          "end": "2027-08-31"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.sheffield.gov.uk/sites/default/files/2026-03/approved_sheffield_school_calendar_2027-28.doc",
+        "pageUrl": "https://www.sheffield.gov.uk/schools-childcare/school-information-term-dates",
+        "via": "webfetch",
+        "fetchedUrl": "https://www.sheffield.gov.uk/sites/default/files/2026-03/approved_sheffield_school_calendar_2027-28.doc",
+        "retrieved": "2026-10-13",
+        "format": "doc"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-01",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-04",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-21",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "May Day"
+        }
+      ],
+      "inset": [],
+      "insetMode": "school-chooses",
+      "insetNote": "195 days, including 5 days to be taken as professional development days for teaching staff. Please check with your school for information about inset days.",
+      "statedDays": 195,
+      "notes": "The council page lists the fifth period as ending 'Friday 27 May 2028' and the year as ending 'Wednesday 21 July 2028'; both are typing slips (27 May 2028 is a Saturday, 21 July a Friday). The approved .doc month totals (22, 16, 22, 13, 20, 16, 23, 9, 19, 20, 15) and the consultation letter confirm Friday 26 May and Friday 21 July 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-03"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        }
+      ]
+    }
+  }
+}

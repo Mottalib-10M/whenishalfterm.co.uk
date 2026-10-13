@@ -1,0 +1,210 @@
+{
+  "slug": "westmorland-and-furness",
+  "name": "Westmorland and Furness",
+  "officialName": "Westmorland and Furness Council",
+  "nation": "england",
+  "region": "North West",
+  "type": "unitary",
+  "appliesTo": "Holiday dates can vary slightly. Please check with your school.",
+  "academyNote": "The council page does not mention academies; it says holiday dates can vary slightly and to check with your school.",
+  "localFacts": [
+    {
+      "fact": "Westmorland and Furness publishes term and half term start and finish dates in a table for each school year.",
+      "source": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The council warns that holiday dates can vary slightly and asks parents to check with their school.",
+      "source": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The 2026-27 year starts on Wednesday 2 September 2026, and after Christmas schools return on Tuesday 5 January 2027.",
+      "source": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "The 2026-27 summer term ends early, on Friday 16 July 2027.",
+      "source": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "In 2028 the summer term starts on Tuesday 18 April, the day after Easter Monday, and ends on Thursday 20 July.",
+      "source": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    },
+    {
+      "fact": "Dates for 2028-29 are already published, starting on Wednesday 6 September 2028.",
+      "source": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates"
+    }
+  ],
+  "years": {
+    "2026-27": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "pageUrl": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2026-09-02",
+          "end": "2026-10-23",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2026-11-02",
+          "end": "2026-12-18",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2027-01-05",
+          "end": "2027-02-12",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2027-02-22",
+          "end": "2027-03-25",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2027-04-12",
+          "end": "2027-05-28",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2027-06-07",
+          "end": "2027-07-16",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2027-05-03",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The council page does not mention INSET or training days.",
+      "statedDays": null,
+      "notes": "The year starts on Wednesday 2 September 2026 and the spring term on Tuesday 5 January 2027. The summer term ends on Friday 16 July 2027.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2026-10-26",
+          "end": "2026-10-30"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2026-12-21",
+          "end": "2027-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2027-02-15",
+          "end": "2027-02-19"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2027-03-26",
+          "end": "2027-04-09"
+        },
+        {
+          "name": "May half term",
+          "start": "2027-05-31",
+          "end": "2027-06-04"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2027-07-19",
+          "end": "2027-09-03"
+        }
+      ]
+    },
+    "2027-28": {
+      "status": "published",
+      "source": {
+        "officialUrl": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "pageUrl": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "via": "direct",
+        "fetchedUrl": "https://www.westmorlandandfurness.gov.uk/schools-and-education/school-term-and-holiday-dates",
+        "retrieved": "2026-10-13",
+        "format": "html"
+      },
+      "sessions": [
+        {
+          "start": "2027-09-06",
+          "end": "2027-10-22",
+          "label": "Autumn term (first half)"
+        },
+        {
+          "start": "2027-11-01",
+          "end": "2027-12-17",
+          "label": "Autumn term (second half)"
+        },
+        {
+          "start": "2028-01-05",
+          "end": "2028-02-11",
+          "label": "Spring term (first half)"
+        },
+        {
+          "start": "2028-02-21",
+          "end": "2028-03-31",
+          "label": "Spring term (second half)"
+        },
+        {
+          "start": "2028-04-18",
+          "end": "2028-05-26",
+          "label": "Summer term (first half)"
+        },
+        {
+          "start": "2028-06-05",
+          "end": "2028-07-20",
+          "label": "Summer term (second half)"
+        }
+      ],
+      "closures": [
+        {
+          "date": "2028-05-01",
+          "label": "Early May bank holiday"
+        }
+      ],
+      "inset": [],
+      "insetMode": "not-stated",
+      "insetNote": "The council page does not mention INSET or training days.",
+      "statedDays": null,
+      "notes": "Spring term starts Wednesday 5 January 2028; summer term starts Tuesday 18 April 2028 and ends Thursday 20 July 2028. The 2028-29 year starts on Wednesday 6 September 2028.",
+      "holidays": [
+        {
+          "name": "October half term",
+          "start": "2027-10-25",
+          "end": "2027-10-29"
+        },
+        {
+          "name": "Christmas holidays",
+          "start": "2027-12-20",
+          "end": "2028-01-04"
+        },
+        {
+          "name": "February half term",
+          "start": "2028-02-14",
+          "end": "2028-02-18"
+        },
+        {
+          "name": "Easter holidays",
+          "start": "2028-04-03",
+          "end": "2028-04-17"
+        },
+        {
+          "name": "May half term",
+          "start": "2028-05-29",
+          "end": "2028-06-02"
+        },
+        {
+          "name": "Summer holidays",
+          "start": "2028-07-21",
+          "end": "2028-09-05"
+        }
+      ]
+    }
+  }
+}
