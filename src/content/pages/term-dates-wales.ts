@@ -25,7 +25,7 @@ export default definePage({
   },
   faqs: (h) => [
     { q: 'Do all Welsh councils have the same term dates?', a: 'Neighbouring councils often share the same half terms and Easter, but each council publishes its own calendar, and the first and last days of the year can differ. Check the council page on this site, and the school, since voluntary aided and foundation schools can set their own dates.' },
-    { q: 'How much is the fine for a term-time holiday in Wales?', a: `£${h.P.penalties.wales.reduced} per parent per child if paid within ${h.P.penalties.wales.reducedDays} days, rising to £${h.P.penalties.wales.full} if paid within ${h.P.penalties.wales.fullDays} days, under the Education (Penalty Notices) (Wales) Regulations 2013. Each council's code of conduct sets when a notice can be issued.` },
+    { q: 'How much is the fine for a term-time holiday in Wales?', a: `£${h.P.penalties.wales.reduced} per parent per child if paid within ${h.P.penalties.wales.reducedDays} days, rising to £${h.P.penalties.wales.full} if paid within ${h.P.penalties.wales.fullDays} days, under the Education (Penalty Notices) (Wales) Regulations 2013. Each council's code of conduct sets when a notice can be issued, so the threshold is local rather than national.` },
     { q: 'Are Welsh and English half terms the same week?', a: 'For October and May, usually yes. In 2026-27 the Welsh councils on this site take February half term on 8 to 12 February and Easter from 22 March, a week before most of England. A family with children on both sides of the border should compare the two councils with the tool on this page.' },
   ],
   body: (h) => {
