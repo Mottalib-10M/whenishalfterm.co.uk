@@ -25,7 +25,7 @@ export default function BreakFinder({ initial, names, breakKey, year, secondary 
   const back = b ? nextOpen(council, b.end) : null;
   return (
     <form className="my-4 rounded-lg border border-navy-200 bg-white p-4" onSubmit={(e) => e.preventDefault()} aria-label={`${label} finder`} {...(secondary ? { 'data-simulateur-secondaire': '' } : {})}>
-      <div className="grid gap-4 md:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
+      <div className="grid grid-cols-[minmax(0,1fr)] gap-4 md:grid-cols-[minmax(0,1fr)_minmax(0,1fr)]">
         <div className="grid grid-cols-[minmax(0,1fr)_auto] gap-x-3">
           <CouncilSelect id={`bf-${breakKey}-council`} label="Your council" value={slug} onChange={(v) => pick(v)} names={names} />
           <div className="grid grid-rows-subgrid row-span-3 content-start gap-y-0">

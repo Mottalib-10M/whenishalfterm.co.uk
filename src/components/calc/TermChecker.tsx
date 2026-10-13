@@ -71,7 +71,7 @@ export default function TermChecker({ initial, names, methodHref, councilHrefs, 
 
   return (
     <form className="rechner rounded-lg border border-navy-200 bg-white p-4 sm:p-5" onSubmit={(e) => e.preventDefault()} aria-label={heading ?? 'School open checker'}>
-      <div className="grid gap-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1.15fr)]">
+      <div className="grid grid-cols-[minmax(0,1fr)] gap-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1.15fr)]">
         <div>
           <div className="grid grid-cols-1 gap-x-4 gap-y-3">
             <CouncilSelect id="tc-council" label="Council (local authority)" value={slug} onChange={(v) => pick(v)} names={names} help="The council that runs the state schools where you live." />

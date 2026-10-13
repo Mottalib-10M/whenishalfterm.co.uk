@@ -25,7 +25,7 @@ export default function CompareTool({ a, b, names, methodHref, secondary = false
   const same = A.slug === B.slug;
   return (
     <form className={secondary ? 'my-4 rounded-lg border border-navy-200 bg-white p-4' : 'rechner rounded-lg border border-navy-200 bg-white p-4 sm:p-5'} onSubmit={(e) => e.preventDefault()} aria-label="Compare two councils" {...(secondary ? { 'data-simulateur-secondaire': '' } : {})}>
-      <div className="grid gap-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)]">
+      <div className="grid grid-cols-[minmax(0,1fr)] gap-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)]">
         <div className="grid grid-cols-1 gap-y-3">
           <CouncilSelect id={`${idPrefix}-a`} label="First council" value={A.slug} onChange={(v) => A.pick(v)} names={names} />
           <CouncilSelect id={`${idPrefix}-b`} label="Second council" value={B.slug} onChange={(v) => B.pick(v)} names={names} help="For example the other parent's area, or a school just over the boundary." />

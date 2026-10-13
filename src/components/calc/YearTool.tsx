@@ -18,7 +18,7 @@ export default function YearTool({ initial, names, secondary = false, idPrefix =
   const fl = firstLastDay(council, year);
   return (
     <form className={secondary ? 'my-4 rounded-lg border border-navy-200 bg-white p-4' : 'rechner rounded-lg border border-navy-200 bg-white p-4 sm:p-5'} onSubmit={(e) => e.preventDefault()} aria-label="School year checker" {...(secondary ? { 'data-simulateur-secondaire': '' } : {})}>
-      <div className="grid gap-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)]">
+      <div className="grid grid-cols-[minmax(0,1fr)] gap-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)]">
         <div className="grid grid-cols-[minmax(0,1fr)_auto] gap-x-3">
           <CouncilSelect id={`${idPrefix}-c`} label="Council" value={slug} onChange={(v) => pick(v)} names={names} />
           <div className="grid grid-rows-subgrid row-span-3 content-start gap-y-0">
