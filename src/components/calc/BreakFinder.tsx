@@ -30,9 +30,9 @@ export default function BreakFinder({ initial, names, breakKey, year, secondary 
           <CouncilSelect id={`bf-${breakKey}-council`} label="Your council" value={slug} onChange={(v) => pick(v)} names={names} />
           <div className="grid grid-rows-subgrid row-span-3 content-start gap-y-0">
             <label htmlFor={`bf-${breakKey}-year`} className="mb-1 block text-sm font-medium text-navy-700">School year</label>
-            <select id={`bf-${breakKey}-year`} value={y} onChange={(e) => setY(e.target.value as YearKey)} className="h-12 rounded-lg border border-navy-300 bg-white px-3 text-navy-900">
+            <div className="relative self-start"><select id={`bf-${breakKey}-year`} value={y} onChange={(e) => setY(e.target.value as YearKey)} className="w-full appearance-none truncate h-12 rounded-lg border border-navy-300 bg-white text-navy-900 pl-3 pr-10">
               <option value="2026-27">2026-27</option><option value="2027-28">2027-28</option>
-            </select>
+            </select><svg className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-navy-500" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="M5 7.5l5 5 5-5" strokeLinecap="round" strokeLinejoin="round" /></svg></div>
           </div>
         </div>
         <div {...(secondary ? {} : { 'data-resultat': '' })} aria-live="polite" className="rounded-lg bg-accent-50 p-4">

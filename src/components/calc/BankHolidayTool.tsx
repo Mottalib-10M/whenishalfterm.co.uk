@@ -15,7 +15,7 @@ export default function BankHolidayTool({ secondary = false }: { secondary?: boo
       <div className="grid grid-cols-[minmax(0,1fr)] gap-5 md:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)]">
         <div className="self-start">
           <label htmlFor="bh-nation" className="mb-1 block text-sm font-medium text-navy-700">Part of the UK</label>
-          <select id="bh-nation" value={nation} onChange={(e) => setNation(e.target.value as Nation)} className="h-12 w-full rounded-lg border border-navy-300 bg-white px-3 text-navy-900">{N.map(([k, l]) => <option key={k} value={k}>{l}</option>)}</select>
+          <div className="relative self-start"><select id="bh-nation" value={nation} onChange={(e) => setNation(e.target.value as Nation)} className="h-12 w-full appearance-none truncate rounded-lg border border-navy-300 bg-white text-navy-900 pl-3 pr-10">{N.map(([k, l]) => <option key={k} value={k}>{l}</option>)}</select><svg className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-navy-500" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="M5 7.5l5 5 5-5" strokeLinecap="round" strokeLinejoin="round" /></svg></div>
           <p className="mt-1 text-xs text-navy-600">Wales shares the England list.</p>
         </div>
         <div {...(secondary ? {} : { 'data-resultat': '' })} aria-live="polite" className="rounded-lg bg-accent-50 p-4">

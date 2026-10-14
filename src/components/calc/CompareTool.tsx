@@ -31,7 +31,7 @@ export default function CompareTool({ a, b, names, methodHref, secondary = false
           <CouncilSelect id={`${idPrefix}-b`} label="Second council" value={B.slug} onChange={(v) => B.pick(v)} names={names} help="For example the other parent's area, or a school just over the boundary." />
           <div className="grid grid-rows-subgrid row-span-3 content-start gap-y-0">
             <label htmlFor={`${idPrefix}-y`} className="mb-1 block text-sm font-medium text-navy-700">School year</label>
-            <select id={`${idPrefix}-y`} value={year} onChange={(e) => { setYear(e.target.value as YearKey); updateURL({ a: A.slug, b: B.slug, y: e.target.value }); }} className="h-12 rounded-lg border border-navy-300 bg-white px-3 text-navy-900"><option value="2026-27">2026-27</option><option value="2027-28">2027-28</option></select>
+            <div className="relative self-start"><select id={`${idPrefix}-y`} value={year} onChange={(e) => { setYear(e.target.value as YearKey); updateURL({ a: A.slug, b: B.slug, y: e.target.value }); }} className="w-full appearance-none truncate h-12 rounded-lg border border-navy-300 bg-white text-navy-900 pl-3 pr-10"><option value="2026-27">2026-27</option><option value="2027-28">2027-28</option></select><svg className="pointer-events-none absolute right-3 top-1/2 h-4 w-4 -translate-y-1/2 text-navy-500" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="M5 7.5l5 5 5-5" strokeLinecap="round" strokeLinejoin="round" /></svg></div>
           </div>
         </div>
         <div {...(secondary ? {} : { 'data-resultat': '' })} aria-live="polite" className="rounded-lg bg-accent-50 p-4">
