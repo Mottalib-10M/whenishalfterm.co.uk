@@ -16,7 +16,6 @@ import { rangeText, plainDate, breakOf, BREAK_LABEL, type BreakKey } from '../li
 import { table, groups } from '../lib/helpers';
 import { P } from '../lib/engine/params';
 import { LAST_UPDATED, AUTHOR_NAME } from '../data/site-config';
-import { displayDate } from '../lib/format';
 import { websiteSchema, organizationSchema, faqSchema, webApplicationSchema } from '../lib/seo';
 const lang = 'en';
 const n = COUNCILS.length;
@@ -57,11 +56,11 @@ const sources = [
 ];
 const guides = PAGES.map((p) => ({ href: route(p.id, lang), name: p.nav, card: p.card }));
 ---
-<PageLayout title={title} description={description} lang={lang} jsonLd={jsonLd} faqs={faqs} sources={sources} dateLine={false}>
+<PageLayout title={title} description={description} lang={lang} jsonLd={jsonLd} faqs={faqs} sources={sources}>
   <header class="mb-2">
     <h1 class="text-[1.7rem] font-bold leading-tight text-navy-900 sm:text-3xl md:text-4xl">School term dates 2026-27 and 2027-28, council by council</h1>
     <p class="mt-2 text-navy-700">Is school open on a given day? Pick your council: the answer comes from its own calendar, not a national average.</p>
-    <p data-chrome class="mt-1 text-sm text-navy-600">{n} calendars read on council websites · dates checked on <time datetime={LAST_UPDATED}>{displayDate(LAST_UPDATED, 'en-GB')}</time> · <a class="underline" href={route('method', lang)}>method</a> · <a class="underline" href={route('about', lang)}>about</a></p>
+    <p data-chrome class="mt-1 text-sm text-navy-600">{n} calendars read on council websites · <a class="underline" href={route('method', lang)}>method</a> · <a class="underline" href={route('about', lang)}>about</a></p>
   </header>
   <Clamp text={resume} id="clamp-home" class="mb-3" />
   <div data-chrome class="mb-6"><Tool kind="checker" council="kent" /></div>
