@@ -20,7 +20,7 @@ export const AUTHOR_DESC: Record<string, string> = {"en": "À RÉÉCRIRE"};
 export const KNOWS_ABOUT: Record<string, string[]> = {"en": ["School term dates", "Half term", "INSET days", "Bank holidays", "School attendance penalty notices", "Local education authorities"]};
 export const CONTACT_EMAIL = "contact@whenishalfterm.co.uk";
 export const THEME_COLOR = '#012169';
-export const LOGO_SYMBOL = 'TD';
+export const LOGO_SYMBOL = 'HT';
 export const BING_VERIFY_CODE = '';
 export const GOOGLE_VERIFY_CODE = '';
 /** Régime : 'none' pour tous les sites (RECETTE §15.6, décision de l'éditeur du 2026-10-06) :
