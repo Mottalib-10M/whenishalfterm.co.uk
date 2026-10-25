@@ -6,7 +6,7 @@ import { route } from '../i18n/routes';
 import { SITE_URL, LAST_UPDATED } from '../data/site-config';
 export const GET: APIRoute = () => {
   const lines = [
-    '# Term Dates Finder',
+    '# When Is Half Term',
     '',
     `> School term and holiday dates for 2026-27 and 2027-28, council by council, across England, Scotland, Wales and Northern Ireland. Each calendar is read on the council's own website and stored with its source link and reading date (last ${LAST_UPDATED}). Tools: is school open on a date, countdown to the next break, school days left, comparison of two councils, term-time holiday fine calculator. Published by Radif Partners, an independent publisher; not a council or government site.`,
     '',

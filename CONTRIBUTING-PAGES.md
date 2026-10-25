@@ -1,4 +1,4 @@
-# Ajouter un conseil ou un guide à Term Dates Finder
+# Ajouter un conseil ou un guide à When Is Half Term
 
 Notice pour l'agent qui prolonge le site. À lire avec `~/Documents/GitHub/RECETTE-SITE.md` (§6, §7, §9.3, §11, §21, §26).
 

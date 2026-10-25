@@ -1,6 +1,8 @@
 /** Configuration centrale du site (générée par new-site.py). */
 export const SITE_URL = "https://whenishalfterm.co.uk";
-export const SITE_NAMES: Record<string, string> = {"en": "Term Dates Finder"};
+// Partie du nom en couleur dans l'en-tete ('' = aucune).
+export const BRAND_ACCENT = 'Half Term';
+export const SITE_NAMES: Record<string, string> = {"en": "When Is Half Term"};
 export const LANG_TAGS: Record<string, string> = {"en": "en-GB"};
 export const OG_LOCALES: Record<string, string> = {"en": "en_GB"};
 export const LOCALE_TAG = 'en-GB';
