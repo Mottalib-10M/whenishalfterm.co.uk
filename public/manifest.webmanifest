@@ -1,7 +1,7 @@
 {
  "name": "When Is Half Term",
  "short_name": "When Is Half Term",
- "description": "À RÉÉCRIRE",
+ "description": "School term dates for 119 UK councils: half terms, holidays, INSET days and a checker for any day.",
  "start_url": "/en/",
  "display": "standalone",
  "background_color": "#ffffff",

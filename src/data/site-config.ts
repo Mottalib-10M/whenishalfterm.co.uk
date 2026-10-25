@@ -13,7 +13,7 @@ export const SITE_FOUNDED = '2026';
 export const LAST_UPDATED = '2026-10-13';
 export const AUTHOR_NAME = 'Radif Partners';
 export const AUTHOR_ROLE: Record<string, string> = {"en": "Radif Partners"};
-export const AUTHOR_DESC: Record<string, string> = {"en": "À RÉÉCRIRE"};
+export const AUTHOR_DESC: Record<string, string> = {"en": "Radif Partners builds free tools on top of public data. For When Is Half Term it reads the school calendar of each council on the council's own website, stores it with the address of the page and the day it was read, and checks that the dates hold together before they go live."};
 /** Sujets sur lesquels l'editeur est competent (schema.org knowsAbout). Ce sont les
  *  themes reellement traites par le site, pas une liste de mots-cles : un sujet
  *  declare ici sans page qui le couvre est une declaration fausse. */
